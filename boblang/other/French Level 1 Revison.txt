@@ -1,0 +1,147 @@
+
+
+-- Tips to Remember Words --
+
+<item f="À bientôt" e="See you soon - you'll soon be on the BIg ENd of my TOe[T]"/>
+<item f="À plus tard" e="See you later - said the positively re-tard-ed aligator"/>
+<item f="À demain" e="See U tomorrow - "will bring you sorrow" said the ryhmer "D-Man""/>
+<item f="préfère" e="Prefer - looks like top of a hill"/>	
+<item f="À côté de" e="Beside - looks like a crown"/>	
+<item f="livre libre" e="Book available - remember 'V' as in an opened book + "are there any books available?""/>
+<item f="stylo" e="Pen - french pen's are stylish"/>
+<item f="du matin" e="In the morning - Wee dave martin hates the morning"/>
+<item f="une tasse de" e="a cup of - she loved a tas(ty"/> cup of tea!"/>
+<item f="une bouteille de" e="a bottle of - "classy bird" downed the bo-tay of bucky"/>
+<item f="un verre de" e="a glass of - he thought the glass is VER-RE fair"/>
+<item f="casse-croûtes" e="Snacks - cases & crates of snacks!"/> 
+<item f="célibataire" e="Single - The silly bat was single"/>
+<item f="férié" e="Holiday - lets go on holiday on a fer-ry"/>
+<item f="pourquoi" e="why - Pour (status"/> quo"/>
+<item f="parce que" e="because - Because of the parcel"/>
+<item f="Lieu de naissance" e="Place of Birth - "Lieutenant nuisance" was born there"/>
+<item f="Boulangerie" e="Bakery - Bull wearing lingerie eats a bun!"/>
+<item f="l'alimentation" e="Food section - Ali mentioned he loves food"/>
+<item f="l'épicerie" e="Grocers - Epic but erie - female ghost grocer"/>
+<item f="rez-de-chaussée" e="Ground floor - Rays of shoes"/>
+<item f="Trouver" e="Find - U found a treasure trove"/>
+<item f="Boire" e="To drink - B - ryhmns with trois"/>
+<item f="Manager" e="To eat - jesus was munching in the manger"/>
+<item f="Rester" e="To stay - Stay and rest"/>
+<item f="Vouloir" e="To Want - e.g. je voudrais, tu veux, voulez-vous?"/>
+
+
+Male & Female Words
+-------------------------------------
+secrétaire		fonctionnaire
+dentiste		célibataire
+champagne
+
+-------------------------------------
+		DONE
+Male Words 		Female Words
+-------------------------------------
+Professions
+                                     
+homme au foyer          femme au foyer                                                                    
+garçon                  serveuse 
+vendeur                 vendeuse                                                   
+employé			employée
+étudiant		étudiante
+pharmacien		pharmacienne
+chômeur			chômeuse
+médecin                 vie                                                   
+professeur              retraite   
+
+
+
+-------------------------------------
+		TODO
+Male Words 		Female Words
+-------------------------------------
+
+
+nom                     adresse                                             
+numéro                  maison                                              
+jardin         		école                                                              
+appartement             nationalité                                                  
+garage                  pièces                                                             
+                                     
+                                     
+                                                   
+                                                                    
+bureau                  société                                                       
+usine                   banque                                                   
+hôpital                 école                                                     
+snack      	        clinique 
+magasin    	        pharmacie
+
+mois                    année
+jour			heure                                                                                                  
+printemps               saisons                                         
+lundi ...               nuit
+octobre ...		semaine
+déjeuner		quinzaine
+temps			dates
+                            
+snack			rue    
+camping			avenue 
+château			place
+centre-ville		cathédral
+marché			banque
+musée			mairie
+commissariat		piscine
+restaurant		plage
+vieux quartier		poste
+bus			station essence
+train			gare SNCF
+office de tourisme	gare ferroviaire
+hôtel			gare routière
+aéroport		ville
+			église          
+
+marié			mariée
+séparé			séparée
+divorcé			divorcée
+frère			soeur
+			personne
+
+café			crème
+café noir		bière
+café crème		l'eau minérale plate
+grand crème		l'eau gazeuse
+café au lait		tasse
+thé nature		bouteille
+thé citron		glace
+thé au lait		fraise
+jus d'orange		vanille
+jus de fruit		omelette
+citron pressé		frites
+coca			chips
+vin rouge		fromage
+vin blanc		l'huile d'olive
+vin rosé		bananes
+demi			bananes
+cognac			tomates
+verre de		oranges
+citron			pommes
+chocolat		poires
+gâteau 			pommes de terre
+sandwich		télé
+jambon			brochure
+bonbons
+timbre
+journal
+kilo de
+demi kilo de
+litre de
+paquet de
+morceau de
+cadeau
+souvenir
+parfum
+stylo
+CD
+livre
+béret
+téléphone
+réservation
