@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<project name="boblang" default="archive" basedir=".">
+
+    <description>Little application for testing a language</description>
+
+    <!--
+    ===========================================================================
+    Properties .
+    ===========================================================================
+    -->
+
+    <property file="${basedir}/build.properties"/>
+    
+    <!-- Normal Properties -->
+    <property name="src.dir"    value="${basedir}/src"/>
+    <property name="class.dir"  value="${basedir}/classes"/>
+    <property name="jar.file"   value="${basedir}/dist/boblang.jar"/>
+    
+    <!-- Declare compile, test and test runtime classpaths -->
+    <path id="classpath">
+        <pathelement location="${basedir}/lib/tablelayout.jar"/>
+        <pathelement location="${basedir}/lib/jdom.jar"/>
+    </path> 
+    
+    <!--
+    ===========================================================================
+    Target: init
+    ===========================================================================
+    -->
+    <target name="init">
+        <!-- Create directorys -->
+        <mkdir dir="${basedir}/dist"/>
+        <mkdir dir="${class.dir}"/>
+    </target>
+
+    <!--
+    ===========================================================================
+    Target: clean
+    ===========================================================================
+    -->
+    <target name="clean" description="Delete classes and jar files">
+        <!-- Delete the ${class.dir} directory trees -->
+        <delete dir="${class.dir}"/>
+        <delete file="${jar.file}"/>
+    </target>
+
+    <!--
+    ===========================================================================
+    Target: compile source
+    ===========================================================================
+    -->
+    <target name="compile" depends="init"
+        description="Compile the source">
+
+        <!-- Compile the java code from ${src} into ${classes} -->
+        <javac srcdir="${src.dir}" 
+               destdir="${class.dir}"  
+               debug="${build.debug}"
+               debuglevel="${build.debuglevel}" 
+               source="${build.source}" 
+               target="${build.target}" 
+               deprecation="${build.deprecation}"
+               includeantruntime="false">          
+            <classpath refid="classpath"/>
+            <compilerarg line="${build.extraparams}"/>          
+        </javac>
+    </target>
+
+    <!--
+    ===========================================================================
+    Target: package
+    ===========================================================================
+    -->
+    <target name="archive" depends="compile" description="Package into jar file">
+
+        <copy file="${basedir}/lang.xml" todir="${class.dir}/org/bobmarks/lang"/>
+        <java classpath="${class.dir}" classname="org.bobmarks.xml2java.File2Java">
+          <arg value="lang.xml"/>
+          <arg value="${src.dir}"/>
+          <arg value="org.bobmarks.lang"/>
+          <arg value="BobLangInput"/>
+        </java>
+        <jar jarfile="${jar.file}" update="yes" duplicate="preserve">
+            <!-- Add class  -->
+            <fileset dir="${class.dir}">
+                <include name="**/*.class"/>
+                <include name="**/*.xml"/>
+            </fileset>
+        </jar>
+
+    </target>
+    
+</project>
