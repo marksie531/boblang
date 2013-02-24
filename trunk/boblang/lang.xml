@@ -2847,69 +2847,49 @@ Common special chars:   à â ç é è ê ë î ô ù û
                 <item a="Je suis vraiment désolé" q="I am truly sorry, Sir / Madam"/>
                 <item a="I am going to send you the maid" q="Je vais vous envoyer la femme de chambre"/>
             </topic>
-Official letters - Where is the address of sender (answer in english)?
-Official letters - Where is the address of recipient (answer in english)?
-Official letters - Where is the date (answer in english)?
-Dear Sir
-Dear Madam
-Dear Sir or Madam
-Dear Mrs Brown
-Dear Mr Green
-I would like
-to hire / rent
-to reserve / book
-to know
-to change
-Please (would you - imperative)
-Please (lit. I pray you well want)
-I would be grateful
-Please let me know
-Please let me know
-if it would be possible
-send me a brochure
-Could you send me a brochure?
-I have to change th dates
-I woul dbe grateful if you could
-change myu booking
-to the following day
-to the following week
-to the following dates
-Would it be possible to change the dates?
-My flight arrives at
-from the 13th to the 18th inclusive
-instead of
-We leave on the
-Please find enclosed
-I am enclosing
-a deposit
-a 100 euro deposit
-Thank you in anticipation
-
-Formal ending (todo)
-
------ french ------
-Top left
-Right
-Right
-Monsieur
-Madame
-Monsieur / Madame
-Chère Madame
-Chère
-Je voudrais
-louer
-réserver
-savoir
-changer
-Veuillez
-Je vous prie de bien vouloir
-Je vous serais reconnaissant de
-Veuillez me faire savoir
-Je vous prie de me faire savoir
-s'il serait possible de
-M'envoyer une brochure
-
-
+            <topic name="Official Letters (1)">
+                <item a="Top left" q="Official letters - Where is the address of sender (answer in english)?"/>
+                <item a="Right" q="Official letters - Where is the address of recipient (answer in english)?"/>
+                <item a="Right" q="Official letters - Where is the date (answer in english)?"/>
+                <item a="Monsieur" q="Dear Sir"/>
+                <item a="Madame" q="Dear Madam"/>
+                <item a="Monsieur / Madame" q="Dear Sir or Madam"/>
+                <item a="Chère Madame" q="Dear Mrs Brown"/>
+                <item a="Chère" q="Dear Mr Green"/>
+                <item a="Je voudrais" q="I would like"/>
+                <item a="louer" q="to hire / rent"/>
+                <item a="réserver" q="to reserve / book"/>
+                <item a="savoir" q="to know"/>
+                <item a="changer" q="to change"/>
+                <item a="Veuillez" q="Please (would you - imperative)"/>
+                <item a="Je vous prie de bien vouloir" q="Please (lit. I pray you well want)"/>
+                <item a="Je vous serais reconnaissant de" q="I would be grateful"/>
+                <item a="Veuillez me faire savoir" q="Please let me know"/>
+                <item a="Je vous prie de me faire savoir" q="Please let me know"/>
+                <item a="s'il serait possible de" q="if it would be possible"/>
+            </topic>
+            <topic name="Official Letters (2)">
+                <item a="M'envoyer une brochure" q="send me a brochure"/>
+                <item a="Pouvez-vous m'envoyer une brochure" q="Could you send me a brochure?"/>
+                <item a="Je suis obligé de changer les dates" q="I have to change the dates (lit. I am obliged of to change the dates)"/>
+                <item a="Je vous serais reconnaissant de " q="I would be grateful if you could"/>
+                <item a="changer ma réservation" q="change my booking"/>
+                <item a="au lendemain" q="to the following day"/>
+                <item a="à la semaine suivante" q="to the following week"/>
+                <item a="aux dates suivantes" q="to the following dates"/>
+                <item a="Serait-il possible de changer les dates?" q="Would it be possible to change the dates?"/>
+                <item a="Mon avion arrive" q="My flight arrives at"/>
+                <item a="du 13 au 18 inclus" q="from the 13th to the 18th inclusive"/>
+                <item a="au lieu de" q="instead of"/>
+                <item a="Nous partons le" q="We leave on the"/>
+                <item a="Veuillez trouver ci-joint" q="Please find enclosed"/>
+                <item a="Je joins " q="I am enclosing"/>
+                <item a="des arrhes" q="a deposit"/>
+                <item a="100 euros d'arrhes" q="a 100 euro deposit"/>
+                <item a="Je vous remercie à l'avance" q="Thank you in anticipation"/>
+                <item a="Je vous prie d'agréer, Madame / Monsieur, l'expression de mes salutations distinquées" q="Formal ending "/>
+                <item a="Je m'excuse de tout inconvénient causé" q="I am sorry for any inconvenience caused"/>
+            </topic>
         </lesson>
     </course>
 </language>
