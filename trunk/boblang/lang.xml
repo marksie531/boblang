@@ -1,17 +1,7 @@
 <?xml version="1.0"?>
 
 <!--
-
-Who             Qui         kee
-What            Quoi        kwah
-Why             Pourquoi    poor-kwah
-When            Quand       kawn
-Where           Où          ooh
-How             Comment     kohn-mawn
-How much / many Combien     kohn-bee-ahn
-Which / what    Quel(le)    kehl
-
-Common special chars:   à â ç é è ê ë î ô ù û
+French Course at Belfast Metropolitan College (Levels 1,2,3)
  -->
 
 <language name="french" specialchars="àâçéèêëîôùû">
@@ -1852,9 +1842,6 @@ Common special chars:   à â ç é è ê ë î ô ù û
         </lesson>
     </course>
 
-
-
-
     <!--
     =========================================================================================
     LEVEL 3
@@ -2271,6 +2258,7 @@ Common special chars:   à â ç é è ê ë î ô ù û
                 <item a="directeur" q="company director"/>
                 <item a="fonctionnaire" q="civil servant"/>
                 <item a="chauffeur" q="chauffeur"/>
+                <item a="programmeur d'ordinateur" q="computer programmer"/>
             </topic>
             <topic name="Occupation (2)">
                 <item a="mécanicien" q="mechanic (m)"/>
@@ -2831,7 +2819,7 @@ Common special chars:   à â ç é è ê ë î ô ù û
                 <item a="Je vais vous envoyer" q="I will send you (lit. I am going you to send)"/>
             </topic>
         </lesson>
-        <lesson name="">
+        <lesson name="Week 18">
             <topic name="Accomodation (Complaints / Camping)">
                 <item a="Vous avez des réclamations?" q="Do you have any complaints? "/>
                 <item a="J'ai une réclamation" q="I have a complaint"/>
@@ -2890,6 +2878,117 @@ Common special chars:   à â ç é è ê ë î ô ù û
                 <item a="Je vous prie d'agréer, Madame / Monsieur, l'expression de mes salutations distinquées" q="Formal ending "/>
                 <item a="Je m'excuse de tout inconvénient causé" q="I am sorry for any inconvenience caused"/>
             </topic>
+        </lesson>
+        <lesson name="Week 19">
+            <topic name="Shopping (Shop types)">
+                <item a="Faire les courses" q="Going Shopping"/>
+                <item a="Il y a une boulangerie par ici?" q="Is there a bakery by here?"/>
+                <item a="Le magasin" q="The shop"/>
+                <item a="Le supermarché" q="The supermarket"/>
+                <item a="Le grand magasin" q="The department store (lit. the big shop)"/>
+                <item a="La boutique" q="The boutique"/>
+                <item a="Le centre commercial" q="The shopping centre"/>
+                <item a="La boulangerie" q="The bakery"/>
+                <item a="La pâtisserie" q="The cake shop"/>
+                <item a="La boucherie" q="The butcher's"/>
+                <item a="La charcuterie" q="The butcher's (cold / cured meats)"/>
+                <item a="L'épicerie" q="The grocer's"/>
+                <item a="Le marchand de fruits" q="The fruit shop (lit. The merchant of fruit)"/>
+                <item a="La pharmacie" q="The chemist's shop"/>
+                <item a="La librairie" q="Bookshop"/>
+                <item a="Le tabac" q="The tobacconist's (newsagent)"/>
+            </topic>
+            <topic name="Shopping (Where can I buy?)">
+                <item a="Où est-ce qu'on peut acheter?" q="Where can I buy? (+QW) (lit. where is it that one can buy?)"/>
+                <item a="Au rayon de l'alimentation on peut acheter" q="In the food section you can buy (lit. In the section of the food one can buy)"/>
+                <item a="de la viande" q="Meat"/>
+                <item a="du poisson" q="Fish"/>
+                <item a="des fruits" q="Fruit"/>
+                <item a="des légumes" q="Vegetables"/>
+                <item a="de l'alcool" q="Alcohol"/>
+                <item a="du vin" q="Wine"/>
+                <item a="du fromage" q="Cheese"/>
+                <item a="des produits laitiers" q="Diary products"/>
+                <item a="des fruits secs" q="Nuts (lit. fruits dried)"/>
+                <item a="des noix, noisettes" q="Walnuts, hazelnuts"/>
+                <item a="la pâtisserie" q="Pastries"/>
+                <item a="du parfum" q="Perfume"/>
+                <item a="des jouets" q="Toys"/>
+                <item a="un gâteau. les gâteaux" q="A cake. The cakes"/>
+                <item a="des livres" q="Books"/>
+            </topic>
+            <topic name="Shopping (Where can I find?)">
+                <item a="Excusez-moi, où se trouve?" q="Excuse me, where can I find? (lit. excuse me, where is found?)"/>
+                <item a="Au sous-sol" q="In the basement"/>
+                <item a="Au rez-de-chaussée" q="On the ground floor"/>
+                <item a="Au premier étage" q="On the first floor"/>
+                <item a="Au deuxième étage" q="On the second floor"/>
+                <item a="Au rayon des jouets" q="In the toys department (lit. in the section of toys)"/>
+                <item a="Allez à la caisse" q="Go to the cashier"/>
+                <item a="Ça coûte combien?" q="How much is it? (lit. It costs how much?)"/>
+                <item a="Je vous dois combien?" q="How much do I owe you? (lit. I owe (must) you how much?)"/>
+                <item a="Vous n'avez rien de moins cher?" q="Do you have anything cheaper? (You have not nothing of less dear?)"/>
+                <item a="Je peux l'échanger?" q="Can I exchange it? (lit. I can it exchange?)"/>
+                <item a="Pouvez-vous me donner un reçu?" q="Can you give me a receipt?"/>
+                <item a="Gratuit" q="Free"/>
+                <item a="Promotions" q="Promotions"/>
+                <item a="prix promotionnel" q="Special price (lit. price promotional)"/>
+                <item a="Des soldes" q="Sales"/>
+                <item a="Je vais payer par carte de crédit" q="I will pay by credit card (lit. I am going to pay by card of credit)"/>
+                <item a="Distributeur Automatique" q="Dispensing Machine (lit. Distributor automatic)"/>
+                <item a="Mode d'emploi" q="Instructions (lit. Mode of Manual)"/>
+                <item a="Sélectionnez votre boisson" q="Select drink (lit. Select your drink)"/>
+                <item a="Tapez le code" q="Enter code (lit. type the code)"/>
+                <item a="Introduisez les pièces dans la fente" q="Put coins in slot (lit. Insert the pieces in the slot)"/>
+                <item a="Poussez le bouton pour obtenir votre monnaie" q="Push button for your change (lit. Push the button to obtain your money)"/>
+            </topic>
+        </lesson>
+        <lesson name="Week 20">
+            <topic name="Traval / Transport (1)">
+                <item a="Qu'est-ce qui se passe?" q="What is wrong? (lit. What's going on?)"/>
+                <item a="Quel est le problème?" q="What is the problem?"/>
+                <item a="Il vous faut" q="You need (formal) (to be neccessary)"/>
+                <item a="Il tu faut" q="You need (in formal) (to be neccessary)"/>
+                <item a="Ma voiture est en panne" q="My car has broken down (lit. my car is broken)"/>
+                <item a="J'ai un pneu crevé" q="I have a puncture (lit. I have a tyre flat)"/>
+                <item a="La batterie est morte" q="The battery is dead"/>
+                <item a="Je suis en panne d'essence" q="I've run out petrol (lit. I am down (broken) of petrol)"/>
+                <item a="Il me faut de l'essence" q="I need petrol (to be necessary) (lit. I am in need of the petrol)"/>
+                <item a="Vingt litres de gasoil" q="Twenty litres of diesal"/>
+                <item a="25 euros d'essence sans plomb" q="25 euros of unleaded (25 euros of gas without lead)"/>
+                <item a="Pouvez-vous réparer?" q="Can you repair?"/>
+                <item a="La voiture" q="The car"/>
+                <item a="Pouvez-vous vérifier?" q="Can you check?"/>
+                <item a="Les freins" q="The brakes"/>
+                <item a="Les pneus" q="The tyres"/>
+                <item a="La pression des pneus" q="The type pressure (lit. the pressure of the tyres)"/>
+                <item a="Pouvez-vous changer un pneu?" q="Can you change a tyre?"/>
+                <item a="L'eau" q="The water"/>
+                <item a="L'huile" q="The oil"/>
+            </topic>
+            <topic name="Traval / Transport (2)">
+                <item a="Pouvez-vous envoyer un mécanicien immédiatement?" q="Can you send a mechanic immediately?"/>
+                <item a="Ça va coûter combien?" q="It is going to cost how much?"/>
+                <item a="Ça va coûter " q="It is going to cost"/>
+                <item a="Ça va prendre combien de temps pour la réparer?" q="How long is it going to take to repair it? (lit. It is going to take how much of time for it to repair?)"/>
+                <item a="Quand sera-t-il prêt?" q="When will it be ready? (m)"/>
+                <item a="Quand sera-t-ellle prête?" q="When will it be ready? (f)"/>
+                <item a="Je voudrais louer une voiture" q="I would like to hire a car"/>
+                <item a="Pour deux jours" q="For two days"/>
+                <item a="Pour une semaine" q="For a week"/>
+                <item a="Une grosse voiture" q="A big car"/>
+                <item a="Une petite voiture" q="A small car"/>
+                <item a="L'assurance couvre quoi?" q="What does the insurance cover? (lit. The insurance covers what?)"/>
+                <item a="C'est inclus dans l'assurance?" q="Is it included in the insurance?"/>
+                <item a="L'assurance vol" q="Theft insurance (lit. The insurance theft)"/>
+                <item a="L'assurance au tiers" q="Third party damage (lit. The insurance at the third)"/>
+                <item a="L'assurance tous risques" q="Fully comprehensive insurance (lit. The insurance all risks)"/>
+                <item a="Votre passeport / carte d'identité" q="Your passport / ID card (lit. ... / card of identity)"/>
+                <item a="Le permis de conduire" q="The driving license (lit. the permit of driving)"/>
+                <item a="Le kilométrage est en plus?" q="Is the mmileage extra? (lit. The mileage is more?)"/>
+                <item a="Quel est le tarif par jour?" q="What is the daily tariff? (lit. What is the tarriff per day)?"/>
+                <item a="Puis-je rendre la voiture à Rennes?" q="Can I return the car in Rennes?"/>
+            </topic>            
         </lesson>
     </course>
 </language>

@@ -19,7 +19,7 @@ public class BobLang extends JFrame {
 	
 	private static final long serialVersionUID = -6252615033771245711L;
 	private static final String LANG_FILE = "lang.xml";
-	//private static final String LANG_FILE = "michel_thomas.xml";
+	//private static final String LANG_FILE = "mt_advanced.xml";
 	
 	private BobLangPanel langPanel;
 	
