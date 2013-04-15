@@ -2950,18 +2950,18 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="Il vous faut" q="You need (formal) (to be neccessary)"/>
                 <item a="Il tu faut" q="You need (in formal) (to be neccessary)"/>
                 <item a="Ma voiture est en panne" q="My car has broken down (lit. my car is broken)"/>
-                <item a="J'ai un pneu crevé" q="I have a puncture (lit. I have a tyre flat)"/>
+                <item a="J'ai un pneu crevé" q="I have a puncture (lit. I have a tyre flat)" h="the european tyre has the flu"/>
                 <item a="La batterie est morte" q="The battery is dead"/>
                 <item a="Je suis en panne d'essence" q="I've run out petrol (lit. I am down (broken) of petrol)"/>
-                <item a="Il me faut de l'essence" q="I need petrol (to be necessary) (lit. I am in need of the petrol)"/>
-                <item a="Vingt litres de gasoil" q="Twenty litres of diesal"/>
-                <item a="25 euros d'essence sans plomb" q="25 euros of unleaded (25 euros of gas without lead)"/>
+                <item a="Il me faut de l'essence" q="I need petrol (to be necessary) (lit. I am in need of the petrol)" h="gas / petrol => essence"/>
+                <item a="Vingt litres de gasoil" q="Twenty litres of diesal" h="diesal => gas + oil"/>
+                <item a="25 euros d'essence sans plomb" q="25 euros of unleaded (25 euros of gas without lead)" h="the PLOMB lead lady"/>
                 <item a="Pouvez-vous réparer?" q="Can you repair?"/>
                 <item a="La voiture" q="The car"/>
                 <item a="Pouvez-vous vérifier?" q="Can you check?"/>
-                <item a="Les freins" q="The brakes"/>
+                <item a="Les freins" q="The brakes" h="brake by Fetching RIENS"/>
                 <item a="Les pneus" q="The tyres"/>
-                <item a="La pression des pneus" q="The type pressure (lit. the pressure of the tyres)"/>
+                <item a="La pression des pneus" q="The type pressure (lit. the pressure of the tyres)" h="to create pressure => PRESSi ON"/>
                 <item a="Pouvez-vous changer un pneu?" q="Can you change a tyre?"/>
                 <item a="L'eau" q="The water"/>
                 <item a="L'huile" q="The oil"/>
@@ -2969,46 +2969,178 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
             <topic name="Traval / Transport (2)">
                 <item a="Pouvez-vous envoyer un mécanicien immédiatement?" q="Can you send a mechanic immediately?"/>
                 <item a="Ça va coûter combien?" q="It is going to cost how much?"/>
-                <item a="Ça va coûter " q="It is going to cost"/>
+                <item a="Ça va coûter" q="It is going to cost"/>
                 <item a="Ça va prendre combien de temps pour la réparer?" q="How long is it going to take to repair it? (lit. It is going to take how much of time for it to repair?)"/>
                 <item a="Quand sera-t-il prêt?" q="When will it be ready? (m)"/>
-                <item a="Quand sera-t-ellle prête?" q="When will it be ready? (f)"/>
+                <item a="Quand sera-t-elle prête?" q="When will it be ready? (f)"/>
                 <item a="Je voudrais louer une voiture" q="I would like to hire a car"/>
                 <item a="Pour deux jours" q="For two days"/>
                 <item a="Pour une semaine" q="For a week"/>
                 <item a="Une grosse voiture" q="A big car"/>
                 <item a="Une petite voiture" q="A small car"/>
-                <item a="L'assurance couvre quoi?" q="What does the insurance cover? (lit. The insurance covers what?)"/>
-                <item a="C'est inclus dans l'assurance?" q="Is it included in the insurance?"/>
-                <item a="L'assurance vol" q="Theft insurance (lit. The insurance theft)"/>
+                <item a="L'assurance couvre quoi?" q="What does the insurance cover? (lit. The insurance covers what?)" h="The insurnce => gives ASSURANCE"/>
+                <item a="C'est inclus dans l'assurance?" q="Is it included in the insurance? (lit. It is ...)"/>
+                <item a="L'assurance vol" q="Theft insurance (lit. The insurance theft)" h="The thief got shocked with many VOLts"/>
                 <item a="L'assurance au tiers" q="Third party damage (lit. The insurance at the third)"/>
                 <item a="L'assurance tous risques" q="Fully comprehensive insurance (lit. The insurance all risks)"/>
                 <item a="Votre passeport / carte d'identité" q="Your passport / ID card (lit. ... / card of identity)"/>
-                <item a="Le permis de conduire" q="The driving license (lit. the permit of driving)"/>
-                <item a="Le kilométrage est en plus?" q="Is the mmileage extra? (lit. The mileage is more?)"/>
+                <item a="Le permis de conduire" q="The driving license (lit. the permit of driving)" h="drive the spider up the pipe (CONDUIt RE) ~"/>
+                <item a="Le kilométrage est en plus?" q="Is the mileage extra? (lit. The mileage is more?)"/>
                 <item a="Quel est le tarif par jour?" q="What is the daily tariff? (lit. What is the tarriff per day)?"/>
                 <item a="Puis-je rendre la voiture à Rennes?" q="Can I return the car in Rennes?"/>
-            </topic>            
+            </topic>
+        </lesson>
+        <lesson name="Week 21">
+            <topic name="Traffic Signs">
+                <item a="Les panneaux de signalisation" q="Traffic Signs (lit. the panels of signaling)"/>
+                <item a="Sens unique" q="One way only (lit. direction unique)" h="Daves awesome direction SENSor"/>
+                <item a="Passage piétons" q="Pedestrian crossing (lit. passage pedestrian)" h="The PIE weighed TONS said the fat pedestrian"/>
+                <item a="Sens interdit" q="No entry (lit. direction prohibited)" h="You are prohibited to INTER replied the Dublin Institute of Technology"/>
+                <item a="Cédez le passage" q="Give way (lit. yield from passage)" h="The fox yielded another batch CiDer ~"/>
+                <item a="Station service à 200 mètres" q="Service station in 200 metres (lit. station service at 200 metres)"/>
+                <item a="Route barrée" q="Road closed (lit. road barred)" h="The road is ROUTE 69 dude!"/>
+                <item a="La déviation" q="The diversion"/>
+                <item a="La sortie" q="The exit"/>
+                <item a="L'autoroute" q="The motorway"/>
+                <item a="La route principale" q="The main road (lit. The road principle)"/>
+                <item a="Ralentir" q="Reduce your speed (lit. to slow down)"/>
+                <item a="Voie sans issue" q="No way through (lit. lane without outcome)"/>
+                <item a="Le feu" q="The traffic light (lit. the light)"/>
+                <item a="Les feux" q="The traffic lights (lit. the lights)"/>
+                <item a="Stationnement interdit" q="No parking (lit. parking prohibited)"/>
+            </topic>
+            <topic name="Public Transport (1)">
+                <item a="La gare SNCF" q="The railway station (in France)"/>
+                <item a="La gare ferroviaire" q="The railway station (outside of France)"/>
+                <item a="Le train" q="Train"/>
+                <item a="Le métro" q="The underground"/>
+                <item a="Un plan de métro" q="A map of the tube"/>
+                <item a="C'est quelle ligne?" q="What line? (lit. It is what line?)"/>
+                <item a="Est-ce que je dois descendre?" q="Do I have to change? (+QW) (lit. I must descend?)"/>
+                <item a="Où est-ce que je dois descendre?" q="Where do i have to get off? (lit. where is it that i must descend?)"/>
+                <item a="Vous devez" q="You must (formal)"/>
+                <item a="Tu dois" q="You must (informal)"/>
+                <item a="Entrée" q="Entrance"/>
+                <item a="Sortie" q="Exit"/>
+                <item a="Correspondances" q="Connections"/>
+                <item a="Un forfait journée" q="A day pass"/>
+                <item a="Où puis-je trouver des renseignements sur" q="Where can I find information on"/>
+                <item a="J'ai besoin de renseignements sur" q="I need information about (lit. I have need of information on)"/>
+                <item a="Le bureau des objets trouvés" q="Lost property office (lit. The office of objects found)"/>
+            </topic>
+            <topic name="Public Transport (2)">
+                <item a="J'ai perdu" q="I've lost"/>
+                <item a="Mon billet" q="My ticket"/>
+                <item a="Ma valise" q="My suitcase"/>
+                <item a="Mon porte-feuille" q="My wallet (my holder leaf)"/>
+                <item a="Mon porte-monnaie" q="My purse (my holder currency)"/>
+                <item a="Mes lunettes" q="My glasses"/>
+                <item a="Mes lunettes de soleil" q="My sunglasses (lit. glasses of sun)"/>
+                <item a="Mon sac à main" q="My handbag (lit. my bag in hand)"/>
+                <item a="Ma bague" q="My ring"/>
+                <item a="Mon appareil-photo" q="My camera (lit. my apparatus photo)"/>
+                <item a="Mes gants" q="My gloves"/>
+                <item a="Mon ordinateur portable" q="My laptop"/>
+                <item a="Ma montre" q="My watch"/>
+                <item a="Où l'avez-vous perdu?" q="Where have you lost it? (lit. where it have you lost?)"/>
+                <item a="Où les avez-vous perdu?" q="Where have you lost them? (lit. where they have you lost?)"/>
+                <item a="Où l'avez-vous perdu?" q="When have you lost it? (lit. when it have you lost?) (m)"/>
+                <item a="Elle est comment?" q="What is it like? (f)"/>
+                <item a="Ils sont comment?" q="What are they like? (m)"/>
+            </topic>
+            <topic name="Public Transport (3)">
+                <item a="Il est en cuir" q="It is made of leather (lit. it is of leather) (m)"/>
+                <item a="Il est en plastique" q="It is made of plastic (lit. it is of ) (m)"/>
+                <item a="Il est en métal" q="It is made of metal (lit. it is of ) (m)"/>
+                <item a="Il est en or" q="It is made of gold (lit. it is of ) (m)"/>
+                <item a="Il est en argent" q="It is made of silver (lit. it is of ) (m)"/>
+                <item a="Il est en laine" q="It is made of wool (lit. it is of ) (m)"/>
+                <item a="Elle est verte" q="It is green (f)"/>
+                <item a="Il est de quelle couleur?" q="What colour is it? (lit. It is of what colour?) (m)"/>
+                <item a="Elles sont de quelle couleur?" q="What colour are they? (lit. They are of what colour?) (f)"/>
+                <item a="Hier" q="Yesterday"/>
+                <item a="Cet après-midi" q="This afternoon"/>
+                <item a="Pouvez-vous me donner vos coordonnées?" q="Can you give me your details"/>
+            </topic>
+        </lesson>
+        <lesson name="Week 22">
+            <topic name="Health And Welfare (General)">
+                <item a="La maladie / La santé" q="Sickness / Health"/>
+                <item a="Vous pouvez m'aider?" q="Can you help me? (lit. you can me help?)"/>
+                <item a="Qu'est-ce qu'il y a?" q="What's wrong? (lit. what is there?) (+QW)"/>
+                <item a="Qu'est-ce que vous avez?" q="What do you have? (+QW)"/>
+                <item a="Je ne vais pas très bien" q="I don't feel well (lit. I am not going very well)"/>
+                <item a="Je ne me sens pas bien" q="I don't feel well (lit. I myself do not feel well)"/>
+                <item a="Où est la pharmacie de garde?" q="Where is the chemist after hours (lit. chemist on call)"/>
+                <item a="Où est la pharmacie de nuit?" q="Where is there an all night chemist? (lit. chemist of night)"/>
+                <item a="Il y a une pharmacie près d'ici?" q="Is there a chemist near here?"/>
+                <item a="Il y a un médecin près d'ici?" q="Is there a doctor near here?"/>
+                <item a="Il y a un hôpital près d'ici?" q="Is there a hospital near here?"/>
+                <item a="Pouvez-vous téléphoner à un médecin?" q="Can you phone a dcotor?"/>
+                <item a="Une ambulance" q="An ambulance?"/>
+                <item a="Une infirmière" q="A nurse" h="Nurse IaN had a FIRM EaR"/>
+                <item a="Le dentiste" q="The dentist"/>
+                <item a="Puis-je prendre rendez-vous pour?" q="Can I have an appointment for? (lit. Can I take appointment for)"/>
+                <item a="Je me sens mal" q="I feel faint  (lit. I feel ill)"/>
+                <item a="J'ai un rhume" q="I have a cold" h="The Room was so cold it give me the cold"/>
+                <item a="J'ai attrapé un coup de soleil" q="I have got sunburnt (lit. I have caught a stroke of sun)" h="To catch a rabbit AT the TRAP"/>
+                <item a="J'ai une insolation" q="I have sunstroke" h="The insolent child did not listen and caught sunstroke"/>
+            </topic>
+            <topic name="Health And Welfare (Body)">
+                <item a="J'ai très mal au dos" q="I have a very bad back (lit. I have very ill at the back)" h="The hunchback hated Windows but loved DOS"/>
+                <item a="J'ai mal à l'estomac" q="I have a sore stomach (lit. I have ill at the stomach)"/>
+                <item a="J'ai mal à la gorge" q="I have a sore throat (lit. I have ill at the throat)" h="He GORGEd so much food that it stuck in his throat"/>
+                <item a="J'ai mal au cou" q="I have a sore neck (lit. I have ill at the neck)" h="He kissed her neck but she COUghed on his head!"/>
+                <item a="J'ai mal à la tête" q="I have a headache (lit. I have ill at the headache)" h="Too much TEtley TEa gives a sore head!"/>
+                <item a="J'ai mal aux dents" q="I have toothache. (lit. I have ill at the teeth)"/>
+                <item a="J'ai mal à une dent" q="I have a sore tooth. (lit. I have ill at a tooth)"/>
+                <item a="Ça vous fait mal où?" q="Where does it hurt? (lit. It you makes ill where?)"/>
+                <item a="Ça fait mal?" q="Does it hurt? (lit. It makes ill?)"/>
+                <item a="Oui, ça me fait mal" q="Yes it hurts (lit. yes, it me makes ill)"/>
+                <item a="J'ai mal au poignet" q="My wrist hurts (lit. I have ill at the wrist)" h="POly pIG went fishing but got her wrist caught in the NET!!!"/>
+                <item a="Je pense que je me suis fracturé le pied" q="I think that I have fractured my foot (lit. I think that I am fractured the foot)"/>
+                <item a="Je pense que je me suis cassé le bras" q="I think that I have broken my arm (lit. I think that I am broken the arm)" h="You need arms to put on BRAS!"/>
+                <item a="Je pense que je me suis brûlé la jambe" q="I think that I have burned my leg (lit. I think that I am broken the leg)" h="tap your leg and JAM to the BEat!"/>
+                <item a="La cheville" q="ankle" h="The posh horse (CHEval)in the VILLE had sore ankle"/>
+                <item a="L'oeil" q="eye" h="Dont get OIL in your Eye!"/>
+                <item a="Le coude" q="elbow" h="Elbow your way through the CrOUds"/>
+                <item a="Le nez" q="nose"/>
+                <item a="Le doigt" q="finger"/>
+                <item a="La main" q="hand" h="Your hand is your MAIN weapon"/>
+                <item a="L'oreille" q="ear" h="iron ORE makes your ears ILL"/>
+                <item a="J'ai la main gonflée" q="My hand is swollen (lit. I have the hand swollen)" h="The talented GONG FLEE's made me swell with pride!"/>
+                <item a="J'ai la cheville gonflée" q="My ankle is swollen (lit. I have the ankle swollen)"/>
+            </topic>
+            <topic name="Health And Welfare (Prescription)">
+                <item a="Je vais vous donner une ordonnance" q="I'm going to give you a prescription" h="ORDinary DONNA once got a prescription"/>
+                <item a="Voici votre ordonnance" q="Here is your prescription"/>
+                <item a="Achetez ces médicaments à la pharmacie" q="Buy these medicines in the chemist's" h="The MEDICA went MENTal when on medicines!!!"/>
+                <item a="Prendez des comprimés deux fois par jour" q="Take some tablets twice a day" h="The tablet COMPRIsed of a MEmorial Song"/>
+                <item a="Prendez ce médicament avant / après le déjeuner" q="Take this medicine before / after lunch"/>
+                <item a="Une heure avant / après les repas" q="One hour before / after meals (lit. ... after the meals)"/>
+                <item a="Combien de fois par jour?" q="How many times a day?"/>
+                <item a="Une fois par jour" q="Once a day"/>
+                <item a="Trois fois par jour" q="Three times a day"/>
+                <item a="Buvez des boissons chaudes" q="Take hot drinks (lit. drink some drinks hot)"/>
+                <item a="Revenez dans 5 jours" q="Come back in 5 days "/>
+                <item a="Avez-vous quelque chose pour la fièvre?" q="Do you have anything for temperature? (lit. have you something for the fever?)"/>
+                <item a="Avez-vous quelque chose pour les coups de soleil?" q="Do you have anything for sunburn? (lit. have you something for the strokes of sun?)" h="people are being stroked when buying without COUPonS"/>
+                <item a="Avez-vous quelque chose pour la toux?" q="Do you have anything for a cough? (lit. have you something for the cough?)" h="Cough one more time and I'll kick you with my big TOe"/>
+                <item a="Je me sens mieux" q="I feel better"/>
+                <item a="Donnez-moi" q="Give me"/>
+                <item a="Une aspirine" q="An aspirin"/>
+                <item a="Je voudrais aussi des sparadraps" q="I'd also like some plasters" h="After battle SPARAtcus was DRAPped in plasterS!!!"/>
+                <item a="Du sirop pour la toux" q="Cough medicine (lit. syrup for the cough)" h="SIR OPus loved his syrup"/>
+                <item a="Une crème antiseptique" q="An antiseptic lotion (lit. a cream antiseptic)"/>
+                <item a="Mettre de la crème antiseptique" q="To put on antiseptic cream"/>
+                <item a="Une piqûre" q="An injection" />
+                <item a="donner une piqûre" q="To give an injection" h="The PIg's only CURe was a massive injection"/>
+                <item a="une comprimé" q="A tablet"/>
+                <item a="Une pilule" q="A pill"/>
+                <item a="La maladie / la santé" q="Sickness / health (lit. the sickness / the health)"/>
+                <item a="Oui ça me fait mal" q="Yes it hurts (lit. yes, it me makes ill)"/>
+            </topic>
         </lesson>
     </course>
 </language>
 <!-- à â ç é è ê ë î ô ù û -->
-
-<!--
-(Lesson 3)
-            <topic name="Additional vocabulary (Phone)">
-                <item a="Pouvez-vous répéter, s'il vous plaît?" q="Can you repeat, please?"/>
-                <item a="Quel est votre numéro de téléphone, s'il vous plaît?" q="What is your telephone number, please?"/>
-                <item a="Vous voulez liasser un mssage?" q="You want to leave a message?"/>
-                <item a="Je peux laisser un message?" q="Can I leave a message? (lit. I can ...)"/>
-                <item a="" q="Can I leave a message? (lit Mr D, can I remember?)"/>
-                <item a="" q="Can Mr D call me back?"/>
-                <item a="" q="I'd like to make an appointement with"/>
-                <item a="" q="What day? At what time?"/>
-                <item a="" q="I'm sorry, I wnat to cancel my appointment"/>
-                <item a="" q="Mr D's line is engaged. Will you hold?"/>
-                <item a="" q="Hold the line, I'm putting you through"/>
-                <item a="" q="You've got the wrong number"/>
-                <item a="" q="I'm sorry, I've dialled the wrong number"/>
-            </topic>
-            -->

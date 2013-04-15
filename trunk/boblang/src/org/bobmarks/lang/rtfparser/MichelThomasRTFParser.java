@@ -12,7 +12,7 @@ import java.util.regex.Pattern;
  * 
  * @author Bob Marks
  */
-public class MichalThomasRTFParser {
+public class MichelThomasRTFParser {
 
 	private final Map<String,String>rtfMap;
 
@@ -24,7 +24,7 @@ public class MichalThomasRTFParser {
 	 * @param course
 	 * @throws Exception
 	 */
-	public MichalThomasRTFParser (String filename, String course) throws Exception {
+	public MichelThomasRTFParser (String filename, String course) throws Exception {
 		rtfMap = new HashMap<String, String>();
 		rtfMap.put("\\'e0","à");
 		rtfMap.put("\\'e2","â");
@@ -133,6 +133,6 @@ public class MichalThomasRTFParser {
 	}    
 
 	public static void main(String[] args) throws Exception {
-		new MichalThomasRTFParser ("MT French advanced.rtf", "Michel Thomas - Advanced");
+		new MichelThomasRTFParser ("MT French advanced.rtf", "Michel Thomas - Advanced");
 	}
 }
