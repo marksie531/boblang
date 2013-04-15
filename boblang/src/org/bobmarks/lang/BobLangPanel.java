@@ -16,6 +16,8 @@ import java.awt.event.FocusEvent;
 import java.awt.event.FocusListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseListener;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.EventObject;
@@ -48,8 +50,7 @@ import org.jdom.Element;
  * 
  * @author Bob Marks
  */
-public class BobLangPanel extends JPanel implements ActionListener,
-		CaretListener, FocusListener, KeyListener {
+public class BobLangPanel extends JPanel implements ActionListener, CaretListener, FocusListener, KeyListener, MouseListener {
 
 	private static final long serialVersionUID = 2484991827672131644L;
 
@@ -58,6 +59,7 @@ public class BobLangPanel extends JPanel implements ActionListener,
 	private static final Color COLOR_OK = new Color(230, 255, 230);
 	private static final Color COLOR_ALMOST = new Color(255, 255, 210);
 	private static final Color COLOR_WRONG = new Color(255, 230, 230);
+	private static final Color COLOR_HINT = new Color(0, 192, 0);
 
 	private static final Font FONT_SMALL = new Font("Arial", Font.PLAIN, 10);
 
@@ -74,6 +76,7 @@ public class BobLangPanel extends JPanel implements ActionListener,
 	private boolean shift = false;
 	private Element root;
 	private Map<String, String> itemMap;
+	private Map<String, String> itemHintMap;
 	private String specialChars;
 
 	/**
@@ -456,6 +459,7 @@ public class BobLangPanel extends JPanel implements ActionListener,
 	private void start() {
 		examLabel.setText("");
 		this.itemMap = new LinkedHashMap<String, String>();
+		this.itemHintMap = new LinkedHashMap<String, String>();
 
 		List<Element> courseElms = root.getChildren("course");
 		for (Element courseElm : courseElms) {
@@ -481,13 +485,11 @@ public class BobLangPanel extends JPanel implements ActionListener,
 
 							if (topicCB.isSelected()) {
 
-								List<Element> itemElms = topicElm
-										.getChildren("item");
+								List<Element> itemElms = topicElm.getChildren("item");
 								for (Element itemElm : itemElms) {
-									String question = itemElm
-											.getAttributeValue("q");
-									String answer = itemElm
-											.getAttributeValue("a");
+									String question = itemElm.getAttributeValue("q");
+									String answer = itemElm.getAttributeValue("a");
+									String hint = itemElm.getAttributeValue("h");
 									if (question == null || "".equals(question.trim())) {
 										System.out.println ("Question is null for answer: " + answer);
 									}
@@ -495,6 +497,7 @@ public class BobLangPanel extends JPanel implements ActionListener,
 										System.out.println ("Answer is null for question: " + question);
 									}
 									itemMap.put(question, answer);
+									itemHintMap.put(question, hint);
 								}
 							}
 						}
@@ -506,7 +509,7 @@ public class BobLangPanel extends JPanel implements ActionListener,
 		mainPanel.removeAll();
 		if (itemMap.size() > 0) {
 
-			double[][] sizes = getTableLayoutSize(3, itemMap.size(), PREF, PREF);
+			double[][] sizes = getTableLayoutSize(4, itemMap.size(), PREF, PREF);
 			TableLayout layout = new TableLayout(sizes);
 			mainPanel.setLayout(new TableLayout(sizes));
 
@@ -535,7 +538,7 @@ public class BobLangPanel extends JPanel implements ActionListener,
 
 				JLabel labelQuestion = new JLabel();
 				labelQuestion.setText(key + " ");
-
+				
 				JTextField inputAnswer = new JTextField(40);
 				inputAnswer.setName("input:" + key);
 				inputAnswer.addCaretListener(this);
@@ -545,6 +548,16 @@ public class BobLangPanel extends JPanel implements ActionListener,
 				mainPanel.add(labelNum, "0," + i + ",l,c");
 				mainPanel.add(labelQuestion, "1," + i + ",r,c");
 				mainPanel.add(inputAnswer, "2," + i + ",l,c");
+				
+				// Add hint if applicable
+				if (itemHintMap.get(key) != null && !itemHintMap.get(key).isEmpty()) {
+					JLabel labelHint = new JLabel(" (H) ");
+					labelHint.setForeground(COLOR_HINT);
+					labelHint.setFont(FONT_SMALL);
+					labelHint.setName("hint:" + key);
+					labelHint.addMouseListener(this);
+					mainPanel.add(labelHint, "3," + i + ",l,c");
+				}
 			}
 
 			layout.layoutContainer(mainPanel.getParent());
@@ -564,10 +577,8 @@ public class BobLangPanel extends JPanel implements ActionListener,
 				int index;
 				for (index = 0; index < text.length(); index++) {
 					if (index < value.length()) {
-						String tc = text.toLowerCase().substring(index,
-								index + 1);
-						String vc = value.toLowerCase().substring(index,
-								index + 1);
+						String tc = text.toLowerCase().substring(index, index + 1);
+						String vc = value.toLowerCase().substring(index, index + 1);
 						if (!tc.equals(vc)) {
 							break;
 						}
@@ -957,4 +968,31 @@ public class BobLangPanel extends JPanel implements ActionListener,
 			shift = false;
 		}
 	}
+
+	@Override
+	public void mouseClicked(MouseEvent event) {
+		if (event.getSource() instanceof JLabel) {
+			JLabel label = (JLabel) event.getSource();
+			String name = label.getName();
+
+			if (name != null) {				
+				if (name.startsWith("hint:")) {
+					String key = name.substring(5);
+					label.setText (" (" + itemHintMap.get(key) + " )");
+				}
+			}
+		}
+	}
+
+	@Override
+	public void mousePressed(MouseEvent e) {}
+
+	@Override
+	public void mouseReleased(MouseEvent e) {}
+
+	@Override
+	public void mouseEntered(MouseEvent e) {}
+
+	@Override
+	public void mouseExited(MouseEvent e) {}
 }
