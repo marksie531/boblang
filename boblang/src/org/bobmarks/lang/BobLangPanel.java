@@ -496,8 +496,8 @@ public class BobLangPanel extends JPanel implements ActionListener, CaretListene
 									if (answer == null || "".equals(answer.trim())) {
 										System.out.println ("Answer is null for question: " + question);
 									}
-									itemMap.put(question, answer);
-									itemHintMap.put(question, hint);
+									itemMap.put(question.trim(), answer.trim());
+									itemHintMap.put(question.trim(), hint != null ? hint.trim() : null);
 								}
 							}
 						}
