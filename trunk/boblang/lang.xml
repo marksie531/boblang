@@ -236,7 +236,6 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="très" q="very"/>
                 <item a="assez" q="quite"/>
                 <item a="Beaucoup" q="A lot"/>
-
             </topic>
         </lesson>
 
@@ -1958,6 +1957,7 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="Le bureau rouvre demain à neuf heure" q="The office will reopen tomorrow at nine oclock"/>
             </topic>
         </lesson>
+        
         <lesson name="Week 4">
             <topic name="Describing someone">
                 <item a="Décrire" q="To describe"/>
@@ -2009,9 +2009,7 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="Avoir l'air sympathique" q="To look like a nice person (lit. to have the air sympathetic)"/>
             </topic>
         </lesson>
-
-<!-- REVISION (DONE 1 TO 4) -->
-
+        
         <lesson name="Week 5">
             <topic name="House and Home (1)">
                 <item a="Décrivez votre appartement" q="Describe your flat"/>
@@ -2037,22 +2035,22 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="non meublé" q="unfurnished (m)"/>
                 <item a="non meublée" q="unfurnished (f)"/>
                 <item a="en bois" q="Made of wood"/>
-                <item a="en béton" q="Made of concrete" h="Big BaTON of concrete"/>
+                <item a="en béton" q="Made of concrete" h="The concrete Bay weighed a TON"/>
                 <item a="en brique rouge" q="Made of red brick"/>
                 <item a="en pierre" q="Made of stone" h="PIERRE was a very stoney guy"/>
-                <item a="peint en bleu" q="Painted blue"/>
-                <item a="la cave" q="the cellar" h="Bin Ladan's cellar was like a CAVE"/>
+                <item a="peint en bleu" q="Painted blue (lit. paint in blue)"/>
+                <item a="la cave" q="the cellar" h="bin ladan's cellar was like a CAVE"/>
                 <item a="le grenier" q="the attic" h="The SAS had a GRENade In the attic"/>
             </topic>
             <topic name="House and Home (2)">
                 <item a="C'est quoi comme maison?" q="What type of house is it? (lit. it is what as house?)"/>
-                <item a="un pavillon" q="a detached house" h="The PAVILLON in also known as the 'big house'"/>
+                <item a="un pavillon" q="a detached house" h="The PAVILLON in also known as the 'big detached house'"/>
                 <item a="une maison jumelée" q="a semi-detached house (lit. a house "/>
                 <item a="un bungalow" q="a bungalow"/>
                 <item a="un immeuble" q="a block of flats" h="IMMErse yourself in the block of flats"/>
-                <item a="un gratte-ciel" q="a sky-scraper" h="In the sky scraper I am GRATeful for the high CieLings"/>
-                <item a="une rangée (de maisons)" q="a terrace (lit. a row)"/>
-                <item a="Il y a combien de pièces" q="How many rooms are there?"/>
+                <item a="un gratte-ciel" q="a sky-scraper" h="In the sky scraper there was GRATE in the CieLings"/>
+                <item a="une rangée" q="a terrace (lit. a row)"/>
+                <item a="Il y a combien de pièces?" q="How many rooms are there? (lit. There is how many of rooms?)"/>
                 <item a="Il y en a 7" q="There are 7"/>
                 <item a="au rez-de-chaussée" q="On the ground floor"/>
                 <item a="en bas" q="downstairs"/>
@@ -2069,24 +2067,24 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
         <lesson name="Week 6">
             <topic name="Where do you live? (1)">
                 <item a="Où est votre maison?" q="Where is your house?"/>
-                <item a="en ville" q="In the town"/>
-                <item a="en centre-ville" q="In the city centre"/>
-                <item a="aux environs de" q="In the outskrits of"/>
-                <item a="dans la en banlieue" q="In the suburbs"/>
+                <item a="en ville" q="In town"/>
+                <item a="en centre-ville" q="In the city centre (lit. in centre town)"/>
+                <item a="aux environs de" q="In the outskirts of" h="Much nicer ENVIRONmentS in the outskirts"/>
+                <item a="dans la en banlieue" q="In the suburbs" h="The the middle class suburbs, there is a stick BAN on LIE's and UnpurE thoughts!"/>
                 <item a="à la campagne" q="In the countryside"/>
-                <item a="au bord de la mer" q="At the seaside"/>
+                <item a="au bord de la mer" q="At the seaside (lit. at the edge of the sea)"/>
                 <item a="sur la côte" q="On the Coast"/>
-                <item a="une grande ville" q="A city"/>
+                <item a="une grande ville" q="A city (lit. a large town)"/>
                 <item a="une petite ville" q="A small town"/>
                 <item a="un village" q="A village"/>
                 <item a="Une grande ville industrielle" q="A large industrial town"/>
-                <item a="une ville maritime" q="A maritime town"/>
-                <item a="C'est la capitale de la France" q="It is the capital of"/>
+                <item a="une ville maritime" q="A maritime town (lit. a town maritime)"/>
+                <item a="C'est la capitale de" q="It is the capital of"/>
                 <item a="Le village est près de" q="The village is near of"/>
                 <item a="n'est pas loin de" q="Is not far from"/>
-                <item a="C'est à peu près à 5 kilomètres de" q="It is at about 5 kilometres from"/>
-                <item a="Notre village est se trouve entre A et B" q="Our village is situated between A and B"/>
-                <item a="Il est très bruyant" q="It is very noisy"/>
+                <item a="C'est à peu près à 5 kilomètres de" q="It is at about 5 kilometres from (lit. it is by little near to 5 kilometres from)"/>
+                <item a="Notre village est se trouve entre A et B" q="Our village is found between A and B"/>
+                <item a="Il est très bruyant" q="It is very noisy (m)"/>
                 <item a="Très calme" q="Very quiet"/>
                 <item a="Nous habitons un endroit très tranquille" q="We live in a very quiet place"/>
                 <item a="dans un beau coin" q="In a beautiful spot"/>
@@ -2094,50 +2092,49 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
             <topic name="Where do you live? (2)">
                 <item a="près de Paris" q="Near Paris"/>
                 <item a="près du centre-ville" q="Near the town centre"/>
-                <item a="près de la piscine " q="Near the swimming pool"/>
+                <item a="près de la piscine" q="Near the swimming pool"/>
                 <item a="près des magasins" q="Near the shops"/>
                 <item a="Derrière" q="Behind"/>
                 <item a="À côté de" q="Next to"/>
                 <item a="Devant" q="In front of"/>
-                <item a="En face de" q="Opposite"/>
+                <item a="En face de" q="Opposite" h="He sat opposite and FACEd me"/>
                 <item a="Loin de" q="Far from"/>
                 <item a="tout près" q="Nearby (lit. too near)"/>
                 <item a="Allez jusqu'à" q="Go as far as"/>
                 <item a="Tournez" q="Turn (formal)"/>
                 <item a="Tourne" q="Turn (informal)"/>
-                <item a="Contineez" q="Continue (formal)"/>
+                <item a="continuez" q="Continue (formal)"/>
                 <item a="Continue" q="Continue (informal)"/>
                 <item a="Prenez la première rue à droite" q="Take the first street on the right"/>
             </topic>
             <topic name="What to do and see">
                 <item a="Dans votre quartier" q="In your area"/>
-                <item a="Qu'est-ce qu'il y a " q="What is there to do and see in your area?"/>
-                <item a="le soir" q="In the evenings"/>
-                <item a="le weekend" q="At the weekend"/>
+                <item a="qu'est-ce qu'il y a à faire et à voir dans votre quartier?" q="What is there to do and see in your area?"/>
+                <item a="le soir" q="In the evenings (lit. the evening)"/>
+                <item a="le weekend" q="At the weekend (lit. the weekend)"/>
                 <item a="Il y a toujours quelque chose à faire" q="There is always something to do"/>
-                <item a="Il n'y a pas grand'chose à voir" q="There isn't a lot to see"/>
+                <item a="Il n'y a pas grand'chose à voir" q="There isn't a lot to see (lit. there is not big'thing to see)" h="FIXME - is single quote correct?"/>
                 <item a="Il y a un cinéma" q="There is a cinema"/>
-                <item a="Il y a centre de loisirs" q="There is a leisure centre"/>
+                <item a="Il y a un centre de loisirs" q="There is a leisure centre" h="Leisure time - LOIn'S In ReSt"/>
                 <item a="Il y a un centre commercial" q="There is a shopping centre"/>
                 <item a="Il y a des bars" q="There are pubs"/>
-                <item a="Il y a jadin public" q="There is a public park"/>
-                <item a="Il y a de beaux magains" q="There are lovely shops"/>
-                <item a="Nous avon un terrain de tennis" q="We have a tennis court"/>
-                <item a="Nous avon une piscine" q="We have a swimming pool"/>
-                <item a="Nous avon un stade de football" q="We have a football pitch"/>
-
-                <item a="Il y a trop de monde" q="It is too crowded"/>
+                <item a="Il y a jardin public" q="There is a public park (lit. there is a garden public)"/>
+                <item a="Il y a de beaux magasins" q="There are lovely shops"/>
+                <item a="Nous avons un terrain de tennis" q="We have a tennis court" h="A french clay tennis court is a rough TERRAIN"/>
+                <item a="Nous avons une piscine" q="We have a swimming pool"/>
+                <item a="Nous avons un stade de football" q="We have a football pitch" h="Every football pitch in french is a STADium"/>
+                <item a="Il y a trop de monde" q="It is too crowded (lit. there is too much world)"/>
                 <item a="Il y a trop de circulation" q="There is too much traffic"/>
                 <item a="Il y a trop de pollution" q="There is too much pollution"/>
-                <item a="Il n'y a pas " q="There are not enough bins"/>
-                <item a="Aimez-vous y habiter?" q="Do you like living there? (formal)"/>
-                <item a="Aimes-tu y habiter?" q="Do you like living there? (informal)"/>
-                <item a="Comment est votre jardin?" q="What is your garden like?"/>
+                <item a="Il n'y a pas assez de poubelles" q="There are not enough bins" h="French bins contain POo's and BELL'S"/>
+                <item a="Aimez-vous y habiter?" q="Do you like living there? (formal) (lit. Like you there to live?)"/>
+                <item a="Aimes-tu y habiter?" q="Do you like living there? (informal) (lit. Like you there to live?)"/>
+                <item a="Comment est votre jardin?" q="What is your garden like? (lit. How is your gardin?)"/>
                 <item a="J'ai un petit jardin" q="I have a small garden"/>
                 <item a="J'ai un grand jardin" q="I have a big garden"/>
                 <item a="J'ai un joli jardin" q="I have a pretty garden"/>
                 <item a="J'ai un jardin bien entretenu" q="I have a well maintained garden"/>
-                <item a="Quels sont les advantages (d'habiter en ville)?" q="What are th advantages of living in town?"/>
+                <item a="Quels sont les advantages d'habiter en ville?" q="What are the advantages of living in town?"/>
                 <item a="Les inconvénients" q="The disadvantages"/>
             </topic>
         </lesson>
@@ -2145,8 +2142,8 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
         <lesson name="Week 7">
             <topic name="Everyday Life (My family 1)">
                 <item a="Ma famille et moi" q="My family and myself"/>
-                <item a="Parlez-moi de votre famille" q="Tell me about your family (formal)"/>
-                <item a="Parle-moi de ta famille" q="Tell me about your family (informal)"/>
+                <item a="Parlez-moi de votre famille" q="Tell me about your family (formal) (lit. Speak me of your family)"/>
+                <item a="Parle-moi de ta famille" q="Tell me about your family (informal) (lit. Speak me of your family)"/>
                 <item a="Combien êtes-vous dans votre famille?" q="How many are you in your family (formal)"/>
                 <item a="Nous sommes 5 dans notre famille" q="We are 5 in our familiy?"/>
                 <item a="Je suis célibataire" q="I am single"/>
@@ -2154,20 +2151,20 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="Je suis fiancée, mariée, veuve" q="I am engaged, married, widowed (female)"/>
                 <item a="Nous sommes divorcés" q="we are divorced"/>
                 <item a="J'ai un petit ami, une petite ami" q="I have a boyfriend, a girlfriend"/>
-                <item a="Nous habitons ensemble" q="We live together"/>
+                <item a="Nous habitons ensemble" q="We live together" h="together the band was a great ENSEMBLE"/>
                 <item a="J'ai un enfant, un fils, une fille" q="I have a child, a son, a daughter"/>
                 <item a="Nous avons deux enfants" q="We have two children"/>
                 <item a="Nous n'avons pas d'enfants" q="We don't have any children"/>
-                <item a="J'adore mon père, ma mère, mon grand-père et ma grand-mère" q="I love my father, my mother, my grandfather and my grandmother"/>
+                <item a="J'adore mon père, ma mère, mon grand-père et ma grand-mère" q="I adore my father, my mother, my grandfather and my grandmother"/>
                 <item a="Mes grands-parents" q="My grandparents"/>
-                <item a="Je suis enfant unique, fils unique, fille unique" q="I am an only child, an only son, an only daughter"/>
-                <item a="J'ai un frère aîné et une soeur aînée" q="I have an older brother and an older sister"/>
-                <item a="J'ai un frère cadet et une soeur cadette" q="I have a younger brother and a younger sister"/>
+                <item a="Je suis enfant unique, fils unique, fille unique" q="I am an only child, only son, only daughter"/>
+                <item a="J'ai un frère aîné et une soeur aînée" q="I have an older brother and an older sister" h="Auntie ANNEy was so much older than my other aunts"/>
+                <item a="J'ai un frère cadet et une soeur cadette" q="I have a younger brother and a younger sister" h="My youngest brother was in the army CADETs"/>
             </topic>
             <topic name="Everyday Life (My family 2)">
                 <item a="L'aîné, le cadet, la cadette" q="The eldest, the youngest (m), the youngest (f)"/>
                 <item a="Mon neveu, ma nièce, mon cousin, ma cousine" q="My nephew, my niece, my cousin (m), my cousin (f)"/>
-                <item a="Mon oncle, ma tante, mon fiancé, ma fiancée" q="My uncle, my aunt, my fiancee"/>
+                <item a="Mon oncle, ma tante, mon fiancé, ma fiancée" q="My uncle, my aunt, my fiancee (m), my fiancee (f)"/>
                 <item a="Mon gendre" q="My son-in-law (not 'the good son')"/>
                 <item a="Ma belle-fils" q="My daughter-in-law"/>
                 <item a="Mon beau-père" q="My father-in-law"/>
@@ -2178,56 +2175,55 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="Maman et papa" q="Mum and dad"/>
                 <item a="Je déteste mon voisin" q="I hate my neighbour (m)"/>
                 <item a="J'aime ma voisine" q="I like my neighbour (f)"/>
-                <item a="J'adore mon voisins" q="I adore my neighbours"/>
-                <item a="Le garçons, la filles" q="The boy, the girl"/>
+                <item a="J'adore mes voisins" q="I adore my neighbours"/>
+                <item a="Le garçon, la fille" q="The boy, the girl"/>
                 <item a="Le monsieur, la dame" q="The gentleman, the lady"/>
-                <item a="Les gens" q="People"/>
-                <item a="Mon copain, ma copine" q="My boyfriend, my girlfriend"/>
-                <item a="Mon aim, mon amie" q="My friend (m), my friend (f)"/>
+                <item a="Les gens" q="People" h="The people include GENtS and ladies"/>
+                <item a="Mon copain, ma copine" q="My boyfriend, my girlfriend" h="My boyfriend is a COstant PAIN!"/>
+                <item a="Mon ami, mon amie" q="My friend (m), my friend (f)"/>
             </topic>
             <topic name="Everyday Life (2)">
                 <item a="mon, ton, son, notre, votre, leur" q="My, your, his (or her), our, your, their (mascaline)"/>
-                <item a="ma, ta, sa, notre, votre leur" q="My, your, his (or her), our, your, their (feminine)"/>
+                <item a="ma, ta, sa, notre, votre, leur" q="My, your, his (or her), our, your, their (feminine)"/>
                 <item a="mes, tes, ses, nos, vos, leurs" q="My, your, his (or her), our, your, their (plural)"/>
             </topic>
         </lesson>
-
         <lesson name="Week 8">
             <topic name="Everyday Life (school)">
                 <item a="À l'école" q="At school"/>
-                <item a="Que fait votre fils?" q="What does your son do?"/>
-                <item a="Que fait votre filles?" q="What does your daughter do?"/>
-                <item a="Que font vos enfants?" q="What do your children do?"/>
-                <item a="Ils vont toujours à l'école" q="They are still at school"/>
-                <item a="Mon fils, ma fille est à l'école maternelle" q="My son / daughter is at nursery school"/>
-                <item a="À l'école primaire / au collêge" q="At primary school / at secondary school"/>
-                <item a="au lycée" q="High school"/>
+                <item a="Que fait votre fils?" q="What does your son do? (lit. what does your son?)"/>
+                <item a="Que fait votre fille?" q="What does your daughter do? (lit. what does your daughter?)"/>
+                <item a="Que font vos enfants?" q="What do your children do? (lit. what does your children?)"/>
+                <item a="Ils vont toujours à l'école" q="They are still at school (lit. They go still (always) to the school)"/>
+                <item a="Mon fils, ma fille est à l'école maternelle" q="My son / daughter is at nursery school" h="The teachers at the nursery must be MATERNaL"/>
+                <item a="À l'école primaire / au collège" q="At primary school / at secondary school"/>
+                <item a="au lycée" q="High school" h="LucY loves high school"/>
                 <item a="à l'université" q="at university"/>
-                <item a="il / elle étudie à la fac" q="He / she is studying at university"/>
-                <item a="elle / il suit un cours de formation" q="She / he is doing a training course (lit. he follows a course of training)"/>
+                <item a="il / elle étudie à la fac" q="He / she is studying at university (lit. he / she studies at the faculty"/>
+                <item a="elle / il suit un cours de formation" q="She / he is doing a training course (lit. he follows a course of training)" h="The training corse involved the FORMATION of clay"/>
             </topic>
             <topic name="Everyday Life (House work)">
-                <item a="Tâches ménagères" q="Housework (lit. chores household)"/>
-                <item a="Qu'est-ce que vous faites comme ménage?" q="What chores do you do at home? (lit. What you do as housework? +QW)" />
+                <item a="Tâches ménagères" q="Housework (lit. Tasks Household)"/>
+                <item a="Qu'est-ce que vous faites comme ménage?" q="What chores do you do at home? (lit. What you do as housework? +QW)" h="MEN in this AGE doing housework? HAHAHA!"/>
                 <item a="Je fais le ménage" q="I do the cleaning"/>
-                <item a="Je passe l'aspirateur" q="I hoover (lit. I move the hover)"/>
-                <item a="Je nettoie la maison" q="I clean the house"/>
+                <item a="Je passe l'aspirateur" q="I hoover (lit. I move the hover)" h="Move the TV remote over here, can you PASS it?"/>
+                <item a="Je nettoie la maison" q="I clean the house" h="I Clean the NET which traps the dirt"/>
                 <item a="Je fais les lits" q="I make the beds"/>
                 <item a="J'aime passer l'aspirateur" q="I love hoovering (lit. I like to move the hover)"/>
-                <item a="Je déteste le nettoyage" q="I hate cleaning"/>
-                <item a="Je fais la lessive" q="I do the washing"/>
-                <item a="Je fais le repassage" q="I do the ironing"/>
+                <item a="Je déteste le nettoyage" q="I hate the cleaning" h="Mother screams - get off the interNET and start 'cleaning' those TOY's - act your AGE!"/>
+                <item a="Je fais la lessive" q="I do the washing" h="Lets start 'washing' as there is LESS bees in the hIVE as the hive is so dirty!!!"/>
+                <item a="Je fais le repassage" q="I do the ironing" h="Utility room is too small for the ironing - REdo it in the PASSAGEway"/>
                 <item a="Je fais les courses" q="I do the shopping (food)"/>
-                <item a="Je fais la cuisine" q="I cook"/>
-                <item a="Je fais le repas du soir" q="I cook the evening meal"/>
-                <item a="Je fais la vaisselle" q="I do the washing-up"/>
+                <item a="Je fais la cuisine" q="I do the cooking"/>
+                <item a="Je fais le repas du soir" q="I cook the evening meal (lit. I make the meal some evenings)"/>
+                <item a="Je fais la vaisselle" q="I do the washing-up (dishes)" h="(french) When I do the washing - I 'go' to Some 'girl'"/>
                 <item a="Je fais le jardinage" q="I do the gardening"/>
-                <item a="Aimez-vous faire la cuisine?" q="Do you like to cook?"/>
-                <item a="Aimez-vous faire le jardinage?" q="Do you enjoy gardening"/>
+                <item a="Aimez-vous faire la cuisine?" q="Do you like to cook? (lit. like you make the meal?)"/>
+                <item a="Aimez-vous faire le jardinage?" q="Do you enjoy gardening (lit. like you do the gardening?)"/>
                 <item a="Oui, J'aime ça" q="Yes, I like it"/>
                 <item a="Non, Je n'aime pas ça" q="No, I don't like it"/>
                 <item a="Faire le ménage" q="To do the housework"/>
-                <item a="Qui fait le ménage chez vous?" q="Who does the housework in your house?"/>
+                <item a="Qui fait le ménage chez vous?" q="Who does the housework in your home?"/>
             </topic>
             <topic name="Occupation (1)">
                 <item a="Métier" q="Trade / profession"/>
@@ -2240,17 +2236,17 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="bouchère" q="butcher (f)"/>
                 <item a="dentiste" q="dentist"/>
                 <item a="médecin" q="doctor"/>
-                <item a="infirmier" q="nurse (m)"/>
+                <item a="infirmier" q="nurse (m)" h="The nurse was stationed at the infirmery"/>
                 <item a="infirmière" q="nurse (f)"/>
                 <item a="professeur" q="teacher"/>
                 <item a="directeur" q="head teacher (m)"/>
-                <item a="directeurrice" q="head teacher (f)"/>
+                <item a="directrice" q="head teacher (f)"/>
                 <item a="musicien" q="musician (m)"/>
                 <item a="musicienne" q="musician (f)"/>
                 <item a="agent de police" q="police officer (lit. agent of police)"/>
-                <item a="facteur" q="postal worker (m)"/>
+                <item a="facteur" q="postal worker (m)" h="Sorting the mail out was like working in a factory"/>
                 <item a="factrice" q="postal worker (f)"/>
-                <item a="Hôtesse de l'air" q="flight attendant"/>
+                <item a="Hôtesse de l'air" q="flight attendant (lit. hostess of the air)"/>
                 <item a="pilote" q="pilot"/>
                 <item a="coiffeur" q="hairdresser (m)"/>
                 <item a="coiffeuse" q="hairdresser (f)"/>
@@ -2259,14 +2255,14 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="directeur" q="company director"/>
                 <item a="fonctionnaire" q="civil servant"/>
                 <item a="chauffeur" q="chauffeur"/>
-                <item a="programmeur d'ordinateur" q="computer programmer"/>
+                <item a="programmeur d'ordinateur" q="computer programmer (lit. programmer of computer)"/>
             </topic>
             <topic name="Occupation (2)">
                 <item a="mécanicien" q="mechanic (m)"/>
                 <item a="mécanicienne" q="mechanic (f)"/>
                 <item a="garagiste" q="garage owner"/>
-                <item a="pompier" q="firefighter"/>
-                <item a="commerçant" q="shopkeeper"/>
+                <item a="pompier" q="firefighter" h="The fire fighters had problems in POMPiy !!! FIXME (SPELLING) !!!"/>
+                <item a="commerçant" q="shopkeeper" h="The shopkeeper specially in COMMERCial ANT's"/>
                 <item a="vendeur" q="shop assistant (m)"/>
                 <item a="vendeuse" q="shop assistant (f)"/>
                 <item a="journaliste" q="journalist"/>
@@ -2275,18 +2271,20 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="notaire" q="solicitor/notary public"/>
                 <item a="secrétaire" q="secretary"/>
                 <item a="maçon" q="bricklayer"/>
-                <item a="comptable" q="accountant"/>
-                <item a="chauffeur de poids-lourd" q="lorry driver"/>
+                <item a="comptable" q="accountant" h="The accountant detalis with COMPuter TABLEs all day long"/>
+                <item a="chauffeur de poids-lourd" q="lorry driver (lit. chauffeur of weight-heavy)"/>
                 <item a="banquier" q="banker"/>
-                <item a="patron" q="boss (m)"/>
+                <item a="patron" q="boss (m)" h="The very nice boss was a big PATRON of the arts"/>
                 <item a="patronne" q="boss (f)"/>
                 <item a="épicier" q="grocer (m)"/>
                 <item a="épicière" q="grocer (f)"/>
-                <item a="agent immobilier" q="estate agent"/>
-                <item a="demandeur d'emploi" q="jobseeker"/>
-                <item a="Je suis au chômage" q="I am unemployed"/>
+                <item a="agent immobilier" q="estate agent" h="The estate agent specialising In selling MOBILe homes was a total LIER"/>
+                <item a="demandeur d'emploi" q="jobseeker (lit. demander of employment)"/>
+                <item a="Je suis au chômage" q="I am unemployed" h="Unemployeed people include CHOMp's and AGEd folks (young and old)"/>
             </topic>
         </lesson>
+
+<!-- GOT AS FAR AS HERE -->
 
         <lesson name="Week 9">
             <topic name="Work (Where / How)">
