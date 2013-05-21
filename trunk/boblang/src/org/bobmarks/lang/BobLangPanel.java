@@ -67,7 +67,7 @@ public class BobLangPanel extends JPanel implements ActionListener, CaretListene
 
 	// GUI fields
 	private JPanel mainPanel, coursePanel, lessonPanel, topicPanel;
-	private JCheckBox shuffleCB, examMode;
+	private JCheckBox shuffleCB, examMode, hintMode;
 	private JTextComponent curInput = null, limitInput;
 	private JButton startButton, hintButton, checkButton, editButton;
 	private JLabel examLabel;
@@ -440,14 +440,19 @@ public class BobLangPanel extends JPanel implements ActionListener, CaretListene
 		examMode.addActionListener(this);
 		limitInput = new JTextField(4);
 		limitInput.setVisible(false);
+		
+		hintMode = new JCheckBox("Hints");
+		hintMode.setName("hints");
+		hintMode.addActionListener(this);
 
 		panel.add(startButton, "1,1");
 		panel.add(checkButton, "1,3");
 		panel.add(hintButton, "1,5");
 		panel.add(editButton, "1,7");
 		panel.add(shuffleCB, "3,1");
-		panel.add(examMode, "3,3");
-		panel.add(limitInput, "3,5");
+		panel.add(hintMode, "3,3");
+		panel.add(examMode, "3,5");
+		panel.add(limitInput, "3,7");
 
 		return panel;
 	}
@@ -496,8 +501,15 @@ public class BobLangPanel extends JPanel implements ActionListener, CaretListene
 									if (answer == null || "".equals(answer.trim())) {
 										System.out.println ("Answer is null for question: " + question);
 									}
-									itemMap.put(question.trim(), answer.trim());
-									itemHintMap.put(question.trim(), hint != null ? hint.trim() : null);
+									boolean include = true;
+									if (hintMode.isSelected() && hint == null) {
+										include = false;
+									}
+									
+									if (include) {
+										itemMap.put(question.trim(), answer.trim());
+										itemHintMap.put(question.trim(), hint != null ? hint.trim() : null);
+									}
 								}
 							}
 						}

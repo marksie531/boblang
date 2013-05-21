@@ -2,6 +2,26 @@
 
 <!--
 French Course at Belfast Metropolitan College (Levels 1,2,3)
+
+to go,        aller          allé                        
+to come,      venir          venu                           
+to go back    retourner      retourné                                  
+to stay       rester         resté                          
+to arrive     arriver        arrivé                             
+to depart     partir         parti                           
+to go in      entrer         entré                           
+to go out     sortir         sorti                            
+to go up      monter         monté                            
+to go down    descendre      desendu                                
+to fall down  tomber         tombé                                
+to be born    naitre         né                              
+to die        mortir         mort                         
+
+extra                                          
+to become,    devenir        devenu                               
+to come back  revenir        revenu
+to return     rentrer        rentré
+
  -->
 
 <language name="french" specialchars="àâçéèêëîôùû">
@@ -1339,7 +1359,7 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="Ce matin" q="This morning"/>
                 <item a="Se reposer" q="To rest"/>
                 <item a="J'aime mieux" q="I like better (prefer)"/>
-                <item a="La lecture" q="Reading"/>
+                <item a="La lecture" q="Reading" h="The nutty professor did a good reading in the LECTURE room"/>
                 <item a="Aimez-vous lire?" q="Do you like reading? (formal) (lit. Like you read)"/>
                 <item a="Aimes-tu lire?" q="Do you like reading? (informal) (lit. Like you read)"/>
                 <item a="Qu'est-ce que vous aimez lire?" q="What do you like to read? (formal) (+QW)"/>
@@ -1459,15 +1479,12 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="Vous prenez les cartes de crédit?" q="Do you take credit cards? (lit. You take ...)"/>
                 <item a="Oui, sans problème" q="Yes, no problem (lit.Yes, without problem)"/>
 
-
-
                 <item a="Devant" q="In front of/outside"/>
                 <item a="Derrière" q="Behind"/>
                 <item a="À côté de" q="Beside"/>
                 <item a="Près de" q="Near the"/>
                 <item a="Près d'ici" q="Nearby (lit. near from here)"/>
                 <item a="Loin" q="Far"/>
-
                 <item a="Fiche de réservation" q="Booking form"/>
                 <item a="Nombre de chambres" q="Number of rooms"/>
                 <item a="Chambre simple" q="Single room"/>
@@ -2188,6 +2205,7 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="mes, tes, ses, nos, vos, leurs" q="My, your, his (or her), our, your, their (plural)"/>
             </topic>
         </lesson>
+        
         <lesson name="Week 8">
             <topic name="Everyday Life (school)">
                 <item a="À l'école" q="At school"/>
@@ -2195,7 +2213,7 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="Que fait votre fille?" q="What does your daughter do? (lit. what does your daughter?)"/>
                 <item a="Que font vos enfants?" q="What do your children do? (lit. what does your children?)"/>
                 <item a="Ils vont toujours à l'école" q="They are still at school (lit. They go still (always) to the school)"/>
-                <item a="Mon fils, ma fille est à l'école maternelle" q="My son / daughter is at nursery school" h="The teachers at the nursery must be MATERNaL"/>
+                <item a="Mon fils, ma fille est à l'école maternelle" q="My son, daughter is at nursery school" h="The teachers at the nursery must be MATERNaL"/>
                 <item a="À l'école primaire / au collège" q="At primary school / at secondary school"/>
                 <item a="au lycée" q="High school" h="LucY loves high school"/>
                 <item a="à l'université" q="at university"/>
@@ -2262,7 +2280,7 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="mécanicienne" q="mechanic (f)"/>
                 <item a="garagiste" q="garage owner"/>
                 <item a="pompier" q="firefighter" h="The fire fighters had problems in POMPiy !!! FIXME (SPELLING) !!!"/>
-                <item a="commerçant" q="shopkeeper" h="The shopkeeper specially in COMMERCial ANT's"/>
+                <item a="commerçant" q="shopkeeper" h="The shopkeeper specialises in COMMERCial ANT's"/>
                 <item a="vendeur" q="shop assistant (m)"/>
                 <item a="vendeuse" q="shop assistant (f)"/>
                 <item a="journaliste" q="journalist"/>
@@ -2283,9 +2301,7 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="Je suis au chômage" q="I am unemployed" h="Unemployeed people include CHOMp's and AGEd folks (young and old)"/>
             </topic>
         </lesson>
-
-<!-- GOT AS FAR AS HERE -->
-
+        
         <lesson name="Week 9">
             <topic name="Work (Where / How)">
                 <item a="Je travaille dans une enterprise" q="I work in a firm (lit. in a enterprise)"/>
@@ -2303,11 +2319,11 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="Je prends le train pour aller au travail" q="I take the train to get to work (lit. I take the train for to go to the work)"/>
                 <item a="Je vais à pied" q="I go on foot"/>
                 <item a="Je vais au travail en voiture" q="I drive to work (lit. I go to the work by car)"/>
-                <item a="Vous mettez combien de tempos pour aller au travail?" q="How long does it take you to get to work? (formal)"/>
-                <item a="Tu mets combien de tempos pour aller au travail?" q="How long does it take you to get to work? (informal)"/>
+                <item a="Vous mettez combien de temps pour aller au travail?" q="How long does it take you to get to work? (lit. You put how much of time for to go to the work?) (formal)"/>
+                <item a="Tu mets combien de temps pour aller au travail?" q="How long does it take you to get to work? (lit. You put how much of time for to go to the work?) (informal)"/>
                 <item a="Le trajet prend 5 minutes" q="The journey takes 5 minutes"/>
                 <item a="C'est loin" q="It is far"/>
-                <item a="près de belfast" q="Near my house"/>
+                <item a="près de belfast" q="Near Belfast"/>
                 <item a="Aimez-vous votre profession / métier / travail?" q="Do you like your profession / trade / job?"/>
                 <item a="Oui, J'aime bien mon travail" q="Yes, I like (well) my work"/>
                 <item a="Je m'entends bien avec mes collègues" q="I get on well with my colleagues"/>
@@ -2322,26 +2338,25 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="Je suis très occupée" q="I'm very busy (f)"/>
             </topic>
             <topic name="Work (A Typical Day)">
-                <item a="Décrivez une journée typique au travail" q="Describe a typical day at work"/>
-                <item a="Je me lève à" q="I get up at 7"/>
-                <item a="Je quitte la maison at 8" q="I leave the house at 8"/>
+                <item a="Décrivez une journée typique au travail" q="Describe a typical day at work (lit. Describe a day typical at the job)"/>
+                <item a="Je me lève à 7 heures" q="I get up at 7 o'clock"/>
+                <item a="Je quitte la maison à 8 heures" q="I leave the house at 8 o'clock"/>
                 <item a="Puis, je prends le bus / le train / la voiture" q="Then, I take the bus / train / car"/>
                 <item a="Je commence le travail à 9 et je finis à 5" q="I start work at 9 and I finish at 5"/>
                 <item a="Je déjeune à 1" q="I have lunch at 1 (lit. I lunch at 1)"/>
                 <item a="J'amène un casse-croûte" q="I bring a packed lunch"/>
-                <item a="J'arrive chez moi vers" q="I get home at about"/>
-                <item a="J'ai deux semaines de congé à Noël" q="I have two weeks off at christmas"/>
-                <item a="J'ai trois semaines de congé annuel" q="I have three weeks annual leave"/>
-                <item a="Votre fils, qu'est-ce qu'il fait comme travail?" q="Your son, what does he do as work? (formal)"/>
-
-                <item a="Votre fille, qu'est-ce qu'il fait comme travail?" q="Your daughter, what does she do as work? (formal)"/>
-                <item a="Elle travaille comme coiffeur" q="She works as a hair-dresser"/>
+                <item a="J'arrive chez moi vers" q="I get home at about (lit. I arrive at my home about)" h="It was about VERSion 3.1 that Windows got good"/>
+                <item a="J'ai deux semaines de congé à Noël" q="I have two weeks of leave at christmas" h="I better get some leave or I'll have CONGEstive heart failure!"/>
+                <item a="J'ai trois semaines de congé annuel" q="I have three weeks annual leave (I have three weeks of leave annually)"/>
+                <item a="Votre fils, qu'est-ce qu'il fait comme travail?" q="Your son, what does he do as work? (formal) (+QW)"/>
+                <item a="Votre fille, qu'est-ce qu'elle fait comme travail?" q="Your daughter, what does she do as work? (formal) (+QW)"/>
+                <item a="Elle travaille comme coiffeuse" q="She works as a hair-dresser"/>
                 <item a="Il travaille comme notaire" q="He works as a solicitor"/>
                 <item a="Il ne travaille pas en ce moment" q="He doesn't work at the moment"/>
-                <item a="À quelle heure commencez-vous?" q="What time do you start? (formal) (lit. At what time does you?)"/>
+                <item a="À quelle heure commencez-vous?" q="What time do you start? (formal) (lit. At what time start you?)"/>
                 <item a="À quelle heure terminez-vous?" q="What time do you finish? (formal) (lit. At what time terminate you?)"/>
                 <item a="Chez moi" q="At home"/>
-                <item a="Je travaille depuis 2 ans et trois mois" q="I have been working 2 years and 3 months"/>
+                <item a="Je travaille depuis 2 ans et 3 mois" q="I have been working 2 years and 3 months"/>
                 <item a="Comment est votre travail?" q="How is your job? (formal)"/>
                 <item a="Comment est ton travail?" q="How is your job? (informal)"/>
                 <item a="Affreux" q="Terrible (m)"/>
@@ -2354,84 +2369,84 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
 
         <lesson name="Week 10">
             <topic name="Free Time - What do you do?">
-                <item a="Qu'est-ce que vous faites quand vous avez le temps?" q="What do you do when you ahve the time?"/>
-                <item a="Qu'est-ce que vous faites quand vous avez un moment de libre?" q="What do you do when you have free time?"/>
-                <item a="Qu'est-ce que vous faites quand vous ne travaillez pas?" q="What do you do when you are not working?"/>
+                <item a="Qu'est-ce que vous faites quand vous avez le temps?" q="What do you do when you have the time? (+QW)"/>
+                <item a="Qu'est-ce que vous faites quand vous avez un moment de libre?" q="What do you do when you have a free moment? (+QW) (lit. ... a moment of free)?"/>
+                <item a="Qu'est-ce que vous faites quand vous ne travaillez pas?" q="What do you do when you are not working? (+QW)"/>
                 <item a="Le matin" q="In the morning"/>
                 <item a="Le soir" q="In the evening"/>
                 <item a="ce soir" q="This evening"/>
                 <item a="Le weekend" q="At the weekend"/>
                 <item a="ce weekend" q="This weekend"/>
                 <item a="Pendant les vacances" q="During holidays"/>
-                <item a="Je me repose" q="I have a rest"/>
-                <item a="Regardez-vous la t" q="Do you watch TV?"/>
+                <item a="Je me repose" q="I have a rest" h="To rest is to REPOSE oneself"/>
+                <item a="Regardez-vous la télé?" q="Do you watch TV?"/>
                 <item a="Oui, je regarde la télé" q="Yes, I watch TV"/>
-                <item a="Quelle émissions regardez-vous?" q="What programmes do you watch? (lit. watch you?)"/>
+                <item a="Quelle émissions regardez-vous?" q="What programmes do you watch? (lit. watch you?)" h="The program was about thE MISSION to mars"/>
                 <item a="les films" q="Films"/>
                 <item a="les documentaires" q="Documentaries"/>
-                <item a="un documentaire sur les animaux" q="An animal documentary"/>
-                <item a="une émission  sur la nature" q="A nature program"/>
-                <item a="les feuilletons" q="Series, soaps"/>
+                <item a="un documentaire sur les animaux" q="An animal documentary (lit. a documentry on the animals)"/>
+                <item a="une émission sur la nature" q="A nature program (lit. A program on the nature)"/>
+                <item a="les feuilletons" q="Series, soaps" h="The series was on a FEUd between ILLEgal immegrients and TONS of drugs"/>
                 <item a="les infos" q="The news (lit. the info)"/>
                 <item a="les actualités" q="Current Affairs"/>
                 <item a="une émission hebdomadaire" q="A weekly program"/>
-                <item a="la télé réalité" q="Reality TV"/>
+                <item a="la télé réalité" q="Reality TV (lit. the TV reality)"/>
                 <item a="un débat" q="A televised debate"/>
-                <item a="un jeu télévisé" q="A game show"/>
+                <item a="un jeu télévisé" q="A game show (lit. a game televised)"/>
                 <item a="se reposer" q="To rest"/>
                 <item a="préférer" q="To prefer (all parts of the verb)"/>
                 <item a="J'aime mieux" q="I like better (prefer)"/>
             </topic>
             <topic name="Free Time - Music">
-                <item a="J'écoute de la musique" q="I listen to music"/>
+                <item a="J'écoute de la musique" q="I listen to music (lit. i listen of the music)"/>
                 <item a="écouter" q="To listen to"/>
                 <item a="Quelle sorte de musique aimez-vous?" q="What kind of music do you like? (lit. like you?)"/>
-                <item a="Qu'est-ce que vous aimez comme musique?" q="What is it you like as music?"/>
+                <item a="Qu'est-ce que vous aimez comme musique?" q="What is it you like as music? (+QW)"/>
                 <item a="Mon passetemps favori" q="My favourite past-time"/>
                 <item a="J'aime la musique classique" q="I like classical music"/>
                 <item a="J'aime la musique folks" q="I like folk music"/>
                 <item a="J'aime la musique rock" q="I like rock music"/>
                 <item a="J'aime la musique pop" q="I like pop music"/>
-                <item a="Vous jouez d'un instrument?" q="Do you play an instrument?"/>
-                <item a="Je joue d'un instrument" q="I play an instrument"/>
+                <item a="Vous jouez d'un instrument?" q="Do you play an instrument? (lit. you play of an instrument?)"/>
+                <item a="Je joue d'un instrument" q="I play an instrument (lit. I play of an instrument)"/>
                 <item a="Je joue du piano" q="I play the piano"/>
                 <item a="Je joue du violon" q="I play the violin"/>
                 <item a="Je joue de la flûte" q="I play the flute"/>
                 <item a="Je joue de la guitare" q="I play the guitar"/>
-                <item a="Je joue de la cornemuse" q="I play the bagpipes"/>
+                <item a="Je joue de la cornemuse" q="I play the bagpipes" h="In the CORNEr was MUSE playing the bagpipes"/>
                 <item a="Je joue de la batterie" q="I play the drums"/>
             </topic>
             <topic name="Free Time - Sport">
-                <item a="Les sports" q="Sport"/>
+                <item a="Les sports" q="Sports"/>
                 <item a="les activités" q="Activities (f)"/>
                 <item a="Faites-vous du sport?" q="Do you play sports? (lit. do you the sports?)"/>
-                <item a="Je joue du sports?" q="I play sports?"/>
+                <item a="Je joue du sports" q="I play sports"/>
                 <item a="Je joue au volley-ball" q="I play volleyball"/>
                 <item a="Je joue au football et au tennis" q="I play football and tennis"/>
-                <item a="Je fais de la voile" q="I sail"/>
-                <item a="Je fais de la planche à voile" q="I do windsurfing"/>
+                <item a="Je fais de la voile" q="I sail (lit. I do of the sail)" h="Sailing was very VOILEnt" />
+                <item a="Je fais de la planche à voile" q="I do windsurfing (lit. I do of the board the sail)" />
                 <item a="Je fais du ski nautique" q="I do water skiing"/>
-                <item a="Je fias du jogging" q="I jog"/>
-                <item a="Je pêche" q="I go fishing"/>
+                <item a="Je fais du jogging" q="I do jogging"/>
+                <item a="Je pêche" q="I fish"/>
                 <item a="Je fais de l'équitation" q="I go horse-riding"/>
-                <item a="Je fais de l'alpinisme" q="I do mountaineering"/>
+                <item a="Je fais de l'alpinisme" q="I do mountaineering" h="I walk in the ALPs IN ME pyjamas"/>
                 <item a="Je fais du canoë" q="I do canoeing"/>
                 <item a="J'aime me promener" q="I like to go for walks"/>
-                <item a="J'aime faire des randonnées à pied" q="I like to go trekking"/>
-                <item a="J'aime monter à cheval" q="I like to go horse-riding"/>
-                <item a="J'aime faire du vélo" q="I like to go out cycling"/>
-                <item a="J'aime le bricolage" q="I like to do DIY"/>
-                <item a="Se détendre" q="To relax"/>
-                <item a="natation" q="swimming"/>
+                <item a="J'aime faire des randonnées à pied" q="I like to go trekking (lit. I lke to do some treking on foot)" h="I like to trek in RANDOm places"/>
+                <item a="J'aime monter à cheval" q="I like to go horse-riding (lit. I like to mount a horse)"/>
+                <item a="J'aime faire du vélo" q="I like to go out cycling (lit. I like to do of the bike)"/>
+                <item a="J'aime le bricolage" q="I like to do DIY" h="DIY involved BRICks Of a very LArGE size"/>
+                <item a="Se détendre" q="To relax" h="I relax in the Day by having at least TEN DREams"/>
+                <item a="natation" q="swimming" h="The french are a NAT__ION of swimmers"/>
             </topic>
             <topic name="Free time - When">
-                <item a="quand?" q="When"/>
+                <item a="quand?" q="When?"/>
                 <item a="toujours" q="Always"/>
-                <item a="souvent" q="Often"/>
+                <item a="souvent" q="Often" h="The winds came often from the SOUth through the VENT"/>
                 <item a="rarement" q="Rarely"/>
-                <item a="jamais" q="Never"/>
-                <item a="d'habitude" q="Usually"/>
-                <item a="Chaque jour / tous les jours" q="Everyday / all the days"/>
+                <item a="jamais" q="Never" h="I never eat JAM!"/>
+                <item a="d'habitude" q="Usually" h="She was usually of the HABIT of being nUDE"/>
+                <item a="Chaque jour / tous les jours" q="Everyday / all the days" h="Every single day he waited for a CHeQUE"/>
                 <item a="Chaque semaine / toutes les semaines" q="Every week / all the weeks"/>
                 <item a="Chaque mois / tous les mois" q="Every month / all the months"/>
                 <item a="Chaque année / tous les ans" q="Every year / all the years"/>
@@ -2449,122 +2464,105 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="La lecture" q="Reading"/>
                 <item a="Aimez-vous lire?" q="Do you like reading? (formal)"/>
                 <item a="Aimes-tu lire?" q="Do you like reading? (informal)"/>
-                <item a="Qu'est-ce que vous aimez lire?" q="What do you like to read?"/>
+                <item a="Qu'est-ce que vous aimez lire?" q="What do you like to read? (+QW)"/>
                 <item a="Je lis un livre" q="I read a book"/>
-                <item a="Un roman policier" q="A detective novel"/>
+                <item a="Un roman policier" q="A detective novel" h="The most famous detective was a ex ROMAN POLICE man"/>
                 <item a="Un journal" q="A newspaper"/>
                 <item a="Les journaux" q="The newspapers"/>
                 <item a="Un magazine" q="A magazine"/>
                 <item a="Un roman de science-fiction" q="A science fiction novel"/>
-                <item a="Je m'intéresse au sport" q="I am interested in sport"/>
-                <item a="À la politique" q="In politics"/>
-                <item a="À la politique" q="In history"/>
+                <item a="Je m'intéresse au sport" q="I am interested in sport (lit. I myself is interessed in the sport)"/>
+                <item a="À la politique" q="In politics (lit. at the politics)"/>
+                <item a="À la histoire" q="In history (lit. at the history)"/>
                 <item a="Aux langues" q="In languages"/>
                 <item a="À la littérature" q="In literature"/>
             </topic>
             <topic name="Free time - Going out">
-                <item a="Que faites-vous le weekend?" q="What do you do at the weekend?"/>
-                <item a="Je vais au cinéma avec des amis" q="I go to the cinema with friends"/>
+                <item a="Que faites-vous le weekend?" q="What do you do at the weekend? (What do you the weekend?)"/>
+                <item a="Je vais au cinéma avec des amis" q="I go to the cinema with some friends"/>
                 <item a="Au théâtre" q="To the theatre"/>
-                <item a="À une exposition" q="To an exhibition"/>
+                <item a="À une exposition" q="To an exhibition" h="The exhibition was about EXPOSing the mafia"/>
                 <item a="À un match de foot" q="To a football match"/>
                 <item a="À un spectacle" q="To a show"/>
-                <item a="Le spectacle commence à quelle heure?" q="At what time does the show start? (The show starts at what time?)"/>
+                <item a="Le spectacle commence à quelle heure?" q="At what time does the show start? (The show starts at what time?)" h="I was so far back at the molan rose show I needed SPECTACLES"/>
                 <item a="Le film commence à quelle heure?" q="At what time does the film start? (The film starts at what time?)"/>
                 <item a="C'est combien l'entrée" q="How much is a ticket? (lit. it is how much for the entrance?)"/>
                 <item a="Le guichet" q="Ticket Office"/>
-                <item a="Une place au balcon" q="A balcony seat"/>
-                <item a="Une place à l'orchestra" q="A stall seat"/>
+                <item a="Une place au balcon" q="A balcony seat (lit. a place of the balcony)"/>
+                <item a="Une place à l'orchestra" q="A stall seat (lit. a place at the orchestra)"/>
                 <item a="Pour un enfant?" q="for a child?"/>
-                <item a="Il y a un tarif réduit pour les enfants?" q="Is there a reduction for children?"/>
-                <item a="Il y a un tarif réduit pour les personnes âgées?" q="Is there a reduction for Senior Citizens?"/>
-                <item a="Il y a un tarif réduit pour étudiants?" q="Is there a reduction for students?"/>
-                <item a="Il y a un tarif réduit pour les groupes?" q="Is there a reduction for groups?"/>
+                <item a="Il y a un tarif réduit pour les enfants?" q="Is there a reduction for children? (lit. Is there a tariff reduced for the children?)"/>
+                <item a="Il y a un tarif réduit pour les personnes âgées?" q="Is there a reduction for Senior Citizens? (lit. Is there a tariff reduced for the person aged?)"/>
+                <item a="Il y a un tarif réduit pour les étudiants?" q="Is there a reduction for students? (lit. Is there a tariff reduced for the students?)"/>
+                <item a="Il y a un tarif réduit pour les groupes?" q="Is there a reduction for groups? (lit. Is there a tariff reduced for the groups?)"/>
             </topic>
             <topic name="Free time - Films">
-                <item a="Quels films aimez-vous?" q="What kind of films do you like?"/>
-                <item a="Mon genre de film préfée est" q="My favourite genre is"/>
+                <item a="Quels films aimez-vous?" q="What kind of films do you like? (lit. What films like you?)"/>
+                <item a="Mon genre de film préfée est" q="My favourite genre is (lit. My genre of flim preferred is)"/>
                 <item a="Les films d'action" q="Action thrillers (lit. the films of action)"/>
                 <item a="Les films policiers" q="Detective films (lit. the films police)"/>
                 <item a="Les films comiques" q="Film comedies (lit. the films comedy)"/>
                 <item a="Les films romantiques" q="Romantic films (lit. the films romantic)"/>
                 <item a="Les films de science-fiction" q="Science-fiction movies (lit. the films of science fiction)"/>
                 <item a="Les films d'adventures" q="Adventure Movies (lit. the films of adventure)"/>
-                <item a="Les films d'épouvante" q="Horror movies (lit. the films of horror)"/>
+                <item a="Les films d'épouvante" q="Horror movies (lit. the films of horror)" h="The horror films consists of hay, POos and VANs"/>
                 <item a="Les films historiques" q="Period dramas (lit. the films historic)"/>
-                <item a="les dessins animés" q="Cartoons (lit. the drawings animated)"/>
+                <item a="les dessins animés" q="Cartoons (lit. the drawings animated)" h="The drawings were DESigned for SIN city"/>
                 <item a="une pièce de théâtre" q="Drama (lit. a piece of theatre)"/>
-                <item a="Une superproduction" q="A blockbuster"/>
+                <item a="Une superproduction" q="A blockbuster (lit. a super production)"/>
             </topic>
         </lesson>
 
         <lesson name="Week 12">
             <topic name="Free time - Opinions (1)">
                 <item a="Mon avis sur" q="My opinion on"/>
-                <item a="Je crois que c'est un très bon restaurant" q="I think that it is a very good restaurant"/>
-                <item a="Je crois que ce n'est pas un très bon restaurant" q="I think that it is a not a vey good restaurant"/>
-                <item a="Quel est votre restaurant préféfé?" q="What is your favourite restaurant?"/>
-                <item a="Mon restaurant préféfé est" q="My favourite restaurant is"/>
-                <item a="La cuisine me plaît beaucoup" q="I like the food there"/>
-                <item a="Je suis d'accord" q="I agree"/>
-                <item a="Je ne suis pas d'accord" q="I don't agree"/>
+                <item a="Je crois que c'est un très bon restaurant" q="I believe that it is a very good restaurant"/>
+                <item a="Je crois que ce n'est pas un très bon restaurant" q="I believe that it is a not a very good restaurant"/>
+                <item a="Quel est votre restaurant préféré?" q="What is your preferred restaurant?"/>
+                <item a="Mon restaurant préféré est" q="My favourite restaurant is"/>
+                <item a="La cuisine me plaît beaucoup" q="I like the food (lit. the food pleases me a lot)"/>
+                <item a="Je suis d'accord" q="I agree (lit. I am of accordance)"/>
+                <item a="Je ne suis pas d'accord" q="I don't agree (lit. I am not of accordance)"/>
                 <item a="C'est bon" q="That's good"/>
                 <item a="C'est mauvais" q="That's bad"/>
-                <item a="J'adore" q="I love"/>
-                <item a="Vous avez raison" q="You are right (formal)"/>
-                <item a="Tu as raison" q="You are right (informal)"/>
-                <item a="Vous avez tort" q="You are wrong (formal)"/>
-                <item a="Tu as tort" q="You are wrong (informal)"/>
-            </topic>
-            <topic name="Free Time - Opinions (2)">
-                <item a="Mon avis sur" q="My opinion on"/>
-                <item a="Je crois que c'est un très bon restaurant" q="I think that it is a very good restaurant"/>
-                <item a="Je crois que ce n'est pas un très bon restaurant" q="I think that it is not a very good restaurant"/>
-                <item a="Quel est votre restaurant préféré" q="What is your prefered restaurant?"/>
-                <item a="Mon restauarnt préféré" q="My prefered restaurant is"/>
-                <item a="La cuisine me plait beaucoup " q="I like the food there (The food pleases me a lot)"/>
-                <item a="Je suis d'accord" q="I agree (lit. I am in agreement)"/>
-                <item a="Je ne suis pas d'accord" q="I don't agree (lit. I am not in agreement)"/>
-                <item a="C'est bon" q="That's good"/>
-                <item a="C'est mauvais" q="That's bad"/>
-                <item a="J'adore" q="I love"/>
-                <item a="Vous avez raison" q="You are right (formal) (lit. you have reason)"/>
-                <item a="Tu as raison" q="You are right (informal) (lit. you have reason)"/>
-                <item a="vous avez tort" q="You are wrong (formal) (lit. you have wrong)"/>
-                <item a="tu as tort" q="You are wrong (informal) (lit. you have wrong)"/>
+                <item a="J'adore" q="I adore"/>
+                <item a="Vous avez raison" q="You are right (formal) (lit. You have reason)"/>
+                <item a="Tu as raison" q="You are right (informal) (lit. You have reason)"/>
+                <item a="Vous avez tort" q="You are wrong (formal (lit. You have wrong))"/>
+                <item a="Tu as tort" q="You are wrong (informal) (lit. You have wrong)"/>
             </topic>
         </lesson>
 
         <lesson name="Week 13">
             <topic name="Holdays (Last time)">
-                <item a="En vanances" q="On holidays"/>
+                <item a="En vacances" q="On holidays"/>
                 <item a="L'année dernière" q="Last year"/>
-                <item a="Qu'est-ce que vous avez fait l'année dernière" q="What did you do last year?"/>
+                <item a="Qu'est-ce que vous avez fait l'année dernière" q="What did you do last year? (What you have done the year last) (+QW)"/>
                 <item a="L'an dernier, je suis allé" q="Last year, I went to (division) (lit. The year past, I went)"/>
                 <item a="L'année dernière, je suis allé" q="Last year, I went to (duration) (lit. The year past, I went)"/>
-                <item a="Nous sommes partis en vancances" q="We went on holidays"/>
-                <item a="Où êtes-vous allé en vanances?" q="Where did you go on holidays?"/>
+                <item a="Nous sommes partis en vacances" q="We left on holidays"/>
+                <item a="Où êtes-vous allé en vaances?" q="Where did you go on holidays?"/>
                 <item a="L'été dernier, nous sommes allés à Paris" q="Last summer, we went to Paris"/>
-                <item a="Je suis allé en voiture, en bateau, en avoin" q="I went by plane, by boat, by car"/>
-                <item a="Nous sommes réstés dans un hôtel en Irlande" q="We stayed in a hotel in Ireland"/>
+                <item a="Je suis allé en voiture, en bateau, en avion" q="I went by car, by boat, by plane"/>
+                <item a="Nous sommes restés dans un hôtel en Irlande" q="We stayed in a hotel in Ireland"/>
                 <item a="Nous avons fait beaucoup de choses intéressantes" q="We did lots of interesting things"/>
                 <item a="Il y avait beaucoup de choses à voir et à faire" q="There was a lot to see and do"/>
                 <item a="J'ai visité des églises, des châteaux et des musées" q="I visited churches, castles and museums"/>
                 <item a="Nous avons visité" q="We visited"/>
                 <item a="Nous sommes allés à la plage" q="We went to the beach"/>
-                <item a="Nous nous sommes baignés" q="We swam"/>
-                <item a="J'ai pris des bains de soleil" q="I sunbathed"/>
+                <item a="Nous nous sommes baignés" q="We ourselfs bathed" h="We bathed beside the lough ness monster "/>
+                <item a="J'ai pris des bains de soleil" q="I sunbathed (lit. I have taken some baths of sun)"/>
             </topic>
             <topic name="Holdays (This time)">
                 <item a="Cette année" q="This year"/>
-                <item a="Vous partez en vacances cette année?" q="Are you going on holidays this year?"/>
+                <item a="Vous partez en vacances cette année?" q="Are you going on holidays this year? (lit. You leave en holiday this year?)"/>
                 <item a="Je vais" q="I'm going"/>
                 <item a="Nous allons à" q="We are going to"/>
                 <item a="Je ne pars pas" q="I'm staying at home (lit. I am not leaving)"/>
                 <item a="Je reste en Irlande" q="I'm staying in Ireland"/>
                 <item a="Cet été, je reste ici" q="This summer I'm staying here"/>
-                <item a="Je vais à l'étranger" q="I'm going abroad"/>
-                <item a="Je vais passer quinze jours au bord de la mer, à la campagne, à la montagne" q="I'm going to spend a forngith on the coast, in the countryside, in the mounmtains"/>
+                <item a="Je vais à l'étranger" q="I'm going abroad (lit. I go foriegn)" h="The 'foriegn' looking alien E.T. felt a stRANGER"/>
+                <item a="Je vais passer quinze jours au bord de la mer, à la campagne, à la montagne" q="I'm going to spend fifteen days on the coast, in the countryside, in the mounmtains"/>
                 <item a="Qu'est-ce qu'il y a à faire?" q="What is there to do?"/>
                 <item a="Pendant la journée" q="During the day"/>
                 <item a="On peut" q="You can (lit. one can)"/>
@@ -2578,58 +2576,58 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="faire du camping" q="go camping (lit. do)"/>
                 <item a="faire des randonnées" q="go trekking (lit. do)"/>
                 <item a="natation interdite" q="no swimming (lit. swimming prohibited)"/>
-                <item a="camping interdit" q="no camping"/>
+                <item a="camping interdit" q="no camping (lit. camping prohibited)"/>
             </topic>
             <topic name="Holidays (Next time)">
-                <item a="L'année prochaine" q="Next year (lit the year next"/>
-                <item a="Où irez-vous pour les vancances l'an prouchain?" q="Where will you go on holidays next year? (lit. Where will you go for the holidays the year next?)"/>
+                <item a="L'année prochaine" q="Next year (lit. the year next)" h="My next bike will have PRO CHAINs on it"/>
+                <item a="Où irez-vous pour les vancances l'an prochain?" q="Where will you go on holidays next year? (lit. Where will you go for the holidays the year next?)"/>
                 <item a="L'année prochaine, nous irons à l'étranger" q="Next year we will go abroad (lit. The year next, we will go abroad)"/>
                 <item a="L'an prochain, j'aimerais aller au Pays de Galles" q="The year next, I would like to go Wales"/>
-                <item a="Je vais rester en Ireland" q="I'm going to stay in Ireland"/>
-                <item a="L'année prochaine, je vais passer mes vacances en France" q="Next summer, I'll go to France (lit. The summer next, ...)"/>
-                <item a="Je vais passer quinze pours / un mois" q="I'm going to go for fortnight / one month"/>
+                <item a="Je vais rester en Irlande" q="I'm going to stay in Ireland"/>
+                <item a="L'été prochaine, je vais passer mes vacances en France" q="Next summer, I'll go to France (lit. The summer next, ...)"/>
+                <item a="Je vais passer quinze jours / un mois" q="I'm going to spend for fifteen days / one month"/>
             </topic>
         </lesson>
 
         <lesson name="Week 14">
             <topic name="Weather (1)">
-                <item a="La Mété" q="The weather forecast"/>
+                <item a="La Météo" q="The weather forecast" h="The weather forecast predicated METEOrites!"/>
                 <item a="Le climat" q="The climate"/>
                 <item a="Le temps" q="The weather"/>
-                <item a="Quel temps fait-il?" q="What's the weather like?"/>
+                <item a="Quel temps fait-il?" q="What's the weather like? (lit. what weather makes it?)"/>
                 <item a="La température" q="The temperature"/>
-                <item a="Le soleil" q="The sun"/>
+                <item a="Le soleil" q="The sun" h="The sun was so warm it burnt the SOLE of my foot and made me ILl!"/>
                 <item a="Il fait du soleil" q="It is sunny"/>
                 <item a="Le vent (faible / fort)" q="The wind (moderate / strong)"/>
-                <item a="Il y a un vent faible / fort" q="There is a moderate / strong wind"/>
+                <item a="Il y a un vent faible / fort" q="There is a moderate / strong wind (lit. there is a wind moderate / strong)"/>
                 <item a="La neige; il y a de la neige" q="The snow; There is snow"/>
-                <item a="Le verglas; il y a du verglas" q="Black ice; there is black ice"/>
+                <item a="Le verglas; il y a du verglas" q="Black ice; there is black ice" h="The black ice was like a VERtical sheet of GLASs"/>
                 <item a="La pluie; il y a de la pluie" q="The rain; there is rain"/>
-                <item a="Le brouillard; il y a du brouillard" q="The fog; there is fog"/>
-                <item a="les nuages; il y a des nuages" q="The clouds; there are clouds"/>
-                <item a="La tempête; il y a de la tempête" q="The storm; there is a storm"/>
-                <item a="le tonnerre; il y a du tonnerre" q="Thunder; there is thunder"/>
-                <item a="L'éclair; il y a des éclairs" q="Lightning; there is lightning"/>
-                <item a="la grêle; il y a de la grêle" q="Hailstones; there are hailstones"/>
+                <item a="Le brouillard; il y a du brouillard" q="The fog; there is fog" h="The fog BROUght ILLness to even the hARDest of men!"/>
+                <item a="les nuages; il y a des nuages" q="The clouds; there are clouds" h="French clouds are so NU AGE!"/>
+                <item a="La tempête; il y a de la tempête" q="The storm; there is a storm" h="The storm sounded like a TruMPET"/>
+                <item a="le tonnerre; il y a du tonnerre" q="Thunder; there is thunder" h="Thunder messed up my computer - TONs of ERRors"/>
+                <item a="L'éclair; il y a des éclairs" q="Lightning; there is lightning" h="Light bolts hit my ECLAIR!"/>
+                <item a="la grêle; il y a de la grêle" q="Hailstones; there are hailstones" h="Avoiding the hailstones required GREat LEgs"/>
             </topic>
             <topic name="Weather (2)">
-                <item a="Une vague de chaleur" q="A heat wave"/>
-                <item a="Quelle chaleur!" q="It's so hot"/>
-                <item a="Le climat est comment en?" q="What is the climate like in London?"/>
+                <item a="Une vague de chaleur" q="A heat wave" h="A massive heat came from the CHALEt"/>
+                <item a="Quelle chaleur!" q="It's so hot (lit. What heat!)"/>
+                <item a="Le climat est comment en?" q="What is the climate like in London? (lit. The climate is how in London?)"/>
                 <item a="Dans le nord de France le climat est humide" q="In the North of France the climate is damp"/>
                 <item a="Le temps est variable" q="The weather is changeable"/>
-                <item a="Il fait doux" q="The temperature is nice"/>
-                <item a="Les températures minimales" q="Minimum temperatures"/>
-                <item a="Les températures maximales" q="Maximum temperatures"/>
-                <item a="Il fait beaucoup de vent" q="It is very windy"/>
-                <item a="Les températures sont très élevées dans le sud" q="There are high temperatures in the South"/>
+                <item a="Il fait doux" q="The temperature is nice (lit. It makes sweet)"/>
+                <item a="Les températures minimales" q="Minimum temperatures (lit. the temperatures minimal)"/>
+                <item a="Les températures maximales" q="Maximum temperatures (lit. the temperatures miximum)"/>
+                <item a="Il fait beaucoup de vent" q="It is very windy (lit. It makes a lot of wind)"/>
+                <item a="Les températures sont très élevées dans le sud" q="There are high temperatures in the South" h="The amp went up so high it went to ELEVEn"/>
                 <item a="Il pleut" q="It rains"/>
                 <item a="Il neige" q="It snows"/>
                 <item a="Il tonne dans le nord" q="There is thunder in the North"/>
                 <item a="Quel temps fera-t-il?" q="What will the weater be like?"/>
-                <item a="Le soleil brille / brillera sur tout le pays" q="The sun is shining / will shine in the whole country"/>
+                <item a="Le soleil brille / brillera sur tout le pays" q="The sun is shining / will shine in the whole country" h="There is a BRILLiant shine on that car"/>
                 <item a="Il pleuvra / il fera du brouillard / il fera du vent dans le sud de Espagne" q="There wil be showers / fog / wind in the South of Spain"/>
-                <item a="Il y aura des nuages / des éclaircies ans le centre ouest" q="It will be cloud / there will be sunny spells in the Mid-West"/>
+                <item a="Il y aura des nuages / des éclaircies dans le centre ouest" q="It will be cloud / there will be sunny spells in the Mid-West"/>
                 <item a="Il fera entre 35 et 40 degrés" q="It will be between 35 and 40 degrees"/>
                 <item a="Il y a eu de la grêle dans l'ouest de la France" q="There have been hailstones in the West of France"/>
             </topic>
@@ -2638,15 +2636,15 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
         <lesson name="Week 15">
             <topic name="Countries">
                 <item a="L'Irlande" q="Ireland"/>
-                <item a="Le Royaume Uni" q="United Kingdom"/>
-                <item a="L'Angleterre" q="England"/>
-                <item a="L'Écosse" q="Scotland"/>
-                <item a="Le Pays de Galles" q="Wales"/>
-                <item a="L'Irelande du Nord" q="Northern Ireland"/>
+                <item a="Le Royaume Uni" q="United Kingdom" h="ROY, Anne, U and ME all went to UNI in the 'united kingdom'"/>
+                <item a="L'Angleterre" q="England" h="In 'England' the ANGLErs found fishing TERRiblE"/>
+                <item a="L'Écosse" q="Scotland" h="Scotlands has an excellent ECO SyStEm"/>
+                <item a="Le Pays de Galles" q="Wales (lit. The country of Wales)"/>
+                <item a="L'Irlande du Nord" q="Northern Ireland"/>
                 <item a="L'Espagne" q="Spain "/>
                 <item a="L'Europe" q="Europe"/>
                 <item a="L'Allemagne" q="Germany"/>
-                <item a="La Begique" q="Belgium"/>
+                <item a="La Belgique" q="Belgium"/>
                 <item a="La France" q="France"/>
                 <item a="Le Luxembourg" q="Luxembourg"/>
                 <item a="La Grèce" q="Greece"/>
@@ -2662,8 +2660,8 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="Le Canada" q="Canada"/>
             </topic>
             <topic name="Countrys">
-                <item a="irelandais" q="Irish (m)"/>
-                <item a="irelandaise" q="Irish (f)"/>
+                <item a="irlandais" q="Irish (m)"/>
+                <item a="irlandaise" q="Irish (f)"/>
                 <item a="britannique" q="British"/>
                 <item a="anglais" q="English (m)"/>
                 <item a="anglaise" q="English (f)"/>
@@ -2707,6 +2705,7 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="canadienne" q="Canadian (f)"/>
             </topic>
         </lesson>
+        
         <lesson name="Week 16">
             <topic name="Perfect Tense With Avoir (Past tense)">
                 <item a="J'ai bu. J'ai cru. J'ai entendu" q="I drank. I believed. I heard"/>
@@ -2719,7 +2718,7 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="J'ai su. J'ai vu. J'ai voulu. J'ai reçu" q="I have known. I have seen. I have wanted. I have received."/>
             </topic>
             <topic name="Perfect Tense With Être (Past Tense)">
-                <item a="to go, to come, to go back. to stay, to arrive, to depart, to go in, to go out, to go up, to go down, to fall, to be born, to die" q="13 past tense être verbs (to xx, to .., etc)"/>
+                <item a="to go, to come, to go back, to stay, to arrive, to depart, to go in, to go out, to go up, to go down, to fall, to be born, to die" q="13 past tense être verbs (to xx, to .., etc)"/>
                 <item a="aller / allé" q="to go (infinitive / past participle) "/>
                 <item a="venir / venu" q="to come (infinitive / past participle)"/>
                 <item a="retourner / retourné" q="to go back (infinitive / past participle)  "/>
@@ -2763,22 +2762,23 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="vouloir / voudr" q="To want (infinitive / future simple stem)"/>
             </topic>
         </lesson>
+        
         <lesson name="Week 17">
             <topic name="Accomodation (General)">
                 <item a="L'hébergement" q="Accommodation"/>
-                <item a="Un hotel" q="A hotel"/>
+                <item a="Un hôtel" q="A hotel"/>
                 <item a="Un appartement" q="An apartment"/>
                 <item a="Un camping" q="A campsite"/>
                 <item a="Une caravane" q="A caravan"/>
-                <item a="Une auberge de jeunesse" q="A youth hostel"/>
+                <item a="Une auberge de jeunesse" q="A youth hostel" h="The youth hostel give away loads of AUBERGinE" />
                 <item a="À l'hôtel" q="At the hotel"/>
                 <item a="Je voudrais réserver une chambre" q="I'd like to book a room"/>
                 <item a="Pour une nuit" q="For one night"/>
-                <item a="Pout une semaine" q="For one week"/>
+                <item a="Pour une semaine" q="For one week"/>
                 <item a="Pour deux semaines" q="For two weeks"/>
             </topic>
             <topic name="Accomodation (Hotel)">
-                <item a="Peut-on réserver provisoirement?" q="Would it be possible to make a provisional booking? (lit. Can one reserve provsionally)"/>
+                <item a="Peut-on réserver provisoirement?" q="Would it be possible to make a provisional booking? (lit. Can one reserve provisionally)"/>
                 <item a="Pouvez-vous confirmer par email?" q="Can you confirm by email?"/>
                 <item a="C'est pour trois personnes, pour deux nuits" q="It's for three people, for two nights"/>
                 <item a="La chambre coûte combien par nuit?" q="How much does the room cost per night? (lit. The room costs how much per night?)"/>
@@ -2794,45 +2794,46 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
             </topic>
             <topic name="Accomodation (Camping)">
                 <item a="Au camping" q="The campsite"/>
-                <item a="Je voudrais réserver un emplacement" q="I'd like to reserve a location"/>
+                <item a="Je voudrais réserver un emplacement" q="I'd like to reserve a location" h="The location for new student EMployee PLACEMENT, was in the cupboard!"/>
                 <item a="Pour une tente à quatre personnes" q="For a tent for four people"/>
-                <item a="Est-ce que le camping est gardé la nuit" q="Is the campsite supervised at night? (+QW)"/>
+                <item a="Est-ce que le camping est gardé la nuit" q="Is the campsite supervised at night? (+QW)" h="The irish GARDE guard the place"/>
                 <item a="Est-ce qu'il y a l'électricité?" q="Is there electricity? (+QW)"/>
                 <item a="Est-ce qu'il y a l'eau potable?" q="Is there drinking water? (+QW) (lit. is there the water drinking?)"/>
                 <item a="Eau non potable" q="Non-drinking water (lit. water non drinking)"/>
                 <item a="Peut-on pêcher dans la rivière?" q="Can you go fishing in the river? (lit. can one fish in the river?)"/>
-                <item a="Peut-on pêcher dans le lac?" q="Can you go fishing In the lake? (lit. can one fish in the lake?)"/>
+                <item a="Peut-on pêcher dans le lac?" q="Can you go fishing In the lake? (lit. can one fish in the lake?)" h="There is a secret river in the French RIVIERa"/>
                 <item a="Peut-on pêcher dans d'ici?" q="Can you go fishing around here? (lit. can one fish from here?)"/>
             </topic>
             <topic name="Accomodation (Payment)">
                 <item a="Paiement" q="Payment"/>
-                <item a="Comment est-ce que je peux payer?" q="How can I pay? (+QW)"/>
+                <item a="Comment est-ce que je peux payer?" q="How can I pay? (lit. how is it that I can pay?)"/>
                 <item a="On peut payer par carte de crédit?" q="Can we pay by credit card? (lit. One can pay by card of credit?)"/>
                 <item a="On peut payer par chèque?" q="Can we pay by cheque? (lit. One can pay by cheque?)"/>
-                <item a="On peut payer en liquide?" q="Can we pay by cash? (lit. One can pay by cash?)"/>
+                <item a="On peut payer en liquide?" q="Can we pay by cash? (lit. One can pay by cash?)" h="Lots of cash so good LIQUIDity"/>
                 <item a="Vous devez payer à l'avance" q="You need to pay in advance"/>
-                <item a="Il faut payer des arrhes à la réservation" q="You need to pay a deposit when you make the reservation (lit. it is necessary ...)"/>
+                <item a="Il faut payer des arrhes à la réservation" q="You need to pay a deposit when you make the reservation (lit. it is necessary ...)" h="The deposit helped but was in ARREarS for "/>
                 <item a="Quel est le prix en saison?" q="What is the price in high season? (lit. what is the price on season?)"/>
                 <item a="Quel est le prix hors saison?" q="What is the price in low season? (lit. what is the price off season?)"/>
-                <item a="Je doirs" q="I must"/>
+                <item a="Je dois" q="I must"/>
                 <item a="Je vais vous envoyer" q="I will send you (lit. I am going you to send)"/>
             </topic>
         </lesson>
+
         <lesson name="Week 18">
             <topic name="Accomodation (Complaints / Camping)">
                 <item a="Vous avez des réclamations?" q="Do you have any complaints? "/>
                 <item a="J'ai une réclamation" q="I have a complaint"/>
-                <item a="Le robinet ne marche pas" q="The tap does not work"/>
-                <item a="Le chauffage est un panne" q="The heating does not work (lit. the heating is a failure)"/>
-                <item a="La climatisation ne parche pas" q="The air conditioning does not work"/>
-                <item a="Il n'y a pas de savon" q="There is no soap"/>
-                <item a="Il n'y a pas de serviettes" q="There are no towels"/>
+                <item a="Le robinet ne marche pas" q="The tap does not work" h="Who broke the tap cried ROBIN!"/>
+                <item a="Le chauffage est en panne" q="The heating does not work (lit. the heating is a failure)" h="The heating was very hot but old"/>
+                <item a="La climatisation ne marche pas" q="The air conditioning does not work" h="Air condition is for the CLIMATe isation"/>
+                <item a="Il n'y a pas de savon" q="There is no soap" h="I was so dirty the soap was a SAVOur"/>
+                <item a="Il n'y a pas de serviettes" q="There are no towels" h="This towel is basically a large SERVIETTE!"/>
                 <item a="La chambre est affreuse" q="The room is horrible"/>
                 <item a="C'est sale" q="It is dirty"/>
-                <item a="Ils sont sone" q="They are not clean (m)"/>
+                <item a="Ils sont sales" q="They are not clean (m)"/>
                 <item a="Elle sont panne" q="It is broken (f)"/>
                 <item a="Je suis vraiment désolé" q="I am truly sorry, Sir / Madam"/>
-                <item a="I am going to send you the maid" q="Je vais vous envoyer la femme de chambre"/>
+                <item a="Je vais vous envoyer la femme de chambre" q="I am going to send you the maid (lit. the woman of bedroom)" />
             </topic>
             <topic name="Official Letters (1)">
                 <item a="Top left" q="Official letters - Where is the address of sender (answer in english)?"/>
@@ -2842,42 +2843,45 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="Madame" q="Dear Madam"/>
                 <item a="Monsieur / Madame" q="Dear Sir or Madam"/>
                 <item a="Chère Madame" q="Dear Mrs Brown"/>
-                <item a="Chère" q="Dear Mr Green"/>
+                <item a="Cher Monsieur" q="Dear Mr Green"/>
                 <item a="Je voudrais" q="I would like"/>
                 <item a="louer" q="to hire / rent"/>
                 <item a="réserver" q="to reserve / book"/>
                 <item a="savoir" q="to know"/>
                 <item a="changer" q="to change"/>
                 <item a="Veuillez" q="Please (would you - imperative)"/>
-                <item a="Je vous prie de bien vouloir" q="Please (lit. I pray you well want)"/>
-                <item a="Je vous serais reconnaissant de" q="I would be grateful"/>
+                <item a="Je vous prie de bien vouloir" q="Please (lit. I you pray of well to want)"/>
+                <item a="Je vous serais reconnaissant de" q="I would be grateful (lit. I you would be grateful of)"/>
                 <item a="Veuillez me faire savoir" q="Please let me know"/>
-                <item a="Je vous prie de me faire savoir" q="Please let me know"/>
-                <item a="s'il serait possible de" q="if it would be possible"/>
+                <item a="Je vous prie de me faire savoir" q="Please let me know (lit. I you pray of me to do know"/>
+                <item a="s'il serait possible de" q="if it would be possible for"/>
             </topic>
             <topic name="Official Letters (2)">
                 <item a="M'envoyer une brochure" q="send me a brochure"/>
-                <item a="Pouvez-vous m'envoyer une brochure" q="Could you send me a brochure?"/>
+                <item a="Pouvez-vous m'envoyer une brochure?" q="Could you send me a brochure?"/>
                 <item a="Je suis obligé de changer les dates" q="I have to change the dates (lit. I am obliged of to change the dates)"/>
-                <item a="Je vous serais reconnaissant de " q="I would be grateful if you could"/>
+                <item a="Je vous serais reconnaissant de " q="I would be grateful if you could" h="I am grateful that you RECOgNISe the ANTs"/>
                 <item a="changer ma réservation" q="change my booking"/>
-                <item a="au lendemain" q="to the following day"/>
-                <item a="à la semaine suivante" q="to the following week"/>
+                <item a="au lendemain" q="to the following day (lit. to the tomorrow)" h="Tomoorow I need you to LEND some money MAN"/>
+                <item a="à la semaine suivante" q="to the following week" h="Following this, you will do well to SUrVIve ANT attack"/>
                 <item a="aux dates suivantes" q="to the following dates"/>
-                <item a="Serait-il possible de changer les dates?" q="Would it be possible to change the dates?"/>
+                <item a="Serait-il possible de changer les dates?" q="Would it be possible to change the dates? (lit. Would be it possible for to change the dates?) (m)" />
                 <item a="Mon avion arrive" q="My flight arrives at"/>
                 <item a="du 13 au 18 inclus" q="from the 13th to the 18th inclusive"/>
-                <item a="au lieu de" q="instead of"/>
-                <item a="Nous partons le" q="We leave on the"/>
-                <item a="Veuillez trouver ci-joint" q="Please find enclosed"/>
-                <item a="Je joins " q="I am enclosing"/>
-                <item a="des arrhes" q="a deposit"/>
-                <item a="100 euros d'arrhes" q="a 100 euro deposit"/>
-                <item a="Je vous remercie à l'avance" q="Thank you in anticipation"/>
-                <item a="Je vous prie d'agréer, Madame / Monsieur, l'expression de mes salutations distinquées" q="Formal ending "/>
+                <item a="au lieu de" q="instead of (lit. in the place of)"/>
+                <item a="Nous partons le" q="We leave on the (lit. we leave the)"/>
+                <item a=" trouver ci-joint" q="Please find attached" h="Attached to the CIgar was a JOINT!"/>
+                <item a="Je joins " q="I am enclosing (lit. I join)"/>
+                <item a="des arrhes" q="a deposit (lit. some deposit)"/>
+                <item a="100 euros d'arrhes" q="a 100 euro deposit (100 euros of deposit)"/>
+                <item a="Je vous remercie à l'avance" q="Thank you in anticipation (lit. I you rethank at the advance)"/>
+                <item a="Je vous prie d'agréer, Madame / Monsieur, l'expression de mes salutations distinquées" q="Formal ending" h="John Vergo Plays darts almost murdering mother! Lee Evans dates massive slimey dragon!"/>
                 <item a="Je m'excuse de tout inconvénient causé" q="I am sorry for any inconvenience caused"/>
             </topic>
         </lesson>
+
+<!-- GOT AS FAR AS HERE -->        
+        
         <lesson name="Week 19">
             <topic name="Shopping (Shop types)">
                 <item a="Faire les courses" q="Going Shopping"/>
@@ -2886,11 +2890,11 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="Le supermarché" q="The supermarket"/>
                 <item a="Le grand magasin" q="The department store (lit. the big shop)"/>
                 <item a="La boutique" q="The boutique"/>
-                <item a="Le centre commercial" q="The shopping centre"/>
+                <item a="Le centre commercial" q="The shopping centre (lit. the centre commercial)"/>
                 <item a="La boulangerie" q="The bakery"/>
-                <item a="La pâtisserie" q="The cake shop"/>
+                <item a="La pâtisserie" q="The cake shop" h="Postman PAT IS SERIous about his cakes!"/>
                 <item a="La boucherie" q="The butcher's"/>
-                <item a="La charcuterie" q="The butcher's (cold / cured meats)"/>
+                <item a="La charcuterie" q="The butcher's (cold / cured meats)" h="CHARed CUT's of ERIc"/>
                 <item a="L'épicerie" q="The grocer's"/>
                 <item a="Le marchand de fruits" q="The fruit shop (lit. The merchant of fruit)"/>
                 <item a="La pharmacie" q="The chemist's shop"/>
@@ -2907,10 +2911,10 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="de l'alcool" q="Alcohol"/>
                 <item a="du vin" q="Wine"/>
                 <item a="du fromage" q="Cheese"/>
-                <item a="des produits laitiers" q="Diary products"/>
+                <item a="des produits laitiers" q="Diary products" h="Some produits milk"/>
                 <item a="des fruits secs" q="Nuts (lit. fruits dried)"/>
-                <item a="des noix, noisettes" q="Walnuts, hazelnuts"/>
-                <item a="la pâtisserie" q="Pastries"/>
+                <item a="des noix, noisettes" q="Walnuts, hazelnuts" h="Nuts are so NOIsy"/>
+                <item a="la pâtisserie" q="The pastrie"/>
                 <item a="du parfum" q="Perfume"/>
                 <item a="des jouets" q="Toys"/>
                 <item a="un gâteau. les gâteaux" q="A cake. The cakes"/>
@@ -2923,13 +2927,13 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="Au premier étage" q="On the first floor"/>
                 <item a="Au deuxième étage" q="On the second floor"/>
                 <item a="Au rayon des jouets" q="In the toys department (lit. in the section of toys)"/>
-                <item a="Allez à la caisse" q="Go to the cashier"/>
+                <item a="Allez à la caisse" q="Go to the cashier" h="!"/>
                 <item a="Ça coûte combien?" q="How much is it? (lit. It costs how much?)"/>
-                <item a="Je vous dois combien?" q="How much do I owe you? (lit. I owe (must) you how much?)"/>
+                <item a="Je vous dois combien?" q="How much do I owe you? (lit. I you owe (must) how much?)"/>
                 <item a="Vous n'avez rien de moins cher?" q="Do you have anything cheaper? (You have not nothing of less dear?)"/>
                 <item a="Je peux l'échanger?" q="Can I exchange it? (lit. I can it exchange?)"/>
                 <item a="Pouvez-vous me donner un reçu?" q="Can you give me a receipt?"/>
-                <item a="Gratuit" q="Free"/>
+                <item a="Gratuit" q="Free" h="Its free? I am so GRATeful for IT!"/>
                 <item a="Promotions" q="Promotions"/>
                 <item a="prix promotionnel" q="Special price (lit. price promotional)"/>
                 <item a="Des soldes" q="Sales"/>
@@ -2937,13 +2941,14 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="Distributeur Automatique" q="Dispensing Machine (lit. Distributor automatic)"/>
                 <item a="Mode d'emploi" q="Instructions (lit. Mode of Manual)"/>
                 <item a="Sélectionnez votre boisson" q="Select drink (lit. Select your drink)"/>
-                <item a="Tapez le code" q="Enter code (lit. type the code)"/>
-                <item a="Introduisez les pièces dans la fente" q="Put coins in slot (lit. Insert the pieces in the slot)"/>
+                <item a="Tapez le code" q="Enter code (lit. type the code)" h="To type, you TAP!"/>
+                <item a="Introduisez les pièces dans la fente" q="Put coins in slot (lit. Insert the pieces in the slot)" h="The slots in the FENce need TEnding"/>
                 <item a="Poussez le bouton pour obtenir votre monnaie" q="Push button for your change (lit. Push the button to obtain your money)"/>
             </topic>
         </lesson>
+        
         <lesson name="Week 20">
-            <topic name="Traval / Transport (1)">
+            <topic name="Travel / Transport (1)">
                 <item a="Qu'est-ce qui se passe?" q="What is wrong? (lit. What's going on?)"/>
                 <item a="Quel est le problème?" q="What is the problem?"/>
                 <item a="Il vous faut" q="You need (formal) (to be neccessary)"/>
@@ -2965,7 +2970,7 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="L'eau" q="The water"/>
                 <item a="L'huile" q="The oil"/>
             </topic>
-            <topic name="Traval / Transport (2)">
+            <topic name="Travel / Transport (2)">
                 <item a="Pouvez-vous envoyer un mécanicien immédiatement?" q="Can you send a mechanic immediately?"/>
                 <item a="Ça va coûter combien?" q="It is going to cost how much?"/>
                 <item a="Ça va coûter" q="It is going to cost"/>
@@ -2989,6 +2994,7 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="Puis-je rendre la voiture à Rennes?" q="Can I return the car in Rennes?"/>
             </topic>
         </lesson>
+        
         <lesson name="Week 21">
             <topic name="Traffic Signs">
                 <item a="Les panneaux de signalisation" q="Traffic Signs (lit. the panels of signaling)"/>
@@ -3062,6 +3068,7 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="Pouvez-vous me donner vos coordonnées?" q="Can you give me your details"/>
             </topic>
         </lesson>
+        
         <lesson name="Week 22">
             <topic name="Health And Welfare (General)">
                 <item a="La maladie / La santé" q="Sickness / Health (lit. the sickness / the health)"/>
@@ -3099,7 +3106,7 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="J'ai mal au poignet" q="My wrist hurts (lit. I have ill at the wrist)" h="POly pIG went fishing but got her wrist caught in the NET!!!"/>
                 <item a="Je pense que je me suis fracturé le pied" q="I think that I have fractured my foot (lit. I think that I am fractured the foot)"/>
                 <item a="Je pense que je me suis cassé le bras" q="I think that I have broken my arm (lit. I think that I am broken the arm)" h="You need arms to put on BRAS!"/>
-                <item a="Je pense que je me suis brûlé la jambe" q="I think that I have burned my leg (lit. I think that I am broken the leg)" h="tap your leg and JAM to the BEat!"/>
+                <item a="Je pense que je me suis brûlé la jambe" q="I think that I have burned my leg (lit. I think that I am burned my leg)" h="tap your leg and JAM to the BEat!"/>
                 <item a="La cheville" q="the ankle" h="The posh horse (CHEval)in the VILLE had sore ankle"/>
                 <item a="L'oeil" q="the eye" h="Dont get OIL in your Eye!"/>
                 <item a="Le coude" q="the elbow" h="Elbow your way through the CrOUds"/>
@@ -3111,6 +3118,7 @@ French Course at Belfast Metropolitan College (Levels 1,2,3)
                 <item a="J'ai la cheville gonflée" q="My ankle is swollen (lit. I have the ankle swollen)"/>
             </topic>
         </lesson>
+        
         <lesson name="Week 23">
             <topic name="Health And Welfare (Prescription)">
                 <item a="Je vais vous donner une ordonnance" q="I'm going to give you a prescription" h="ORdinary DONNA once got a prescription"/>
