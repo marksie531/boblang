@@ -67,7 +67,7 @@ public class BobLangPanel extends JPanel implements ActionListener, CaretListene
 
 	// GUI fields
 	private JPanel mainPanel, coursePanel, lessonPanel, topicPanel;
-	private JCheckBox shuffleCB, examMode, hintMode;
+	private JCheckBox shuffleCB, examMode, hintMode, reverseMode;
 	private JTextComponent curInput = null, limitInput;
 	private JButton startButton, hintButton, checkButton, editButton;
 	private JLabel examLabel;
@@ -406,7 +406,7 @@ public class BobLangPanel extends JPanel implements ActionListener, CaretListene
 	 * @return
 	 */
 	private JPanel getActionsPanel() {
-		double[][] sizes = { { 5, PREF, 5, PREF, 5 },
+		double[][] sizes = { { 5, PREF, 5, PREF, 5, PREF, 5 },
 				{ 5, PREF, 5, PREF, 5, PREF, 5, PREF, 5 } };
 		JPanel panel = new JPanel(new TableLayout(sizes));
 
@@ -438,6 +438,11 @@ public class BobLangPanel extends JPanel implements ActionListener, CaretListene
 		examMode = new JCheckBox("Exam");
 		examMode.setName("exam");
 		examMode.addActionListener(this);
+		
+		reverseMode = new JCheckBox("Reverse");
+		reverseMode.setName("reverse");
+		reverseMode.addActionListener(this);
+		
 		limitInput = new JTextField(4);
 		limitInput.setVisible(false);
 		
@@ -452,7 +457,8 @@ public class BobLangPanel extends JPanel implements ActionListener, CaretListene
 		panel.add(shuffleCB, "3,1");
 		panel.add(hintMode, "3,3");
 		panel.add(examMode, "3,5");
-		panel.add(limitInput, "3,7");
+		panel.add(limitInput, "5,5");
+		panel.add(reverseMode, "3,7");
 
 		return panel;
 	}
@@ -541,15 +547,24 @@ public class BobLangPanel extends JPanel implements ActionListener, CaretListene
 			}
 
 			// Add items
+			boolean reverse = reverseMode.isSelected();
 			for (int i = 0; i < limit; i++) {
 				String key = keys.get(i);
+				String value = itemMap.get(key);
 
 				JLabel labelNum = new JLabel();
 				labelNum.setText((i + 1) + "     ");
 				labelNum.setFont(FONT_SMALL);
 
 				JLabel labelQuestion = new JLabel();
-				labelQuestion.setText(key + " ");
+				if (reverse) {
+					labelQuestion.addMouseListener(this);
+					labelQuestion.setName("reverse:" + key);
+					labelQuestion.setText(value + " ");
+				}
+				else {
+					labelQuestion.setText(key + " ");
+				}
 				
 				JTextField inputAnswer = new JTextField(40);
 				inputAnswer.setName("input:" + key);
@@ -693,19 +708,21 @@ public class BobLangPanel extends JPanel implements ActionListener, CaretListene
 	private void check(String name) {
 		JTextField inputTF = getInput(name);
 
-		String input = inputTF.getText().trim();
-		String answer = itemMap.get(name.substring(6));
-		if (answer.equalsIgnoreCase(input)) {
-			inputTF.setBackground(COLOR_OK);
-		} else {
-			for (char c : REPLACES.toCharArray()) {
-				input = input.replace(String.valueOf(c), "");
-				answer = answer.replace(String.valueOf(c), "");
-			}
-			if (input.equalsIgnoreCase(answer)) {
-				inputTF.setBackground(COLOR_ALMOST);
+		if (inputTF != null) {
+			String input = inputTF.getText().trim();
+			String answer = itemMap.get(name.substring(6));
+			if (answer.equalsIgnoreCase(input)) {
+				inputTF.setBackground(COLOR_OK);
 			} else {
-				inputTF.setBackground(Color.white);
+				for (char c : REPLACES.toCharArray()) {
+					input = input.replace(String.valueOf(c), "");
+					answer = answer.replace(String.valueOf(c), "");
+				}
+				if (input.equalsIgnoreCase(answer)) {
+					inputTF.setBackground(COLOR_ALMOST);
+				} else {
+					inputTF.setBackground(Color.white);
+				}
 			}
 		}
 	}
@@ -991,6 +1008,14 @@ public class BobLangPanel extends JPanel implements ActionListener, CaretListene
 				if (name.startsWith("hint:")) {
 					String key = name.substring(5);
 					label.setText (" (" + itemHintMap.get(key) + " )");
+				}
+				else if (name.startsWith("reverse:")) {
+					String key = name.substring(8);
+					
+					JTextField inputTF = getInput("input:" + key);
+					if (inputTF != null) {
+						inputTF.setText (key);
+					}
 				}
 			}
 		}
