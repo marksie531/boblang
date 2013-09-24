@@ -32,6 +32,8 @@ to return     rentrer        rentré
     =========================================================================================
     -->
     <course name="Level 1">
+    
+        <!--  WEEK 1 -->
         <lesson name="Week 1">
             <topic name="Conversation (Introducing yourself)">
                 <item a="Bonjour Monsieur" q="Hello (to a man)"/>
@@ -939,6 +941,8 @@ to return     rentrer        rentré
     =========================================================================================
     -->
     <course name="Level 2">
+    
+        <!--  WEEK 1 -->
         <lesson name="Week 1">
             <topic name="Languages">
                 <item a="la langues" q="Languages"/>
@@ -1015,6 +1019,8 @@ to return     rentrer        rentré
                 <item a="Opinion personnelle" q="Personal opinion"/>
             </topic>
         </lesson>
+        
+        <!--  WEEK 2 -->
         <lesson name="Week 2">
             <topic name="Misc Words 2">
                 <item a="bonne journée" q="good day"/>
@@ -1088,6 +1094,8 @@ to return     rentrer        rentré
                 <item a="Ils sont à Belfast depuis deux semaines" q="They (m) have been in Belfast for two weeks (lit. They are in Belfast)"/>
             </topic>
         </lesson>
+        
+        <!--  WEEK 3 -->
         <lesson name="Week 3">
             <topic name="Family (1)">
                 <item a="Le père" q="Father"/>
@@ -1236,8 +1244,9 @@ to return     rentrer        rentré
                 <item a="un café au lait" q="A large milky coffee serverd at breakfast"/>
             </topic>
         </lesson>
+        
+        <!--  WEEK 4 -->
         <lesson name="Week 4">
-
             <topic name="Verb To get up - Se lever">
                 <item a="Je me lève" q="I get up (am getting up)"/>
                 <item a="Tu te lèves" q="You get up (am getting up) (singular or family, children, pets)"/>
@@ -1299,6 +1308,8 @@ to return     rentrer        rentré
                 <item a="Elles préfèrent" q="They prefer (feminine)"/>
             </topic>
         </lesson>
+        
+        <!--  WEEK 5 -->
         <lesson name="Week 5">
             <topic name="Free Time / Leisure 1">
                 <item a="Quel est votre passetemps favori?" q="What is your favourite past-time? (formal)"/>
@@ -1368,6 +1379,8 @@ to return     rentrer        rentré
                 <item a="Les journaux" q="Newspapers"/>
             </topic>
         </lesson>
+        
+        <!--  WEEK 6 -->
         <lesson name="Week 6">
             <topic name="Travel">
                 <item a="La gare SNCF" q="The railway station (in France)"/>
@@ -1415,6 +1428,8 @@ to return     rentrer        rentré
                 <item a="Le dernier train est à deux heures" q="The last train is at 2 o'clock"/>
             </topic>
         </lesson>
+        
+        <!--  WEEK 7 -->
         <lesson name="Week 7">
             <topic name="Accommodation (1)">
                 <item a="La réception" q="Reception"/>
@@ -1457,6 +1472,8 @@ to return     rentrer        rentré
                 <item a="La carte d'identité" q="Id card"/>
             </topic>
         </lesson>
+        
+        <!--  WEEK 8 -->
         <lesson name="Week 8">
             <topic name="Accommodation (2)">
                 <item a="À quel étage?" q="On which floor?"/>
@@ -1494,6 +1511,8 @@ to return     rentrer        rentré
                 <item a="Repas" q="Meals"/>
             </topic>
         </lesson>
+        
+        <!--  WEEK 9 -->
         <lesson name="Week 9">
             <topic name="Eating Out (1)">
                 <item a="Au restaurant" q="At the restaurant"/>
@@ -1564,6 +1583,8 @@ to return     rentrer        rentré
                 <item a="la poire" q="Pear"/>
             </topic>
         </lesson>
+        
+        <!--  WEEK 10 -->
         <lesson name="Week 10">
             <topic name="Health and Welfare (1)">
                 <item a="Comment allez-vous?" q="How are you (formal)?"/>
@@ -1618,6 +1639,8 @@ to return     rentrer        rentré
                 <item a="J'ai froid" q="I am cold"/>
             </topic>
         </lesson>
+        
+        <!--  WEEK 11 -->
         <lesson name="Week 11">
             <topic name="Clothes">
                 <item a="un jean" q="jeans"/>
@@ -1735,6 +1758,8 @@ to return     rentrer        rentré
                 <item a="noir" q="black"/>
             </topic>
         </lesson>
+        
+        <!--  WEEK 12 -->
         <lesson name="Week 12">
             <topic name="Services (1)">
                 <item a="Où est la poste, s'il vous plaît?" q="Where is the Post Office, please?"/>
@@ -1865,6 +1890,7 @@ to return     rentrer        rentré
     -->
     <course name="Level 3">
 
+        <!--  WEEK 1 -->
         <lesson name="Week 1">
             <topic name="Invitations - Questions">
                 <item a="Que faites-vous ce soir?" q="What are you doing this evening (formal) (lit. What do you this evening?)"/>
@@ -1908,6 +1934,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
 
+        <!--  WEEK 2 -->
         <lesson name="Week 2">
             <topic name="Verb to Want - Vouloir">
                 <item a="Je veux" q="I want"/>
@@ -1960,6 +1987,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
 
+        <!--  WEEK 3 -->
         <lesson name="Week 3">
             <topic name="On the Telephone">
                 <item a="Au téléphone" q="On the telephone"/>
@@ -1975,6 +2003,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
         
+        <!--  WEEK 4 -->
         <lesson name="Week 4">
             <topic name="Describing someone">
                 <item a="Décrire" q="To describe"/>
@@ -2027,6 +2056,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
         
+        <!--  WEEK 5 -->
         <lesson name="Week 5">
             <topic name="House and Home (1)">
                 <item a="Décrivez votre appartement" q="Describe your flat"/>
@@ -2081,6 +2111,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
 
+        <!--  WEEK 6 -->
         <lesson name="Week 6">
             <topic name="Where do you live? (1)">
                 <item a="Où est votre maison?" q="Where is your house?"/>
@@ -2156,6 +2187,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
 
+        <!--  WEEK 7 -->
         <lesson name="Week 7">
             <topic name="Everyday Life (My family 1)">
                 <item a="Ma famille et moi" q="My family and myself"/>
@@ -2206,6 +2238,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
         
+        <!--  WEEK 8 -->
         <lesson name="Week 8">
             <topic name="Everyday Life (school)">
                 <item a="À l'école" q="At school"/>
@@ -2302,6 +2335,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
         
+        <!--  WEEK 9 -->
         <lesson name="Week 9">
             <topic name="Work (Where / How)">
                 <item a="Je travaille dans une enterprise" q="I work in a firm (lit. in a enterprise)"/>
@@ -2367,6 +2401,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
 
+        <!--  WEEK 10 -->
         <lesson name="Week 10">
             <topic name="Free Time - What do you do?">
                 <item a="Qu'est-ce que vous faites quand vous avez le temps?" q="What do you do when you have the time? (+QW)"/>
@@ -2459,6 +2494,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
 
+        <!--  WEEK 11 -->
         <lesson name="Week 11">
             <topic name="Free Time - Reading">
                 <item a="La lecture" q="Reading"/>
@@ -2513,6 +2549,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
 
+        <!--  WEEK 12 -->
         <lesson name="Week 12">
             <topic name="Free time - Opinions (1)">
                 <item a="Mon avis sur" q="My opinion on"/>
@@ -2533,6 +2570,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
 
+        <!--  WEEK 13 -->
         <lesson name="Week 13">
             <topic name="Holdays (Last time)">
                 <item a="En vacances" q="On holidays"/>
@@ -2589,6 +2627,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
 
+        <!--  WEEK 14 -->
         <lesson name="Week 14">
             <topic name="Weather (1)">
                 <item a="La Météo" q="The weather forecast" h="The weather forecast predicated METEOrites!"/>
@@ -2633,6 +2672,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
 
+        <!--  WEEK 15 -->
         <lesson name="Week 15">
             <topic name="Countries">
                 <item a="L'Irlande" q="Ireland"/>
@@ -2706,6 +2746,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
         
+        <!--  WEEK 16 -->
         <lesson name="Week 16">
             <topic name="Perfect Tense With Avoir (Past tense)">
                 <item a="J'ai bu. J'ai cru. J'ai entendu" q="I drank. I believed. I heard"/>
@@ -2763,6 +2804,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
         
+        <!--  WEEK 17 -->
         <lesson name="Week 17">
             <topic name="Accomodation (General)">
                 <item a="L'hébergement" q="Accommodation"/>
@@ -2819,6 +2861,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
 
+        <!--  WEEK 18 -->
         <lesson name="Week 18">
             <topic name="Accomodation (Complaints / Camping)">
                 <item a="Vous avez des réclamations?" q="Do you have any complaints? "/>
@@ -2880,8 +2923,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
 
-<!-- GOT AS FAR AS HERE -->        
-        
+        <!--  WEEK 19 -->        
         <lesson name="Week 19">
             <topic name="Shopping (Shop types)">
                 <item a="Faire les courses" q="Going Shopping"/>
@@ -2947,6 +2989,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
         
+        <!--  WEEK 20 -->
         <lesson name="Week 20">
             <topic name="Travel / Transport (1)">
                 <item a="Qu'est-ce qui se passe?" q="What is wrong? (lit. What's going on?)"/>
@@ -2995,6 +3038,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
         
+        <!--  WEEK 21 -->
         <lesson name="Week 21">
             <topic name="Traffic Signs">
                 <item a="Les panneaux de signalisation" q="Traffic Signs (lit. the panels of signaling)"/>
@@ -3069,6 +3113,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
         
+        <!--  WEEK 22 -->
         <lesson name="Week 22">
             <topic name="Health And Welfare (General)">
                 <item a="La maladie / La santé" q="Sickness / Health (lit. the sickness / the health)"/>
@@ -3119,6 +3164,7 @@ to return     rentrer        rentré
             </topic>
         </lesson>
         
+        <!--  WEEK 23 -->
         <lesson name="Week 23">
             <topic name="Health And Welfare (Prescription)">
                 <item a="Je vais vous donner une ordonnance" q="I'm going to give you a prescription" h="ORdinary DONNA once got a prescription"/>
@@ -3182,5 +3228,149 @@ to return     rentrer        rentré
             </topic>
         </lesson>
     </course>
+    
+    
+    
+    
+    <!--
+    =========================================================================================
+    LEVEL 4
+    =========================================================================================
+    -->
+    <course name="Level 4">
+    
+        <!--  WEEK 1 -->
+        <lesson name="Week 1">    
+            <topic name="Social Contact">
+                <item a="être né" q="To be born (m)"/>
+                <item a="être née" q="To be born (f)"/>
+                <item a="Où êtes-vous né?" q="Where were you born? (m)"/>
+                <item a="Quand êtes-vous née?" q="When were you born? (f)"/>
+                <item a="Je suis né en 1979" q="I was born in 1979 (m)"/>
+                <item a="Je suis né" q="I was born"/>
+                <item a="Tu es né" q="You were born (m) (familiar)"/>
+                <item a="Il est né" q="He was born"/>
+                <item a="Elle est née" q="She was born"/>
+                <item a="Nous sommes nées" q="We were born (f)"/>
+                <item a="Vous êtes né" q="You were born (m) (formal)"/>
+                <item a="Ils sont nés" q="They were born (m)"/>
+                <item a="Elles sont nées" q="They were born (f)"/>
+            </topic>
+            <topic name="Description of Character">
+                <item a="Comment décririez-vous votre caractère?" q="How would you describe your character? (con. tense)"/>
+                <item a="Êtes-vous une personne sympa?" q="Are you a nice person? (m)"/>
+                <item a="Alors, comment êtes-vous?" q="Then, what are you like as a person? (lit. So, how are you?)"/>
+                <item a="Je suis une personne aimable" q="I am a kind person"/>
+                <item a="gentil" q="friendly (m)" h="Aunt Ivy is so friendly GENTLE"/>
+                <item a="gentille" q="friendly (f)"/>
+                <item a="sympa" q="nice (m)"/>
+                <item a="sympathique" q="nice (f)"/>
+                <item a="stupide" q="stupid"/>
+                <item a="patient" q="patient (m)"/>
+                <item a="patiente" q="patient (f)"/>
+                <item a="impatient" q="impatient (m)"/>
+                <item a="impatiente" q="impatient (f)"/>
+                <item a="charmant" q="charming (m)"/>
+                <item a="charmante" q="charming (f)"/>
+                <item a="bavard" q="talkative (m)" h="The BAVARian Dude never stopped talking"/>
+                <item a="bavarde" q="talkative (f)"/>
+                <item a="optimiste" q="optimistic"/>
+                <item a="pessimiste" q="pessimistic"/>
+                <item a="travailleur" q="hard-working (m)"/>
+                <item a="travailleuse" q="hard-working (f)"/>
+                <item a="paresseux" q="lazy (m)" h="Spides are lazy, so are their PAREntS"/>
+                <item a="paresseuse" q="lazy (f)"/>
+                <item a="connu" q="famous (m)" h="He had the famous CONNections"/>
+                <item a="connue" q="famous (f)"/>
+                <item a="étranger" q="foreign (m)"/>
+                <item a="étrangère" q="foreign (f)"/>
+                <item a="drôle" q="funny"/>
+                <item a="amusant" q="amusing (m)"/>
+                <item a="amusante" q="amusing (f)"/>
+                <item a="généreux" q="generous (m)"/>
+                <item a="généreuse" q="generous (f)"/>
+                <item a="calme" q="quiet" h="The night was so quiet and CALM"/>
+                <item a="timide" q="shy" h="She was so shy and TIMID"/>
+                <item a="honnête" q="honest"/>
+            </topic>
+            <topic name="Mood">
+                <item a="De quelle humeur êtes-vous en général?" q="What mood are you in generally? (lit. of what mood are you in general?)"/>
+                <item a="être de bonne humeur" q="To be in a good mood (lit. to be of good mood)"/>
+                <item a="être de mauvaise humeur" q="To be in a bad mood (lit. to be of bad mood)"/>
+                <item a="Comment vous sentez-vous en ce moment?" q="How do you feel at the moment?"/>
+                <item a="Avoir l'air content" q="To look happy (lit. to have the air happy)" h="To be happy is to be CONTENT"/>
+                <item a="Avoir l'air triste" q="To look sad (lit. to have the air sad)"/>
+                <item a="être inquiet" q="To be worried (m)" h="He was very worried so walked IN QUIETly"/>
+                <item a="être inquiète" q="To be worried (f)"/>
+                <item a="être en colère" q="To be angry" h="She was so angry she got red in the COLoR"/>
+                <item a="être anxieux" q="To be nervous (m)"/>
+                <item a="être anxieuse" q="To be nervous (f)"/>
+            </topic>
+        </lesson>
+        <lesson week="week 2">
+            <topic name="Travel / Holiday - SORT OUT SECTIONS / HINTS">
+                <item a="Vous voulez un logement à acheter ou à louer?" q="(Do) You want a property to buy or to rent?"/>
+                <item a="Quel genre de logement cherchez-vous?" q="What type of property are you looking for?"/>
+                <item a="Vous cherchez un logement ancien ou neuf?" q="Are you looking for something already built or newly built? (lit. You look an property old or new?)"/>
+                <item a="Une maison ancienne ou récemment construite" q="An old house or recently built"/>
+                <item a="Qu'est-ce que vous cherchez?" q="What are you looking for? (+QW)"/>
+                <item a="Je cherche" q="I am looking for"/>
+                <item a="Nous cherchons" q="We are looking for"/>
+                <item a="Nous souhaiterions louer" q="We are interested in renting (lit. we are wishing)"/>
+                <item a="Nous pensons louer" q="We are interested in renting (lit. we are thinking)"/>
+                <item a="Nous souhaiterions acheter" q="We are interested in buying (lit. we are wishing)"/>
+                <item a="Nous pensons acheter" q="We are interested in buying (lit.  we are thinking)"/>
+                <item a="Je prefer" q="I prefer"/>
+                <item a="Nous préférons" q="We prefer"/>
+                <item a="Je veux" q="I want"/>
+                <item a="Agent Immobilier" q="We want"/>
+                <item a="Je voudrais" q="I would like "/>
+                <item a="Un agent immobilier" q="An estate agent"/>
+                <item a="Une maison" q="A house"/>
+                <item a="Un appartement" q="An apartment"/>
+                <item a="Un studio" q="An apartment (studio)"/>
+                <item a="Une maison de campange" q="A country house (lit. a house of country)"/>
+                <item a="Une villa" q="A villa"/>
+                <item a="Une maison en rangée" q="A terraced house"/>
+                <item a="Une rangée de maisons" q="A terrace"/>
+                <item a="Une maison mitoyenne" q="A semi-detached (lit. a house attached)"/>
+                <item a="Une maison jumelle" q="A semi-detached (lit. a house twin)"/>
+            </topic>        
+            <topic name="">
+                <item a="Un pavillon" q="Detached"/>
+                <item a="Si on louait?" q="What about renting?"/>
+                <item a="Avez-vous des renseignements sur?" q="Have you any information on?"/>
+                <item a="La location" q="renting (the act of renting)"/>
+                <item a="l'achat" q="buying (the act of buying)"/>
+                <item a="Avez-vous de la documentation?" q="Have you any brochures? (lit. have you documentation?)"/>
+                <item a="Vous avez quelque chose de plus grand?" q="Have you something bigger?"/>
+                <item a="Vous avez quelque chose de plus petit?" q="Have you something smaller?"/>
+                <item a="Vous avez quelque chose de moins cher?" q="Have you something cheaper?"/>
+                <item a="Vous avez quelque chose de plus près de?" q="Have you something closer to?"/>
+                <item a="Quand pouvons-nous le voir?" q="When can we see it? (m)"/>
+                <item a="Quand est-elle disponible?" q="When is it available? (f)"/>
+                <item a="Ce matin" q="This morning"/>
+                <item a="Cet après-midi" q="This afternoon"/>
+                <item a="ce soir" q="This evening"/>
+                <item a="La semaine prochaine" q="Next week"/>
+                <item a="Le mois prochain" q="Next month"/>
+                <item a="cet été" q="This summer"/>
+                <item a="Plus tard" q="Later"/>
+                <item a="Je suis désolée" q="I am sorry (f)"/>
+                <item a="D'accord" q="Agreed"/>
+                <item a="Oui, bien sûr" q="Yes, of course"/>
+                <item a="avez vue" q="With a view (lit. with view)"/>
+                <item a="vue sur la mer" q="Sea view (lit. view over the sea)"/>
+                <item a="vue sur la montagne" q="Mountain view (lit. view over the mountain)"/>
+                <item a="vue sur le lac" q="Lake view (lit. view over the lake)"/>
+                <item a="Situation tranquille" q="Quiet location"/>
+                <item a="Meublé" q="Furnished (m)"/>
+                <item a="non meublée" q="Unfurnished (f)"/>
+                <item a="Central" q="Central location"/>
+                <item a="À côté de" q="Beside"/>
+            </topic>
+        </lesson>
+    </course>
+    
 </language>
 <!-- à â ç é è ê ë î ô ù û -->

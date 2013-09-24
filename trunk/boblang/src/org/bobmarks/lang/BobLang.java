@@ -42,7 +42,7 @@ public class BobLang extends JFrame {
 		
 		this.setVisible(true);
 		this.setLocation(100, 100);
-		this.setSize(900, 600);
+		this.setSize(930, 600);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 	
