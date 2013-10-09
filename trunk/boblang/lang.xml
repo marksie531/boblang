@@ -3307,48 +3307,53 @@ to return     rentrer        rentré
                 <item a="être anxieuse" q="To be nervous (f)"/>
             </topic>
         </lesson>
-        <lesson week="week 2">
-            <topic name="Travel / Holiday - SORT OUT SECTIONS / HINTS">
+        
+        <!--  WEEK 2 -->
+        <lesson name="Week 2">
+            <topic name="Travel/Property (Questions)">
                 <item a="Vous voulez un logement à acheter ou à louer?" q="(Do) You want a property to buy or to rent?"/>
-                <item a="Quel genre de logement cherchez-vous?" q="What type of property are you looking for?"/>
+                <item a="Quel genre de logement cherchez-vous?" q="What kind of property are you looking for?"/>
                 <item a="Vous cherchez un logement ancien ou neuf?" q="Are you looking for something already built or newly built? (lit. You look an property old or new?)"/>
-                <item a="Une maison ancienne ou récemment construite" q="An old house or recently built"/>
+                <item a="Une maison ancienne ou récemment construite" q="An old house or recently built" h="He was REcently CEMMENTed into the ground!"/>
                 <item a="Qu'est-ce que vous cherchez?" q="What are you looking for? (+QW)"/>
                 <item a="Je cherche" q="I am looking for"/>
                 <item a="Nous cherchons" q="We are looking for"/>
-                <item a="Nous souhaiterions louer" q="We are interested in renting (lit. we are wishing)"/>
-                <item a="Nous pensons louer" q="We are interested in renting (lit. we are thinking)"/>
-                <item a="Nous souhaiterions acheter" q="We are interested in buying (lit. we are wishing)"/>
-                <item a="Nous pensons acheter" q="We are interested in buying (lit.  we are thinking)"/>
-                <item a="Je prefer" q="I prefer"/>
+                <item a="Nous souhaiterions louer" q="We are interested in renting (lit. we would wish to rent)"/>
+                <item a="Nous pensons louer" q="We are interested in renting (lit. we are thinking to rent)"/>
+                <item a="Nous souhaiterions acheter" q="We are interested in buying (lit. we would wish to rent)"/>
+                <item a="Nous pensons acheter" q="We are interested in buying (lit. we are thinking to buy)"/>
+                <item a="Je préfère" q="I prefer"/>
                 <item a="Nous préférons" q="We prefer"/>
                 <item a="Je veux" q="I want"/>
-                <item a="Agent Immobilier" q="We want"/>
+                <item a="Nous voulons" q="We want"/>
+                <item a="Agent Immobilier" q="Estate Agent"/>
                 <item a="Je voudrais" q="I would like "/>
+            </topic>        
+            <topic name="Travel/Property (Requests 1)">                              
+                <item a="Avez-vous des renseignements sur?" q="Have you any information on?"/>
+                <item a="Avez-vous de la documentation?" q="Have you any brochures? (lit. have you documentation?)"/>
+                <item a="Vous avez quelque chose de plus grand?" q="Have you something bigger? (lit. You have something of more big?)"/>
+                <item a="Vous avez quelque chose de plus petit?" q="Have you something smaller? (lit. You have something of more small?)"/>
+                <item a="Vous avez quelque chose de moins cher?" q="Have you something cheaper? (lit. You have something of less expensive?)"/>
+                <item a="Vous avez quelque chose de plus près de?" q="Have you something closer to? (lit. You have something of more close from?)"/>
+                <item a="Quand pouvons-nous le voir?" q="When can we see it? (m)"/>
+                <item a="Quand est-elle disponible?" q="When is it available? (f)" h="Lots of available DISPOsIBLE iNwwwcome!!!"/>                  
                 <item a="Un agent immobilier" q="An estate agent"/>
                 <item a="Une maison" q="A house"/>
                 <item a="Un appartement" q="An apartment"/>
                 <item a="Un studio" q="An apartment (studio)"/>
-                <item a="Une maison de campange" q="A country house (lit. a house of country)"/>
+                <item a="Une maison de campagne" q="A country house (lit. a house of country)"/>
                 <item a="Une villa" q="A villa"/>
-                <item a="Une maison en rangée" q="A terraced house"/>
-                <item a="Une rangée de maisons" q="A terrace"/>
-                <item a="Une maison mitoyenne" q="A semi-detached (lit. a house attached)"/>
-                <item a="Une maison jumelle" q="A semi-detached (lit. a house twin)"/>
+                <item a="Une maison en rangée" q="A terraced house (lit. a house in row)"/>
+                <item a="Une rangée de maisons" q="Terrace houses (lit. a row of houses)"/>
+                <item a="Une maison mitoyenne" q="A semi-detached (lit. a house attached)" h="I am attached to my My TOYs"/>
+                <item a="Une maison jumelle" q="A semi-detached (lit. a house twin)" h="The twins JUMped then fELL"/>
+                <item a="Un pavillon" q="Detached" h="The PAVILLiON in also known as the 'big detached house'"/>
             </topic>        
-            <topic name="">
-                <item a="Un pavillon" q="Detached"/>
-                <item a="Si on louait?" q="What about renting?"/>
-                <item a="Avez-vous des renseignements sur?" q="Have you any information on?"/>
+            <topic name="Travel/Property (Requests 2)">                      
+                <item a="Si on louait?" q="What about renting? (lit. if you rented)"/>
                 <item a="La location" q="renting (the act of renting)"/>
-                <item a="l'achat" q="buying (the act of buying)"/>
-                <item a="Avez-vous de la documentation?" q="Have you any brochures? (lit. have you documentation?)"/>
-                <item a="Vous avez quelque chose de plus grand?" q="Have you something bigger?"/>
-                <item a="Vous avez quelque chose de plus petit?" q="Have you something smaller?"/>
-                <item a="Vous avez quelque chose de moins cher?" q="Have you something cheaper?"/>
-                <item a="Vous avez quelque chose de plus près de?" q="Have you something closer to?"/>
-                <item a="Quand pouvons-nous le voir?" q="When can we see it? (m)"/>
-                <item a="Quand est-elle disponible?" q="When is it available? (f)"/>
+                <item a="l'achat" q="buying (the act of buying)" h="Buying A CAT"/>
                 <item a="Ce matin" q="This morning"/>
                 <item a="Cet après-midi" q="This afternoon"/>
                 <item a="ce soir" q="This evening"/>
@@ -3359,8 +3364,8 @@ to return     rentrer        rentré
                 <item a="Je suis désolée" q="I am sorry (f)"/>
                 <item a="D'accord" q="Agreed"/>
                 <item a="Oui, bien sûr" q="Yes, of course"/>
-                <item a="avez vue" q="With a view (lit. with view)"/>
-                <item a="vue sur la mer" q="Sea view (lit. view over the sea)"/>
+                <item a="avec vue" q="With a view (lit. with view)"/>
+                <item a="vue sur la mer" q="Sea view (lit. view over the sea)" h="The sea had a MERmaid"/>
                 <item a="vue sur la montagne" q="Mountain view (lit. view over the mountain)"/>
                 <item a="vue sur le lac" q="Lake view (lit. view over the lake)"/>
                 <item a="Situation tranquille" q="Quiet location"/>
@@ -3369,6 +3374,35 @@ to return     rentrer        rentré
                 <item a="Central" q="Central location"/>
                 <item a="À côté de" q="Beside"/>
             </topic>
+            <topic name="Travel/Property (Rooms)">
+                <item a="Le hall" q="The hall (english)"/>
+                <item a="Le vestibule" q="The hall (french)"/>
+                <item a="L'entrée" q="The hall (lit. the entrace)"/>
+                <item a="La cuisine" q="The kitchen"/>
+                <item a="La salle de bains" q="The bathroom (lit. the room of bath)"/>
+                <item a="La cave" q="The cellar"/>
+                <item a="Le jardin" q="The garden"/>
+                <item a="Le balcon" q="The balcony"/>
+                <item a="La salle de séjour" q="The living-room (lit. the room of stay)"/>
+                <item a="Le salon" q="The sitting-room"/>
+                <item a="La salle à manger" q="The dining-room (lit. the room to eat)"/>
+                <item a="La chambre" q="The bedroom"/>
+                <item a="Les toilettes" q="The toilet"/>
+                <item a="Le patio" q="The patio"/>
+                <item a="La terrasse" q="The terrace"/>
+            </topic>
+            <topic name="Travel/Property (Info)">
+                <item a="Il y a l'électrcité?" q="Is there electricity? (lit. There is the electricty?)"/>
+                <item a="Il y a l'eau courante?" q="Is there running water? (lit. There is the water running?)"/>
+                <item a="Il y a le chauffage central?" q="Is there central heating? (lit. There is the heating central?)"/>
+                <item a="C'est une maison très ancienne?" q="Is it a very old house? (lit. It is a house very old)"/>
+                <item a="C'est un appartement  très ancien?" q="Is it a very old flat? (lit. It is an appartment very old)"/>
+                <item a="Tout neuf" q="Brand new "/>
+                <item a="Quand a-t-il été construit?" q="When was it built? (lit. When has it been built?) (m)"/>
+                <item a="Quand a-t-elle été construit?" q="When was it built? (lit. When has it been built?) (f)"/>
+                <item a="Il a peut-être été construit en 1929" q="It was built possibly about 1929 (lit. It has perhaps been built in 1929) (m)"/>
+                <item a="Elle a peut-être été construit en 1929" q="It was built possibly about 1929 (lit. It has perhaps been built in 1929) (f)"/>
+            </topic> 
         </lesson>
     </course>
     
