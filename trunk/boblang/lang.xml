@@ -3652,7 +3652,6 @@ to return     rentrer        rentré
                 
         <!-- WEEK 14 -->
         <lesson name="Week 14">
-<!-- !!! checked !!! -->
             <topic name="Holidays (How was it - 1)">
                 <item a="Où êtes-vous allée l'été" q="Where did you go last summer? (singlar female) (lit. Where are you gone the summer?)"/>
                 <item a="Je suis allé" q="I went (m)"/>
@@ -3671,7 +3670,6 @@ to return     rentrer        rentré
                 <item a="Une station thermale" q="A spa (lit. a station thermal)"/>
                 <item a="Je peux vous le recommander" q="I would highly recommend it (lit. I can you it recommend)"/>
             </topic>
-<!-- !!! checked !!! -->
             <topic name="Holidays (How was it - 2)">
                 <item a="La station était" q="The resort was "/>
                 <item a="Les habitants étaient" q="The locals were"/>
@@ -3712,6 +3710,68 @@ to return     rentrer        rentré
                 <item a="Nous avons eu un temps magnifique" q="It was gorgeous (lit. we have had a weather magnificent)"/>
             </topic>              
         </lesson>
+
+        <!-- WEEK 14 -->
+        <lesson name="Week 14">
+            <topic name="Environment (1)">
+                <item a="Y a-t-il des conteneurs de recyclage par ici?" q="Are there recycling containers around here? (lit. Are there containers of recycling by here?)"/>
+                <item a="Y a-t-il un centre de recyclage?" q="Is there a recycling site?"/>
+                <item a="Oui, il y en a un près de" q="Yes, there is one near (from)"/>
+                <item a="Oui, il y en a un près d'ici" q="Yes, there is one near here"/>
+                <item a="Quel jour est le remassage des ordures?" q="When is there a bin collection? (lit. What day is the pickup of the garbage?)"/>
+                <item a="Quel jour est le remassage des poubelles?" q="When is there a bin collection? (lit. What day is the pickup of the bins?)"/>
+                <item a="Le vendredi matin" q="On Friday mornings (lit. the friday morning)"/>
+                <item a="La mer est polluée" q="The sea is polluted"/>
+                <item a="Il y a eu une marée noire" q="There has been an oil spill (lit. there was a tide black)"/>
+                <item a="Est-ce que la plage est dangereuse?" q="Is the beach safe? (lit. Is it that the beach is dangerous?)"/>
+                <item a="La plage est sans danger" q="The beach is safe? (lit. the beach is without danger)"/>
+                <item a="Il y a un sauveteur?" q="Is there a lifeguard? (lit. there is a lifeguard)"/>
+                <item a="Est-ce que la plage est surveillée?" q="Is the beach supervised? (lit. Is it that the beach is supervised)"/>
+                <item a="Un crabe" q="A crab"/>
+                <item a="Est-ce qu'il y a des courants par ici?" q="Are there currents around here? (lit. Is it that there are some current by here?)"/>
+                <item a="Falaises dangereuses" q="Dangerous cliffs (lit. cliffs dangerous)"/>
+                <item a="Rochers dangereuses" q="Dangerous rocks (lit. rocks dangerous)"/>
+                <item a="Courants dangereuses" q="Dangerous currents (lit. currents dangerous)"/>
+                <item a="Il est interdit de faire de feu" q="Do not light fires (lit. is is forbidden to make fire)"/>
+                <item a="Baignades interdites" q="Swimming forbidden"/>
+                <item a="Pêche interdite" q="No fishing (lit. fishing forbidden)"/>
+                <item a="Eau non potable" q="Not drinking water (lit. Water not drinkable)"/>
+                <item a="Ne pas laisser de détritus" q="Do not drop litter"/>
+            </topic>
+            <topic name="Environment (2)">
+                <item a="Que pensez-vous du recyclage?" q="What do you think of recycling? (lit. what think you of the recyling?)"/>
+                <item a="Je pense que c'est une bonne idée" q="I think it's a good idea"/>
+                <item a="Qu'est-ce que vous faites pour aider au recyclage?" q="What do you do to help recycling? (lit. What is it that you do for to help to the recycling?)"/>
+                <item a="Je le fais tout le temps" q="I do it all the time"/>
+                <item a="Je recycle le papier, le plastique, le verre etc" q="I recycle paper, plastic, glass, etc"/>
+                <item a="Il n'y a pas beaucoup de centres de recyclage" q="There are not many recyling factilites (lit. there is not a lot of centres of recycling)"/>
+                <item a="Je ne crois pas que ça fasse beaucoup de différence" q="I don't believe that it makes a lot of difference"/>
+                <item a="Je me sens très concerné par l'environnement" q="I am very concerned about the environment (lit. I myself feel "/>
+                <item a="Les ordures" q="Litter (lit. the garbage)"/>
+                <item a="Les détritus" q="Litter (lit. the rubbis)"/>
+                <item a="protéger" q="To protect (to care for)"/>
+                <item a="la pollution" q="Pollution"/>
+                <item a="endommager" q="To damage"/>
+                <item a="une ceinture verte" q="Green belt"/>
+                <item a="polluer" q="To pollute"/>
+                <item a="l'environnement" q="The environment"/>
+                <item a="le verre" q="The glass"/>
+                <item a="une décharge" q="A dump (lit. a discharge)"/>
+                <item a="une déchetterie" q="A dump (lit. a waste)"/>
+                <item a="recycler" q="To recycle"/>
+                <item a="la couche d'ozone" q="The ozone layer (lit. the layer of ozone)"/>
+                <item a="jeter des détritus" q="To drop litter"/>
+                <item a="Attention!" q="Be careful!"/>
+                <item a="Ramasser" q="To pick up"/>
+            </topic>
+        </lesson>
+        
+        <!-- WEEK 14 -->
+        <lesson name="Week 14">       
+        
+        
+        </lesson>
+        
     </course>
     
 </language>
