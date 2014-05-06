@@ -14,7 +14,7 @@ to go out     sortir         sorti
 to go up      monter         monté                            
 to go down    descendre      desendu                                
 to fall down  tomber         tombé                                
-to be born    naitre         né                              
+to be born    naître         né                              
 to die        mortir         mort                         
 
 extra                                          
@@ -22,9 +22,7 @@ to become,    devenir        devenu
 to come back  revenir        revenu
 to return     rentrer        rentré
 
-
  -->
-
 <language name="french" specialchars="àâçéèêëîôùû">
 
     <!--
@@ -3711,8 +3709,8 @@ to return     rentrer        rentré
             </topic>              
         </lesson>
 
-        <!-- WEEK 14 -->
-        <lesson name="Week 14">
+        <!-- WEEK 17 -->
+        <lesson name="Week 17">
             <topic name="Environment (1)">
                 <item a="Y a-t-il des conteneurs de recyclage par ici?" q="Are there recycling containers around here? (lit. Are there containers of recycling by here?)"/>
                 <item a="Y a-t-il un centre de recyclage?" q="Is there a recycling site?"/>
@@ -3766,12 +3764,206 @@ to return     rentrer        rentré
             </topic>
         </lesson>
         
-        <!-- WEEK 14 -->
-        <lesson name="Week 14">       
-        
-        
-        </lesson>
-        
+        <!-- WEEK 19 -->
+        <lesson name="Week 19">       
+            <topic name="Food and Drink (1)">
+                <item a="Vous êtes prête à commander?" q="Are you read to order? (f)"/>
+                <item a="Vous avez choisi?" q="Have you chosen? (lit. You have chosen?)"/>
+                <item a="Qu'est-ce que vous voulez manger?" q="What would you like to eat?"/>
+                <item a="Je voudais" q="I would like"/>
+                <item a="Nous voudrions" q="We would like"/>
+                <item a="Quelles suaces avez-vous?" q="What sauces have you?"/>
+                <item a="La sauce au poivre" q="Peppered sauce"/>
+                <item a="La sauce tomate" q="Tomato sauce"/>
+                <item a="La sauce au curry" q="Curry sauce"/>
+                <item a="La sauce béchamel" q="Bechamel / white sauce"/>
+                <item a="Qu'est-ce qu'il y a dans la sauce?" q="What is in the sauce (lit. What is it that there is in the sauce?)"/>
+                <item a="Je suis allergique à" q="I am allergic to"/>
+                <item a="Je suis au régime sans sel" q="I am on a low salt diet"/>
+                <item a="Je suis diabétique" q="I am diabetic"/>
+                <item a="Que me recommandez-vous?" q="What do you recommand? (formal) (lit. What (to) me recommand you?)"/>
+                <item a="Que me recommandes-tu?" q="What do you recommand? (informal) (lit. What (to) me recommand you?)"/>
+            </topic>
+            <topic name="Food and Drink (2)">
+                <item a="Ça a été?" q="Was everything ok for you? (lit. It has been)"/>
+                <item a="Ce n'est pas ce que j'ai commandé" q="This is not what I have ordered"/>
+                <item a="La viande n'est pas assez cuite" q="The meat is undercooked (lit. the meat is not quite cooked)"/>
+                <item a="Le poisson est trop cuit" q="The fish is overdone"/>
+                <item a="Vous aimez le vin?" q="Do you like the wine?"/>
+                <item a="Le vin est bouchonné" q="The wine is corked"/>
+                <item a="Le poison est froid" q="The fish is cold"/>
+                <item a="Vous pouvez nous apporter du d'autre vin" q="Can you bring us more win (lit. You can us bring of the other wine)"/>
+                <item a="Ne mangez pas là" q="Don't eat there! (formal)"/>
+                <item a="Ne mange pas là" q="Don't eat there! (informal)"/>
+                <item a="Qu'est-ce que vous voulez comme entrée, comme plat principla, comme dessert?" q="What do you want for starter / main course / dessert?"/>
+                <item a="Le repas était délicieux" q="The meal was delicious"/>
+                <item a="Nous reviendrons" q="We will come back"/>
+                <item a="Merci, c'était parfait" q="Thanks, it was perfect"/>
+                <item a="Ça fait combien	en tout?" q="How uich is it in total? (lit. It makes how much in all)"/>
+                <item a="Je vous dois combien?" q="How much do I owe you? (lit. I you owe how much?)"/>
+                <item a="Il y a une erreur sur la note" q="There is an error on the bill"/>
+                <item a="Vous nous avez compté" q="You have charged us for"/>
+                <item a="et nous n'avons pas pris que" q="and we only had (lit. and we have not taken that)"/>
+                <item a="Je suis désolé Monsieur / Madame / Messieurs-dames" q="I am sorry Sir / Madam / Sirs (m)"/>
+            </topic>
+		</lesson>
+
+        <!-- WEEK 20 -->
+        <lesson name="Week 20">     
+            <topic name="Le Menu (1)">
+                <item a="Les entrées" q="(The) Starters"/>
+                <item a="Des fruits de mer" q="Seafood"/>
+                <item a="Des huîtes" q="Oysters"/>
+                <item a="Des moules" q="Mussels"/>
+                <item a="Des crevette=s roses" q="Prawns (lit. some shimps pink)"/>
+                <item a="Du bouquet" q="Prawns (lit. of the bouquet)"/>
+                <item a="Un avocat" q="Avocado"/>
+                <item a="Du potage" q="Soup"/>
+                <item a="Du melon" q="Melon"/>
+                <item a="Une salade mixte" q="Mixed salad"/>
+                <item a="Une salade aux pâtes" q="Pasta salad"/>
+                <item a="Une salade de riz" q="Rice salad"/>
+                <item a="Une assiette anglaise" q="Cold meat platter (lit. a plate english)"/>
+                <item a="Des oeufs mayonnaise" q="Egg Mayonnaise"/>
+                <item a="Du pâté" q="Pâte"/>
+                <item a="Les noix et noisettes" q="Nuts (lit. the walnuts and hazelnuts)"/>
+                <item a="Des produits laitiers" q="Dairy products"/>
+                <item a="Bouilli" q="Boilded"/>
+                <item a="Rôti" q="Roasted (from verb to roast)"/>
+                <item a="au four" q="Baked (lit. to the oven)"/>
+                <item a="bien cuit" q="Well-done"/>
+                <item a="À point" q="Medium"/>
+            </topic>
+            <topic name="Le Menu (2)">
+                <item a="Le plat principle" q="Main course"/>
+                <item a="Les plats principaux" q="Main courses"/>
+                <item a="Le poisson" q="(The) Fish"/>
+                <item a="Un saumon" q="(A) salmon"/>
+                <item a="Une truite" q="(A) trout"/>
+                <item a="Une lotte" q="(A) monkfish"/>
+                <item a="Du colin" q="Hake"/>
+                <item a="Du cabillaud" q="Cod"/>
+                <item a="De la viande" q="Meat"/>
+                <item a="Du boeuf" q="Beef"/>
+                <item a="De l'agneau" q="Lamb"/>
+                <item a="Du veau" q="Veal"/>
+                <item a="Du poulet" q="Chicken"/>
+                <item a="Du lapin" q="Rabbit"/>
+                <item a="Du gibier" q="Venison"/>
+                <item a="Le blé" q="(The) wheat"/>
+                <item a="À la vapeur" q="Steamed (lit. to the steam)"/>
+                <item a="Frit" q="Fried"/>
+                <item a="Poêlé" q="Fried (seared)"/>
+                <item a="Grillé" q="Grilled"/>
+                <item a="Saignant" q="Rare (lit. bleeding)"/>
+                <item a="Un micro-ondes" q="(A) Microwave"/>
+            </topic>
+            <topic name="Cooking">
+                <item a="Pour préparer cette recette vous devez" q="What ingredients do you need to make? (lit. for to prepare this recipe you must)"/>
+                <item a="Une recette" q="A recipe"/>
+                <item a="Température" q="Temperature"/>
+                <item a="Les ingrédients" q="Ingredients"/>
+                <item a="La méthode" q="Method"/>
+                <item a="Frire" q="To fry (verb)"/>
+                <item a="Faire revenir" q="To fry (lit. to make come back)"/>
+                <item a="Bouiller" q="To boil"/>
+                <item a="Cuire à feu doux" q="To simmer (lit. cook to light heat)"/>
+                <item a="Mijoter" q="To simmer (verb)"/>
+                <item a="Mettre au four" q="To put in the oven"/>
+                <item a="Jusqu'à" q="Until"/>
+                <item a="Pour préparer cette recette vous devez" q="To prepare this recipe you have to"/>
+                <item a="Laver" q="To wash"/>
+                <item a="Peler" q="To peel"/>
+                <item a="Découper en rondelles" q="To slice (lit. To cut up into slices)"/>
+                <item a="Mélanger" q="To mix"/>
+                <item a="Battre" q="To mix (to beat)"/>
+                <item a="Ajouter" q="To add"/>
+                <item a="Remuer" q="To stir"/>
+                <item a="Bon appétît" q="Enjoy your meal"/>
+            </topic>
+		</lesson>
+
+		<!-- WEEK 21 -->
+		<lesson name="Week 21">
+            <topic name="Health (1)">
+                <item a="Qu'est-ce qui ne va pas?" q="What seems to be the matter? (lit. What is it that who goes not)"/>
+                <item a="Qu'est-ce qui vous est arrivé?" q="What has happened to you? (lit. What is it that who is happened) "/>
+                <item a="J'ai eu un accident" q="I have had an accident"/>
+                <item a="J'ai glissé et je suis tombée" q="I slipped and I fell (f)"/>
+                <item a="Je me suis fait une entorse" q="I sprained my ankle (lit. I myself made a sprain)"/>
+                <item a="Je me suis tordu la cheville" q="I twisted my ankle (lit. I myself twisted the ankle)"/>
+                <item a="Je me suis blessé" q="I have injured myself (m) (lit. I myself am injured)"/>
+                <item a="Je saigne" q="I am bleeding"/>
+                <item a="J'ai un coup de soleil" q="I have got sunburn (lit. I have a stroke of sun)"/>
+                <item a="J'ai mal à l'estomac" q="I have an upset stomach (lit. I have hurt at the stomach)"/>
+                <item a="J'ai l'estomac barbouillé" q="I have an upset stomach (lit. I have the stomach smeared)"/>
+                <item a="Je vomis" q="I am vomiting"/>
+                <item a="J'ai la diarrhée" q="I have (the) diarrhoea"/>
+                <item a="Il est malade" q="He is ill"/>
+                <item a="Elle est malade" q="She is ill"/>
+                <item a="Il est déshydraté" q="He is dehydrated"/>
+                <item a="Elle est déshydratée" q="She is dehydrated"/>
+                <item a="Nous avons été piqués" q="We have been stung (m)"/>
+                <item a="Par une méduse" q="By a jellyfish"/>
+                <item a="J'ai été piquée par un serpent" q="I have been bitted by a snake (f)"/>
+                <item a="J'ai des ampoules aux pieds" q="I have blisteres on a my feet (lit. I have some blisters on the feet)"/>
+                <item a="J'ai mal aux oreilles " q="I have earache (lit. I have hurt of the ears)"/>
+                <item a="J'ai mal à l'oreille" q="I have earache (lit. I have hurt of the ear)"/>
+                <item a="J'ai le rhume des foins" q="I have hay fever"/>
+                <item a="J'ai de l'asthme" q="I have asthma"/>
+                <item a="Avez-vous été immunisé contre le tétanos? " q="Have you been immunised against tetanus?"/>
+                <item a="Êtes-vous allergique à la pénicilline?" q="Are you allergic to penicillin?"/>
+                <item a="Ça vous fait mal?" q="Is it sore? (lit. It you makes hurt?) (formal)"/>
+                <item a="Ça tu fait mal?" q="Is it sore? (lit. It you makes hurt?) (informal)"/>
+                <item a="Ça me fait mal" q="It's sore (lit. it me makes sure)"/>
+                <item a="Où est-ce que ça te fait mal?" q="Where is it sore? (lit. Where is it that it you makes hurt?)"/>
+            </topic>
+            <topic name="Health (2)">
+                <item a="Je ne suis pas sûr" q="I am not sure (m)"/>
+                <item a="Je crois" q="I believe (so)"/>
+                <item a="Je crois qu'il a fait une crise cardique" q="I believe he has had a heart attack (lit. I believe that he has make a crisis cardiac)"/>
+                <item a="Au secours!" q="Help!"/>
+                <item a="Je me faut un docteur" q="I need a doctor (lit. I myself need a doctor)"/>
+                <item a="La pharmacie de service" q="Rota chemist"/>
+                <item a="Vous avez la carte européenne d'assurance maladie?" q="Do you have the European Health Insurance Card?"/>
+                <item a="Voici ma carte européeenne d'assurance maladie?" q="Here is my European Health Insurance Card"/>
+                <item a="J'ai besoin d'un reçu" q="I need a receipt"/>
+                <item a="J'ai besoin d'une lettre pour mon assurance" q="I need a letter for my insurance"/>
+                <item a="Appliquez cette bande sur la plaie" q="Apply this bandage to the wound"/>
+                <item a="Prenez deux comprimés deux fois par jour" q="Take two tablets twice a day"/>
+                <item a="Vous devez prendre" q="You must take"/>
+                <item a="On doit vous faire une piqûre" q="You must have an injection (lit. One must vous make an injection)"/>
+                <item a="Je vais vous donner quelque chose pour la douleur" q="I am going to give you someting for the pain"/>
+                <item a="Vous devez vous reposer" q="You must rest (informal)"/>
+                <item a="Tu dois vous reposer" q="You must rest (formal)"/>
+                <item a="Faites voir" q="Let me see (lit. make see) (informal)"/>
+                <item a="Fais voir" q="Let me see (lit. make see) (formal)"/>
+            </topic>
+            <topic name="Health (3)">
+                <item a="Du coton" q="Cotton wool"/>
+                <item a="Une bande" q="Bandage (strip)"/>
+                <item a="Un pansement" q="Bandage (dressing)"/>
+                <item a="Des gouttes" q="Drops"/>
+                <item a="Un inhalateur" q="Inhaler"/>
+                <item a="Des antibiotiques" q="Antibiotics"/>
+                <item a="Une piqûre" q="Injection"/>
+                <item a="Effervescent" q="Effervescent"/>
+                <item a="Des cachets solubles" q="Soluble tablets"/>
+                <item a="Des gélules" q="Capsules"/>
+                <item a="Appliquer" q="Apply"/>
+                <item a="Donner" q="Give"/>
+                <item a="Administrer" q="Administer"/>
+                <item a="Prendre" q="Take"/>
+                <item a="Dissoudre" q="Dissolve"/>
+                <item a="Avaler" q="Swallow"/>
+                <item a="Croquer" q="Chew (crunch)"/>
+                <item a="Mâcher" q="Chew (munch)"/>
+                <item a="Avec les repas" q="With food"/>
+                <item a="Après les repas" q="After meals"/>
+                <item a="Une heure avant le repas" q="An hour before a meal"/>
+            </topic>
+		</lesson>
+       
     </course>
     
 </language>
