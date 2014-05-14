@@ -56,7 +56,7 @@ public class BobLangPanel extends JPanel implements ActionListener, CaretListene
 
 	private static final double PREF = TableLayout.PREFERRED;
 	private static final double FILL = TableLayout.FILL;
-	private static final Color COLOR_OK = new Color(230, 255, 230);
+	private static final Color COLOR_OK = new Color(230, 255, 220);
 	private static final Color COLOR_ALMOST = new Color(255, 255, 210);
 	private static final Color COLOR_WRONG = new Color(255, 230, 230);
 	private static final Color COLOR_HINT = new Color(0, 192, 0);
