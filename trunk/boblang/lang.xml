@@ -3963,7 +3963,114 @@ to return     rentrer        rentré
                 <item a="Une heure avant le repas" q="An hour before a meal"/>
             </topic>
 		</lesson>
-       
+
+		<!-- WEEK 22 -->
+        <lesson name="Week 22">
+            <topic name="Travel and Holidays">
+                <item a="Quel est le meilleur endroit pour acheter?" q="What is the best place to buy?"/>
+                <item a="Des appareils électriques" q="Electrical appliances"/>
+                <item a="l'ameublement" q="Home furnishings"/>
+                <item a="Pourriez-vous me recommander un bon plombier?" q="Coiuld you recommend a good plumber?"/>
+                <item a="Il y a une fuite dans" q="There is a leak in"/>
+                <item a="La cusine est inondée" q="The kitchen is flooded"/>
+                <item a="J'ai besoin d'un électricien" q="I need an electrician"/>
+                <item a="Je dois appeler un" q="I have to call a"/>
+                <item a="L'électricité n'arrête pas de disjoncter" q="The electricity keeps tripping"/>
+                <item a="Il y a un défaut" q="There is a defect"/>
+                <item a="Une anomalie" q="An abnormality"/>
+                <item a="Le lave-vaisselle est défectueux" q="The dishwasher is faulty"/>
+                <item a="La machine à laver est tombée en panne" q="The washing-machine has broken down"/>
+                <item a="L'ampoule est grille" q="The bulb has gone"/>
+                <item a="Pourriez-vous me recommender un bon plombier?" q="Could you recommmend me a good plumber? (informal)"/>
+                <item a="Pourrais-tu me recommender un bon plombier?" q="Could you recommmend me a good plumber? (formal)"/>
+                <item a="Bien sûr" q="Certainly (lit. well sure)"/>
+            </topic>
+        </lesson>
+        		
+		<!--  WEEK 24 -->
+		<lesson name="Week 24">
+            <topic name="Household Items (1)">
+                <item a="Le robinet" q="The tap"/>
+                <item a="Un joint" q="A washer"/>
+                <item a="Des tuyaux" q="Pipes"/>
+                <item a="Une prise" q="A plug"/>
+                <item a="Une prise" q="A socket"/>
+                <item a="Un interrupteur" q="A switch"/>
+                <item a="Un fusible" q="A fuse"/>
+                <item a="L'ampoule" q="The bulb"/>
+                <item a="Les piles" q="The batteries"/>
+                <item a="l'installation électronique" q="Wiring (lit. the installation electronic)"/>
+                <item a="Le raccordement" q="(The) connection"/>
+                <item a="Le défaut" q="(The) fault"/>
+                <item a="Un tapis" q="A rug"/>
+                <item a="Une moquette" q="A carpet"/>
+                <item a="Les rideaux" q="Curtains"/>
+                <item a="Les coussins" q="Cushions" h="Two COUSINS on two cushions"/>
+                <item a="Un oreiller" q="A pillow" h="The man's ear was tight to the pillow!"/>
+                <item a="Un dessus de lit" q="A bed spread"/>
+                <item a="Une couette" q="A quilt" h="the quilt COUncil ate"/>
+                <item a="un matelas" q="A mattress" h="Your MATE can LAy on the Spare mattress"/>
+                <item a="Un abonnement" q="A subscription" h="He abandoned his subscription"/>
+                <item a="Un lecteur de DVD" q="A DVD player"/>
+                <item a="Un ordinateur" q="A computer"/>
+            </topic>
+            <topic name="Household Items (2)">
+                <item a="Un sofa trois places" q="A three-seater sofa"/>
+                <item a="Un fauteuil" q="An armchair"/>
+                <item a="Un grand lit" q="A double bed (lit. a large bed)"/>
+                <item a="Un lit à deux personnes" q="A double bed (lit. a bed with two persons)"/>
+                <item a="Un petit lit" q="A single bed (lit. a small bed)"/>
+                <item a="Un lit à une personne" q="A single bed (lit. a bed with one person)"/>
+                <item a="Un lit gigogne" q="A pullout bed"/>
+                <item a="Des lits superposés" q="Bunk beds "/>
+                <item a="Une table de nuit" q="A bedside table (lit. a table of night)"/>
+                <item a="Une table à manger" q="A dining table (lit. a table to eat)"/>
+                <item a="Une table basse" q="A coffee table (lit. a table low)"/>
+                <item a="Un jeu de huit chaises" q="A set of 8 chairs"/>
+                <item a="Un buffet" q="A sideboard"/>
+                <item a="Une armoire" q="A wardrobe"/>
+                <item a="Un placard" q="A cupboard"/>
+                <item a="Une poubelle" q="A bin"/>
+                <item a="Une lampe" q="A lamp"/>
+                <item a="Un miroir" q="A mirror"/>
+                <item a="Des draps" q="Sheets"/>
+                <item a="Une taie d'oreiller" q="A pillowcase"/>
+                <item a="Une couverture" q="A blanket"/>
+                <item a="Une housse de couette" q="A quilt cover"/>
+                <item a="un téléviseur" q="A television set"/>
+                <item a="Une antenne parabolique" q="A satellite dish"/>
+                <item a="Un lecteur vidéo" q="A video recorder"/>
+                <item a="Une chaîne hi-fi" q="A hi-fi system"/>
+            </topic>
+		</lesson>
+		
+		<!-- WEEK 24 -->
+		<lesson name="Week 25">
+            <topic name="Online Shopping">
+                <item a="Il faut aller au centre commercial" q="You must go to the shopping centre"/>
+                <item a="Les achats en ligne" q="Online shopping (lit. the purchases on line)"/>
+                <item a="Le shopping en ligne" q="Online shopping (lit. the shopping on line)"/>
+                <item a="Quelle est la date de livraison?" q="What is the delivery date?"/>
+                <item a="Les délais de livraisons" q="Delivery dates"/>
+                <item a="La livraison gratuite à domicile" q="Free home delivery"/>
+                <item a="L'adresse de livraison" q="Delivery address"/>
+                <item a="Quand pouvez-vous livrer?" q="When can you deliver?"/>
+                <item a="L'adresse mail" q="E-mail address (lit the address mail)"/>
+                <item a="L'adresse de courrier électronique" q="E-mail address (lit the address of courier electronic))"/>
+                <item a="Cliquer ici" q="Click here"/>
+                <item a="Saisir le nom d'utilisateur" q="Enter username"/>
+                <item a="Qu'est-ce qui ne va pas?" q="What is wrong?"/>
+                <item a="La connexion internet ne marche pas" q="The internet connection does not work"/>
+                <item a="A partir de 40 euros" q="From 40 euros"/>
+                <item a="Une promotion" q="Offer"/>
+                <item a="Une promo" q="Promo"/>
+                <item a="Les soldes" q="Sales"/>
+                <item a="Un article en promotion" q="Reduced article"/>
+                <item a="C'est quel prix?" q="What price is it? (lit. it's what price)"/>
+                <item a="Une réduction" q="Discount"/>
+            </topic>		
+		</lesson>
+
     </course>
     
 </language>
