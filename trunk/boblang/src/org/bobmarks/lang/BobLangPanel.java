@@ -627,62 +627,65 @@ public class BobLangPanel extends JPanel implements ActionListener, CaretListene
 	 * Edit mode.
 	 */
 	private void edit () {
-		// Create Edit GUI items
-		final JTextArea questionTA = new JTextArea ();
-		final JTextArea answerTA = new JTextArea ();
-		questionTA.setBorder(BorderFactory.createEtchedBorder());
-		answerTA.setBorder(BorderFactory.createEtchedBorder());
-		
-		JButton button = new JButton ("Topic XML");
-		button.addActionListener(new ActionListener () {
-			public void actionPerformed(ActionEvent e) {
-				String [] question = questionTA.getText().split("\n");
-				String [] answer = answerTA.getText().split("\n");
-				
-				if (question.length != answer.length) {
-					JOptionPane.showMessageDialog(getParent(), "Question [ " + question.length + " ] and Answer [ " + answer.length + " ] rows different");
-					return;
+		if (JOptionPane.showConfirmDialog(getParent(), "Are you sure you want to switch to edit mode", "Switch to edit mode", JOptionPane.YES_NO_OPTION) == JOptionPane.YES_OPTION) {
+
+			// Create Edit GUI items
+			final JTextArea questionTA = new JTextArea ();
+			final JTextArea answerTA = new JTextArea ();
+			questionTA.setBorder(BorderFactory.createEtchedBorder());
+			answerTA.setBorder(BorderFactory.createEtchedBorder());
+
+			JButton button = new JButton ("Topic XML");
+			button.addActionListener(new ActionListener () {
+				public void actionPerformed(ActionEvent e) {
+					String [] question = questionTA.getText().split("\n");
+					String [] answer = answerTA.getText().split("\n");
+
+					if (question.length != answer.length) {
+						JOptionPane.showMessageDialog(getParent(), "Question [ " + question.length + " ] and Answer [ " + answer.length + " ] rows different");
+						return;
+					}
+
+					String S = "            ";
+					StringBuffer sb = new StringBuffer (S + "<topic name=\"\">\n");
+					for (int i = 0; i < question.length; i++) {
+						sb.append(S + "    <item a=\"" + answer[i] + "\" q=\"" + question[i] + "\"/>\n");
+					}
+					sb.append(S + "</topic>");
+
+					StringSelection data = new StringSelection(sb.toString());
+					Clipboard clipboard = Toolkit.getDefaultToolkit().getSystemClipboard();
+					clipboard.setContents(data, data);
+
+					JOptionPane.showMessageDialog(getParent(), sb);
 				}
-				
-				String S = "            ";
-				StringBuffer sb = new StringBuffer (S + "<topic name=\"\">\n");
-				for (int i = 0; i < question.length; i++) {
-					sb.append(S + "    <item a=\"" + answer[i] + "\" q=\"" + question[i] + "\"/>\n");
-				}
-			    sb.append(S + "</topic>");
-				
-			    StringSelection data = new StringSelection(sb.toString());
-			    Clipboard clipboard = Toolkit.getDefaultToolkit().getSystemClipboard();
-			    clipboard.setContents(data, data);
-			    
-				JOptionPane.showMessageDialog(getParent(), sb);
-			}
-		});
-		
-		// Add items to main panel
-		mainPanel.removeAll();
-		double[][] sizes = {{FILL},{FILL, 5, PREF, 5}};
-		
-		JSplitPane pane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT, 
-		    getEditTextPanel ("Questions", questionTA), 
-		    getEditTextPanel ("Answer", answerTA));
-		pane.setDividerLocation(500);
-		TableLayout layout = new TableLayout(sizes);
-		mainPanel.setLayout(layout);
-		mainPanel.add(pane, "0,0");
-		mainPanel.add(button, "0,2,c,c");
-		mainPanel.getParent().invalidate();
-		mainPanel.getParent().validate();
-		
-		// Add listeners
-		questionTA.addCaretListener(this);
-		questionTA.addFocusListener(this);
-		questionTA.addKeyListener(this);
-		answerTA.addCaretListener(this);
-		answerTA.addFocusListener(this);
-		answerTA.addKeyListener(this);
-		
-		layout.layoutContainer(mainPanel.getParent());
+			});
+
+			// Add items to main panel
+			mainPanel.removeAll();
+			double[][] sizes = {{FILL},{FILL, 5, PREF, 5}};
+
+			JSplitPane pane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT, 
+					getEditTextPanel ("Questions", questionTA), 
+					getEditTextPanel ("Answer", answerTA));
+			pane.setDividerLocation(500);
+			TableLayout layout = new TableLayout(sizes);
+			mainPanel.setLayout(layout);
+			mainPanel.add(pane, "0,0");
+			mainPanel.add(button, "0,2,c,c");
+			mainPanel.getParent().invalidate();
+			mainPanel.getParent().validate();
+
+			// Add listeners
+			questionTA.addCaretListener(this);
+			questionTA.addFocusListener(this);
+			questionTA.addKeyListener(this);
+			answerTA.addCaretListener(this);
+			answerTA.addFocusListener(this);
+			answerTA.addKeyListener(this);
+
+			layout.layoutContainer(mainPanel.getParent());
+		}
 	}
 
 	/**
@@ -970,6 +973,10 @@ public class BobLangPanel extends JPanel implements ActionListener, CaretListene
 		}
 		if ((e.getModifiers() & KeyEvent.CTRL_MASK) != 0) {
 			try {
+				if (e.getKeyCode() == 32) {
+					hint();
+				}
+				//System.out.println (e.getKeyCode());
 				if ((e.getKeyCode() >= 48 && e.getKeyCode() <= 57)
 						|| e.getKeyCode() == 45) {
 					// figure out number
