@@ -1,4 +1,4 @@
-package org.bobmarks.lang;
+package org.bobmarks.lang.other;
 
 import java.io.File;
 import java.util.List;
