@@ -1,6 +1,8 @@
 package org.bobmarks.lang.other;
 
 import java.io.File;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 import org.jdom.Document;
@@ -22,8 +24,7 @@ public class GcseApp {
      */
     public GcseApp() throws Exception {
         loadFile();
-
-        showSpecialSymbols();
+        display(false);
     }
 
     /**
@@ -41,17 +42,11 @@ public class GcseApp {
         this.root = dom.getRootElement();
     }
 
-    /**
-     * Load GUI elements.
-     */
-    @SuppressWarnings("unchecked")
-    private void showSpecialSymbols() {
-        display(true);
-    }
-
     @SuppressWarnings("unchecked")
     private void display(boolean showHint) {
         List<Element> courseElms = root.getChildren("course");
+
+        List<String> words = new ArrayList<String>();
         for (Element courseElm : courseElms) {
 
             List<Element> lessonElms = courseElm.getChildren("lesson");
@@ -59,7 +54,7 @@ public class GcseApp {
             for (Element lessonElm : lessonElms) {
                 String lessonName = lessonElm.getAttributeValue("name");
 
-                if ("GCSE Writing Exam".equals(lessonName)) {
+                if ("GCSE Speaking Exam (2)".equals(lessonName)) {
 
                     List<Element> topicElms = lessonElm.getChildren("topic");
 
@@ -86,11 +81,28 @@ public class GcseApp {
                             // }
                             // System.out.println();
                             // System.out.println();
+
+                            words.addAll(Arrays.asList(question.split(" ")));
                         }
                     }
                 }
             }
         }
+        int i = 0;
+        for (String word : words) {
+            // System.out.println(++i + "\t" + word);
+        }
+
+        // Print word counts
+        // System.out.println(words);
+        // Map<String, Integer> wordCounts = new HashMap<String, Integer>();
+        // for (String word : words) {
+        // wordCounts.put(word, wordCounts.containsKey(word) ? wordCounts.get(word) + 1 : 1);
+        // }
+        //
+        // for (String word : wordCounts.keySet()) {
+        // System.out.println(wordCounts.get(word) + "\t" + word);
+        // }
     }
 
     /**
