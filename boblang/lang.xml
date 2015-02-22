@@ -4388,9 +4388,9 @@ Revison (level 4)
                 <item q="also" a="aussi"/>
                 <item q="because, for, as" a="car"/>
                 <item q="however, yet, even so" a="cependant"/>
-                <item q="that is" a="c’est-à-dire"/>
+                <item q="that is" a="c'est-à-dire"/>
                 <item q="as/like" a="comme"/>
-                <item q="on the one hand/on the other hand" a="d’un côté/de l’autre côté"/>
+                <item q="on the one hand/on the other hand" a="d'un côté/de l'autre côté"/>
                 <item q="therefore, so" a="donc"/>
                 <item q="then, next" a="ensuite"/>
                 <item q="evidently" a="évidemment"/>
@@ -4433,7 +4433,7 @@ Revison (level 4)
                 <item q="apart from" a="en dehors de"/>
                 <item q="opposite" a="en face de"/>
                 <item q="between" a="entre"/>
-                <item q="until" a="jusqu’à"/>
+                <item q="until" a="jusqu'à"/>
                 <item q="despite" a="malgré"/>
                 <item q="among" a="parmi"/>
                 <item q="for/in order to" a="pour"/>
@@ -4470,20 +4470,20 @@ Revison (level 4)
                 <item q="When?" a="Quand?"/>
                 <item q="What?" a="Que?"/>
                 <item q="Which?" a="Quel/quelle?"/>
-                <item q="What?" a="Qu’est-ce que?"/>
+                <item q="What?" a="Qu'est-ce que?"/>
                 <item q="Who ?" a="Qui est-ce qui ?"/>
-                <item q="What is it?" a="Qu’est-ce que c’est?"/>
+                <item q="What is it?" a="Qu'est-ce que c'est?"/>
                 <item q="Who?" a="Qui?"/>
                 <item q="What?" a="Quoi?"/>
            </topic>
            <topic name="7. Common Questions">
                 <item q="At what time?" a="À quelle heure?"/>
-                <item q="How is it spelt?" a="Ça s’écrit comment?"/>
-                <item q="How much is it?" a="C’est combien?"/>
-                <item q="What is the date?" a="C’est quelle date?"/>
-                <item q="What is the day?" a="C’est quel jour?"/>
+                <item q="How is it spelt?" a="Ça s'écrit comment?"/>
+                <item q="How much is it?" a="C'est combien?"/>
+                <item q="What is the date?" a="C'est quelle date?"/>
+                <item q="What is the day?" a="C'est quel jour?"/>
                 <item q="What colour?" a="De quelle couleur?"/>
-                <item q="From where?" a="D’où?"/>
+                <item q="From where?" a="D'où?"/>
                 <item q="Where is (that)?" a="Où ça?"/>
                 <item q="Where is?" a="Où est?"/>
                 <item q="For how long?" a="Pour combien de temps ?"/>
@@ -4493,7 +4493,7 @@ Revison (level 4)
            <topic name="8. Greetings and Exclamations">
                 <item q="see you soon" a="à bientôt"/>
                 <item q="see you tomorrow" a="à demain"/>
-                <item q="see you later" a="à tout à l’heure"/>
+                <item q="see you later" a="à tout à l'heure"/>
                 <item q="hello (on the telephone)" a="Allô"/>
                 <item q="best wishes/regards" a="amitiés"/>
                 <item q="goodbye" a="au revoir"/>
@@ -4512,8 +4512,8 @@ Revison (level 4)
                 <item q="good evening" a="bonsoir"/>
                 <item q="well done" a="bravo"/>
                 <item q="ok (how are you ?)" a="ça va (?)"/>
-                <item q="ok" a="d’accord"/>
-                <item q="you’re welcome" a="de rien"/>
+                <item q="ok" a="d'accord"/>
+                <item q="you're welcome" a="de rien"/>
                 <item q="sorry" a="désolé"/>
                 <item q="excuse me" a="excusez-moi"/>
                 <item q="congratulations" a="félicitations"/>
@@ -4526,7 +4526,7 @@ Revison (level 4)
                 <item q="what a shame !" a="quel dommage !"/>
                 <item q="hi/bye" a="salut"/>
                 <item q="cheers" a="santé"/>
-                <item q="please" a="s’il te/vous plaît"/>
+                <item q="please" a="s'il te/vous plaît"/>
            </topic>
            <topic name="9. Opinions">
                 <item q="in my opinion" a="à mon avis"/>
@@ -4540,12 +4540,12 @@ Revison (level 4)
                 <item q="of course/naturally" a="bien entendu"/>
                 <item q="good" a="bon"/>
                 <item q="it depends" a="ça dépend"/>
-                <item q="it annoys me" a="ça m’énerve"/>
+                <item q="it annoys me" a="ça m'énerve"/>
                 <item q="it makes me laugh" a="ça me fait rire"/>
                 <item q="I like that" a="ça me plaît"/>
-                <item q="I don’t mind" a="ça m’est égal"/>
+                <item q="I don't mind" a="ça m'est égal"/>
                 <item q="it means nothing to me" a="ça ne me dit rien"/>
-                <item q="that’s enough" a="ça suffit"/>
+                <item q="that's enough" a="ça suffit"/>
                 <item q="annoying" a="casse-pieds"/>
                 <item q="expensive" a="cher"/>
                 <item q="great" a="chouette"/>
@@ -4554,7 +4554,7 @@ Revison (level 4)
                 <item q="complicated" a="compliqué"/>
                 <item q="happy" a="content"/>
                 <item q="to believe" a="croire"/>
-                <item q="ok" a="d’accord"/>
+                <item q="ok" a="d'accord"/>
                 <item q="unpleasant/nasty" a="désagréable"/>
                 <item q="to desire/to wish" a="désirer"/>
                 <item q="to hate" a="détester"/>
@@ -4577,7 +4577,7 @@ Revison (level 4)
                 <item q="serious" a="grave"/>
                 <item q="capable/able" a="habile"/>
                 <item q="interesting" a="intéressant"/>
-                <item q="to be interested in" a="(s’) intéresser à"/>
+                <item q="to be interested in" a="(s') intéresser à"/>
                 <item q="useless" a="inutile"/>
                 <item q="unbelievable" a="incroyable"/>
                 <item q="anxious/worried" a="inquiet"/>
@@ -4629,22 +4629,22 @@ Revison (level 4)
                 <item q="quarter" a="quart"/>
                 <item q="second" a="seconde"/>
                 <item q="at the same time" a="à la fois"/>
-                <item q="in the future" a="à l’avenir"/>
-                <item q="on time" a="à l’heure"/>
+                <item q="in the future" a="à l'avenir"/>
+                <item q="on time" a="à l'heure"/>
                 <item q="part-time" a="à temps partiel"/>
                 <item q="year" a="an"/>
                 <item q="year" a="année"/>
                 <item q="after(wards)" a="après"/>
                 <item q="the day after tomorrow" a="après-demain"/>
                 <item q="afternoon" a="après-midi"/>
-                <item q="today" a="aujourd’hui"/>
+                <item q="today" a="aujourd'hui"/>
                 <item q="before, formerly" a="auparavant"/>
                 <item q="before" a="avant"/>
                 <item q="the day before yesterday" a="avant-hier"/>
                 <item q="soon" a="bientôt"/>
-                <item q="first of all" a="d’abord"/>
+                <item q="first of all" a="d'abord"/>
                 <item q="in a minute" a="dans une minute"/>
-                <item q="usually" a="d’habitude"/>
+                <item q="usually" a="d'habitude"/>
                 <item q="early" a="de bonne heure"/>
                 <item q="beginning" a="début"/>
                 <item q="tomorrow" a="demain"/>
@@ -4693,7 +4693,7 @@ Revison (level 4)
                 <item q="early" a="tôt"/>
                 <item q="always" a="toujours"/>
                 <item q="everyday" a="tous les jours"/>
-                <item q="suddenly/all of a sudden" a="tout à coup/d’un coup"/>
+                <item q="suddenly/all of a sudden" a="tout à coup/d'un coup"/>
                 <item q="immediately/straightaway" a="tout de suite"/>
                 <item q="soon/quickly/fast" a="vite"/>
                 <item q="weekend" a="week-end"/>
@@ -4706,7 +4706,7 @@ Revison (level 4)
                 <item q="countryside" a="la campagne"/>
                 <item q="at home" a="chez"/>
                 <item q="on each/either side" a="de chaque côté"/>
-                <item q="on the other side" a="de l’autre côté"/>
+                <item q="on the other side" a="de l'autre côté"/>
                 <item q="downstairs" a="en bas"/>
                 <item q="upstairs" a="en haut"/>
                 <item q="is " a="est"/>
@@ -4816,7 +4816,7 @@ Revison (level 4)
                 <item q="to snow" a="neiger"/>
                 <item q="cloud" a="le nuage"/>
                 <item q="cloudy" a="nuageux"/>
-                <item q="shade" a="l’ombre"/>
+                <item q="shade" a="l'ombre"/>
                 <item q="stormy" a="orageux"/>
                 <item q="to rain" a="pleuvoir"/>
                 <item q="rain" a="la pluie"/>
@@ -4856,7 +4856,7 @@ Revison (level 4)
                 <item q="true" a="vrai"/>
            </topic>
            <topic name="18. Materials">
-                <item q="silver" a="l’argent"/>
+                <item q="silver" a="l'argent"/>
                 <item q="cement" a="le béton"/>
                 <item q="wood" a="le bois"/>
                 <item q="brick" a="la brique"/>
@@ -4866,14 +4866,14 @@ Revison (level 4)
                 <item q="iron" a="le fer"/>
                 <item q="wool" a="la laine"/>
                 <item q="metal" a="le métal"/>
-                <item q="gold" a="l’or"/>
+                <item q="gold" a="l'or"/>
                 <item q="paper" a="le papier"/>
                 <item q="plastic" a="la plastique"/>
                 <item q="silk" a="la soie"/>
                 <item q="glass" a="le verre"/>
            </topic>
            <topic name="19. Abbreviations">
-                <item q="school library" a="CDI – centre de documentation et d’information"/>
+                <item q="school library" a="CDI – centre de documentation et d'information"/>
                 <item q="secondary school" a="CES"/>
                 <item q="technology lessons" a="EMT"/>
                 <item q="physical education/PE" a="EPS"/>
@@ -4890,10 +4890,10 @@ Revison (level 4)
            <topic name="20. Health">
                 <item q="apricot" a="la la carte/on the menu (m)"/>
                 <item q="to help" a="aider"/>
-                <item q="alcohol" a="l’alcool (m)"/>
-                <item q="food/diet" a="l’alimentation (f)"/>
+                <item q="alcohol" a="l'alcool (m)"/>
+                <item q="food/diet" a="l'alimentation (f)"/>
                 <item q="to be well/better" a="aller bien/mieux"/>
-                <item q="to stop/give up" a="(s’) arrêter"/>
+                <item q="to stop/give up" a="(s') arrêter"/>
                 <item q="baguette" a="la baguette"/>
                 <item q="banana" a="la banane"/>
                 <item q="butter" a="le beurre"/>
@@ -4933,9 +4933,9 @@ Revison (level 4)
                 <item q="dinner" a="le dîner"/>
                 <item q="drug" a="la drogue"/>
                 <item q="to take drugs" a="se droguer"/>
-                <item q="water" a="l’eau (f)"/>
-                <item q="mineral water" a="l’eau minérale (f)"/>
-                <item q="(non) drinkable water" a="l’eau (non) potable"/>
+                <item q="water" a="l'eau (f)"/>
+                <item q="mineral water" a="l'eau minérale (f)"/>
+                <item q="(non) drinkable water" a="l'eau (non) potable"/>
                 <item q="in good shape" a="en bonne forme"/>
                 <item q="in good health" a="en bonne santé"/>
                 <item q="to feel like" a="avoir envie de"/>
@@ -4957,12 +4957,12 @@ Revison (level 4)
                 <item q="taste" a="le goût"/>
                 <item q="to taste" a="goûter"/>
                 <item q="fat" a="gras"/>
-                <item q="habit" a="l’habitude (f)"/>
+                <item q="habit" a="l'habitude (f)"/>
                 <item q="green bean" a="le haricot vert"/>
-                <item q="hospital" a="l’hôpital"/>
-                <item q="appetizer" a="le hors-d’œuvre"/>
-                <item q="oil" a="l’huile (f)"/>
-                <item q="to  worry" a="(s’) inquiéter"/>
+                <item q="hospital" a="l'hôpital"/>
+                <item q="appetizer" a="le hors-d'œuvre"/>
+                <item q="oil" a="l'huile (f)"/>
+                <item q="to  worry" a="(s') inquiéter"/>
                 <item q="ham" a="le jambon"/>
                 <item q="fruit juice" a="le jus de fruit"/>
                 <item q="milk" a="le lait"/>
@@ -4976,9 +4976,9 @@ Revison (level 4)
                 <item q="doctor" a="le médecin"/>
                 <item q="medicine" a="le médicament"/>
                 <item q="food" a="la nourriture"/>
-                <item q="obesity" a="l’obésité (f)"/>
-                <item q="smell" a="l’odeur (f)"/>
-                <item q="egg" a="l’œuf (m)"/>
+                <item q="obesity" a="l'obésité (f)"/>
+                <item q="smell" a="l'odeur (f)"/>
+                <item q="egg" a="l'œuf (m)"/>
                 <item q="ordinary" a="ordinaire"/>
                 <item q="bread" a="le pain"/>
                 <item q="lazy" a="paresseux"/>
@@ -5039,17 +5039,17 @@ Revison (level 4)
                 <item q="yoghurt" a="le yaourt"/>
            </topic>
            <topic name="21. Relationships and Choices">
-                <item q="address" a="l’adresse (f)"/>
-                <item q="adult" a="l’adulte (m/f)"/>
-                <item q="age" a="l’âge (m)"/>
+                <item q="address" a="l'adresse (f)"/>
+                <item q="adult" a="l'adulte (m/f)"/>
+                <item q="age" a="l'âge (m)"/>
                 <item q="kind/friendly" a="aimable"/>
                 <item q="eldest/oldest/older" a="aîné"/>
-                <item q="friend" a="l’ami(e) (m/f)"/>
+                <item q="friend" a="l'ami(e) (m/f)"/>
                 <item q="friendly" a="amical"/>
-                <item q="love" a="l’amour (m)"/>
-                <item q="birthday" a="l’anniversaire (m)"/>
-                <item q="announcement/news" a="l’annonce (f)"/>
-                <item q="to call (be called)" a="(s’) appeler"/>
+                <item q="love" a="l'amour (m)"/>
+                <item q="birthday" a="l'anniversaire (m)"/>
+                <item q="announcement/news" a="l'annonce (f)"/>
+                <item q="to call (be called)" a="(s') appeler"/>
                 <item q="to wait" a="attendre"/>
                 <item q="to be … yrs old" a="avoir … ans"/>
                 <item q="beard" a="la barbe"/>
@@ -5064,7 +5064,7 @@ Revison (level 4)
                 <item q="sister-in-law" a="la belle-soeur"/>
                 <item q="stupid" a="bête"/>
                 <item q="curly" a="bouclé"/>
-                <item q="ID card" a="la carte d’identité"/>
+                <item q="ID card" a="la carte d'identité"/>
                 <item q="famous" a="célèbre"/>
                 <item q="cat" a="le chat"/>
                 <item q="expensive" a="cher"/>
@@ -5072,7 +5072,7 @@ Revison (level 4)
                 <item q="hair" a="les cheveux (m)"/>
                 <item q="dog" a="le chien"/>
                 <item q="unemployment" a="le chômage"/>
-                <item q="guinea pig" a="le cochon d’Inde"/>
+                <item q="guinea pig" a="le cochon d'Inde"/>
                 <item q="to know/meet" a="connaître"/>
                 <item q="to contribute" a="contribuer"/>
                 <item q="(boy) friend" a="le copain"/>
@@ -5086,8 +5086,8 @@ Revison (level 4)
                 <item q="divorced" a="divorcé"/>
                 <item q="to write" a="écrire"/>
                 <item q="selfish" a="égoïste"/>
-                <item q="child" a="l’enfant (m/f)"/>
-                <item q="to hear (get on)" a="(s’) entendre"/>
+                <item q="child" a="l'enfant (m/f)"/>
+                <item q="to hear (get on)" a="(s') entendre"/>
                 <item q="angry" a="fâché"/>
                 <item q="family" a="la famille"/>
                 <item q="woman" a="la femme"/>
@@ -5100,12 +5100,12 @@ Revison (level 4)
                 <item q="grandmother" a="la grand-mère"/>
                 <item q="grandfather" a="le grand-père"/>
                 <item q="grandparents" a="les grands-parents (m)"/>
-                <item q="to get used to" a="(s’) habituer à"/>
+                <item q="to get used to" a="(s') habituer à"/>
                 <item q="to hesitate" a="hésiter"/>
                 <item q="happy" a="heureux"/>
-                <item q="man" a="l’homme (m)"/>
-                <item q="identity" a="l’identité (f)"/>
-                <item q="it is about" a="il s’agit de"/>
+                <item q="man" a="l'homme (m)"/>
+                <item q="identity" a="l'identité (f)"/>
+                <item q="it is about" a="il s'agit de"/>
                 <item q="young" a="jeune"/>
                 <item q="pretty" a="joli"/>
                 <item q="rabbit" a="le lapin"/>
@@ -5128,8 +5128,8 @@ Revison (level 4)
                 <item q="born" a="né"/>
                 <item q="nose" a="le nez"/>
                 <item q="name (surname)" a="le nom (de famille)"/>
-                <item q="bird" a="l’oiseau (m)"/>
-                <item q="uncle" a="l’oncle (m)"/>
+                <item q="bird" a="l'oiseau (m)"/>
+                <item q="uncle" a="l'oncle (m)"/>
                 <item q="dad" a="le papa"/>
                 <item q="parents" a="les parents (m)"/>
                 <item q="(ideal) partner" a="le/la partenaire (idéal(e))"/>
@@ -5153,7 +5153,7 @@ Revison (level 4)
                 <item q="to laugh" a="rire"/>
                 <item q="unemployed" a="sans travail"/>
                 <item q="safety" a="la sécurité"/>
-                <item q="sense of humour" a="le sens de l’humour"/>
+                <item q="sense of humour" a="le sens de l'humour"/>
                 <item q="separated" a="séparé"/>
                 <item q="only/alone/lonely" a="seul"/>
                 <item q="to sign" a="signer"/>
@@ -5174,14 +5174,14 @@ Revison (level 4)
            </topic>
            <topic name="22. Free Time and The Media">
                 <item q="to go along with" a="accompagner"/>
-                <item q="purchase" a="l’achat (m)"/>
+                <item q="purchase" a="l'achat (m)"/>
                 <item q="to buy" a="acheter"/>
                 <item q="to go" a="aller"/>
-                <item q="to entertain (have fun)" a="(s’) amuser"/>
-                <item q="speaking (on the phone)" a="à l’appareil (m)"/>
-                <item q="call" a="l’appel (m)"/>
-                <item q="(pocket) money" a="l’argent (de poche) (m)"/>
-                <item q="advantage" a="l’avantage (m)"/>
+                <item q="to entertain (have fun)" a="(s') amuser"/>
+                <item q="speaking (on the phone)" a="à l'appareil (m)"/>
+                <item q="call" a="l'appel (m)"/>
+                <item q="(pocket) money" a="l'argent (de poche) (m)"/>
+                <item q="advantage" a="l'avantage (m)"/>
                 <item q="ball" a="le ballon"/>
                 <item q="comic strip/comic" a="la bande dessinée"/>
                 <item q="bank" a="la banque"/>
@@ -5191,9 +5191,9 @@ Revison (level 4)
                 <item q="ticket" a="le billet"/>
                 <item q="jacket" a="le blouson"/>
                 <item q="cheap/bargain" a="bon marché"/>
-                <item q="butcher’s" a="la boucherie"/>
-                <item q="earring" a="la boucle d’oreille"/>
-                <item q="baker’s" a="la boulangerie"/>
+                <item q="butcher's" a="la boucherie"/>
+                <item q="earring" a="la boucle d'oreille"/>
+                <item q="baker's" a="la boulangerie"/>
                 <item q="bowls" a="les boules (f)"/>
                 <item q="shop" a="la boutique"/>
                 <item q="present" a="le cadeau"/>
@@ -5236,14 +5236,14 @@ Revison (level 4)
                 <item q="documentary" a="le documentaire"/>
                 <item q="to give" a="donner"/>
                 <item q="to exchange/swap" a="échanger"/>
-                <item q="screen" a="l’écran (m)"/>
-                <item q="programme" a="l’émission (f)"/>
+                <item q="screen" a="l'écran (m)"/>
+                <item q="programme" a="l'émission (f)"/>
                 <item q="together" a="ensemble"/>
-                <item q="entrance" a="l’entrée (f)"/>
+                <item q="entrance" a="l'entrée (f)"/>
                 <item q="to send" a="envoyer"/>
-                <item q="grocer’s" a="l’épicerie (f)"/>
-                <item q="team" a="l’équipe (f)"/>
-                <item q="horseriding" a="l’équitation"/>
+                <item q="grocer's" a="l'épicerie (f)"/>
+                <item q="team" a="l'équipe (f)"/>
+                <item q="horseriding" a="l'équitation"/>
                 <item q="to try" a="essayer"/>
                 <item q="to save" a="faire des économies"/>
                 <item q="to go (food) shopping" a="faire les courses"/>
@@ -5251,8 +5251,8 @@ Revison (level 4)
                 <item q="to be a fan of" a="être fana de"/>
                 <item q="favourite" a="favori"/>
                 <item q="soap opera" a="le feuilleton"/>
-                <item q="adventure film" a="le film d’aventures"/>
-                <item q="horror film" a="le film d’horreur"/>
+                <item q="adventure film" a="le film d'aventures"/>
+                <item q="horror film" a="le film d'horreur"/>
                 <item q="war film" a="le film de guerre"/>
                 <item q="science-fiction film" a="le film de science-fiction"/>
                 <item q="crime film" a="le film policier"/>
@@ -5263,10 +5263,10 @@ Revison (level 4)
                 <item q="group" a="le groupe"/>
                 <item q="guitar" a="la guitare"/>
                 <item q="gymnastics" a="la gymnastique"/>
-                <item q="hypermarket" a="l’hypermarché (m)"/>
-                <item q="idea" a="l’idée (f)"/>
-                <item q="raincoat" a="l’imperméable (m)"/>
-                <item q="disadvantage" a="l’inconvénient"/>
+                <item q="hypermarket" a="l'hypermarché (m)"/>
+                <item q="idea" a="l'idée (f)"/>
+                <item q="raincoat" a="l'imperméable (m)"/>
+                <item q="disadvantage" a="l'inconvénient"/>
                 <item q="jeans" a="le jean"/>
                 <item q="card/board game" a="le jeu de cartes/société"/>
                 <item q="video game" a="le jeu vidéo"/>
@@ -5290,7 +5290,7 @@ Revison (level 4)
                 <item q="(fruit) stallholder" a="le marchand (de fruit)"/>
                 <item q="market" a="le marché"/>
                 <item q="member" a="le membre"/>
-                <item q="to put money aside" a="mettre de l’argent de côté"/>
+                <item q="to put money aside" a="mettre de l'argent de côté"/>
                 <item q="fashion(able)" a="la mode (à la mode)"/>
                 <item q="change" a="la monnaie"/>
                 <item q="watch" a="la montre"/>
@@ -5298,8 +5298,8 @@ Revison (level 4)
                 <item q="to swim" a="nager"/>
                 <item q="swimming" a="la natation"/>
                 <item q="(telephone) number" a="le numéro (de téléphone)"/>
-                <item q="orchestra" a="l’orchestre"/>
-                <item q="computer" a="l’ordinateur"/>
+                <item q="orchestra" a="l'orchestre"/>
+                <item q="computer" a="l'ordinateur"/>
                 <item q="pair" a="la paire"/>
                 <item q="trousers" a="le pantalon"/>
                 <item q="umbrella" a="le parapluie"/>
@@ -5355,7 +5355,7 @@ Revison (level 4)
                 <item q="subtitled" a="sous-titré"/>
                 <item q="spectator" a="le spectateur"/>
                 <item q="sporty" a="sportif"/>
-                <item q="winter sports" a="les sports d’hiver (m)"/>
+                <item q="winter sports" a="les sports d'hiver (m)"/>
                 <item q="water sports" a="les sports nautiques"/>
                 <item q="stadium" a="le stade"/>
                 <item q="supermarket" a="le supermarché"/>
@@ -5385,30 +5385,30 @@ Revison (level 4)
                 <item q="mountain biking" a="le VTT"/>
            </topic>
            <topic name="23. Holidays">
-                <item q="bill" a="l’addition (f)"/>
-                <item q="airport" a="l’aéroport (m)"/>
-                <item q="Africa/African" a="l’Afrique (f)/africain"/>
-                <item q="travel agency" a="l’agence de voyages (f)"/>
-                <item q="open air (air)" a="en plein air (l’air) (m)"/>
-                <item q="Algeria/Algerian" a="l’Algérie (f)/algérien"/>
-                <item q="Germany/German" a="l’Allemagne/allemand"/>
-                <item q="return ticket" a="l’aller-retour"/>
-                <item q="single ticket" a="l’aller simple "/>
+                <item q="bill" a="l'addition (f)"/>
+                <item q="airport" a="l'aéroport (m)"/>
+                <item q="Africa/African" a="l'Afrique (f)/africain"/>
+                <item q="travel agency" a="l'agence de voyages (f)"/>
+                <item q="open air (air)" a="en plein air (l'air) (m)"/>
+                <item q="Algeria/Algerian" a="l'Algérie (f)/algérien"/>
+                <item q="Germany/German" a="l'Allemagne/allemand"/>
+                <item q="return ticket" a="l'aller-retour"/>
+                <item q="single ticket" a="l'aller simple "/>
                 <item q="Alpes" a="les Alpes"/>
-                <item q="America/American" a="l’Amérique/américain"/>
-                <item q="England/English" a="l’Angleterre/anglais"/>
-                <item q="to approach/come closer" a="(s’) approcher"/>
-                <item q="arrival" a="l’arrivée"/>
-                <item q="lift" a="l’ascenseur (m)"/>
-                <item q="plate" a="l’assiette (f)"/>
-                <item q="Atlantic" a="l’Atlantique (m)"/>
-                <item q="youth hostel" a="l’auberge de jeunesse (f)"/>
-                <item q="Australia/Australian" a="l’Australie/australien"/>
-                <item q="car/motocar" a="l’auto (f)"/>
-                <item q="bus" a="l’autobus (m)"/>
-                <item q="motorway" a="l’autoroute (f)"/>
-                <item q="adventure" a="l’aventure (f)"/>
-                <item q="airplane" a="l’avion (m)"/>
+                <item q="America/American" a="l'Amérique/américain"/>
+                <item q="England/English" a="l'Angleterre/anglais"/>
+                <item q="to approach/come closer" a="(s') approcher"/>
+                <item q="arrival" a="l'arrivée"/>
+                <item q="lift" a="l'ascenseur (m)"/>
+                <item q="plate" a="l'assiette (f)"/>
+                <item q="Atlantic" a="l'Atlantique (m)"/>
+                <item q="youth hostel" a="l'auberge de jeunesse (f)"/>
+                <item q="Australia/Australian" a="l'Australie/australien"/>
+                <item q="car/motocar" a="l'auto (f)"/>
+                <item q="bus" a="l'autobus (m)"/>
+                <item q="motorway" a="l'autoroute (f)"/>
+                <item q="adventure" a="l'aventure (f)"/>
+                <item q="airplane" a="l'avion (m)"/>
                 <item q="luggage" a="les bagages (m)"/>
                 <item q="to bathe/swim" a="(se) baigner"/>
                 <item q="bath" a="le bain"/>
@@ -5456,16 +5456,16 @@ Revison (level 4)
                 <item q="Dover" a="Douvres"/>
                 <item q="flag" a="le drapeau"/>
                 <item q="to last" a="durer"/>
-                <item q="Scotland/Scottish" a="l’Ecosse (f)/écossais"/>
+                <item q="Scotland/Scottish" a="l'Ecosse (f)/écossais"/>
                 <item q="Edinburgh" a="Edimbourg"/>
-                <item q="employee" a="l’employé(e) m/f"/>
+                <item q="employee" a="l'employé(e) m/f"/>
                 <item q="again(still/yet/although)" a="encore"/>
-                <item q="place" a="l’endroit (m)"/>
-                <item q="Spain/Spanish" a="l’Espagne (f)/espagnol"/>
-                <item q="petrol" a="l’essence (f)"/>
+                <item q="place" a="l'endroit (m)"/>
+                <item q="Spain/Spanish" a="l'Espagne (f)/espagnol"/>
+                <item q="petrol" a="l'essence (f)"/>
                 <item q="United States" a="les États-Unis (m)"/>
-                <item q="star" a="l’étoile"/>
-                <item q="stranger (abroad)" a="l’étranger (m) (à l’étranger)"/>
+                <item q="star" a="l'étoile"/>
+                <item q="stranger (abroad)" a="l'étranger (m) (à l'étranger)"/>
                 <item q="to explain" a="expliquer"/>
                 <item q="traffic lights" a="les feux rouges (m)"/>
                 <item q="station" a="la gare"/>
@@ -5474,11 +5474,11 @@ Revison (level 4)
                 <item q="holiday cottage" a="le gîte"/>
                 <item q="Great Britain/British" a="la Grande-Bretagne/britannique"/>
                 <item q="ticket office" a="le guichet"/>
-                <item q="timetable" a="l’horaire (m)"/>
-                <item q="hotel" a="l’hôtel (m)"/>
-                <item q="India/indian" a="l’Inde (f)/indien"/>
-                <item q="(Northern) Ireland/Irish" a="l’Irlande (f) (du Nord)/irlandais"/>
-                <item q="Italy/italian" a="l’Italie (f)/italien"/>
+                <item q="timetable" a="l'horaire (m)"/>
+                <item q="hotel" a="l'hôtel (m)"/>
+                <item q="India/indian" a="l'Inde (f)/indien"/>
+                <item q="(Northern) Ireland/Irish" a="l'Irlande (f) (du Nord)/irlandais"/>
+                <item q="Italy/italian" a="l'Italie (f)/italien"/>
                 <item q="Japan/Japanese" a="le Japon/japonais"/>
                 <item q="lake" a="le lac"/>
                 <item q="sink/washbasin" a="le lavabo"/>
@@ -5501,7 +5501,7 @@ Revison (level 4)
                 <item q="moped" a="la mobylette"/>
                 <item q="world" a="le monde"/>
                 <item q="motorbike" a="la moto"/>
-                <item q="tourist information office" a="l’office de tourisme (m)"/>
+                <item q="tourist information office" a="l'office de tourisme (m)"/>
                 <item q="to share" a="partager"/>
                 <item q="to leave" a="partir"/>
                 <item q="passenger" a="le passager"/>
@@ -5511,7 +5511,7 @@ Revison (level 4)
                 <item q="toll" a="le péage"/>
                 <item q="full board" a="la pension complète"/>
                 <item q="(driving) licence" a="le permis (de conduire)"/>
-                <item q="ID card" a="la pièce d’identité"/>
+                <item q="ID card" a="la pièce d'identité"/>
                 <item q="foot (on foot)" a="le pied (à pied)"/>
                 <item q="pedestrian" a="le piéton"/>
                 <item q="path/trail/piste" a="la piste"/>
@@ -5541,7 +5541,7 @@ Revison (level 4)
                 <item q="sand" a="le sable"/>
                 <item q="sleeping bag" a="le sac de couchage"/>
                 <item q="season" a="la saison"/>
-                <item q="waiting room" a="la salle d’attente"/>
+                <item q="waiting room" a="la salle d'attente"/>
                 <item q="bathroom" a="la salle de bains"/>
                 <item q="soap" a="le savon"/>
                 <item q="stay" a="le séjour"/>
@@ -5556,7 +5556,7 @@ Revison (level 4)
                 <item q="Switzerland/Swiss" a="la Suisse/suisse"/>
                 <item q="to follow" a="suivre"/>
                 <item q="supplement/extra" a="le supplément"/>
-                <item q="tourist information office" a="le syndicat d’initiative"/>
+                <item q="tourist information office" a="le syndicat d'initiative"/>
                 <item q="(reduced) price/fare" a="le tarif (réduit)"/>
                 <item q="cup" a="la tasse"/>
                 <item q="tent" a="la tente"/>
@@ -5578,11 +5578,11 @@ Revison (level 4)
                 <item q="(sea) view" a="la vue (de mer)"/>
            </topic>
            <topic name="24. Home and Local Area">
-                <item q="apartment" a="l’appartement (m)"/>
-                <item q="tree" a="l’arbre (m)"/>
-                <item q="wardrobe" a="l’armoire (f)"/>
-                <item q="(bus) stop" a="l’arrêt (d’autobus)"/>
-                <item q="to sit down" a="(s’) asseoir"/>
+                <item q="apartment" a="l'appartement (m)"/>
+                <item q="tree" a="l'arbre (m)"/>
+                <item q="wardrobe" a="l'armoire (f)"/>
+                <item q="(bus) stop" a="l'arrêt (d'autobus)"/>
+                <item q="to sit down" a="(s') asseoir"/>
                 <item q="building" a="le bâtiment"/>
                 <item q="library" a="la bibliothèque"/>
                 <item q="nightclub" a="la boîte de nuit"/>
@@ -5607,11 +5607,11 @@ Revison (level 4)
                 <item q="to move house" a="déménager"/>
                 <item q="to go down" a="descendre"/>
                 <item q="to sleep" a="dormir "/>
-                <item q="church" a="l’église (f)"/>
+                <item q="church" a="l'église (f)"/>
                 <item q="to enter/go in" a="entrer"/>
-                <item q="stairs" a="l’escalier (m)"/>
-                <item q="space" a="l’espace (m)"/>
-                <item q="floor" a="l’étage (m)"/>
+                <item q="stairs" a="l'escalier (m)"/>
+                <item q="space" a="l'espace (m)"/>
+                <item q="floor" a="l'étage (m)"/>
                 <item q="to babysit" a="faire du babysitting"/>
                 <item q="to garden" a="faire du jardinage"/>
                 <item q="to do the housework" a="faire le ménage"/>
@@ -5624,13 +5624,13 @@ Revison (level 4)
                 <item q="(microwave) oven" a="le four (à micro-ondes)"/>
                 <item q="fridge" a="le frigo"/>
                 <item q="to keep/look after" a="garder"/>
-                <item q="inhabitant" a="l’habitant (m)"/>
+                <item q="inhabitant" a="l'habitant (m)"/>
                 <item q="to live" a="habiter"/>
                 <item q="historic" a="historique"/>
-                <item q="town hall" a="l’hôtel de ville (m)"/>
-                <item q="island" a="l’île (f)"/>
-                <item q="block of flats/building" a="l’immeuble (m)"/>
-                <item q="industry" a="l’industrie (f)"/>
+                <item q="town hall" a="l'hôtel de ville (m)"/>
+                <item q="island" a="l'île (f)"/>
+                <item q="block of flats/building" a="l'immeuble (m)"/>
+                <item q="industry" a="l'industrie (f)"/>
                 <item q="industrial" a="industriel"/>
                 <item q="garden" a="le jardin"/>
                 <item q="park" a="le jardin public"/>
@@ -5665,7 +5665,7 @@ Revison (level 4)
                 <item q="ceiling" a="le plafond"/>
                 <item q="plant" a="la plante"/>
                 <item q="bridge" a="le pont"/>
-                <item q="(front) door" a="la porte (d’entrée¬)"/>
+                <item q="(front) door" a="la porte (d'entrée¬)"/>
                 <item q="private" a="privé"/>
                 <item q="district/neighbourhood" a="le quartier"/>
                 <item q="alarm clock" a="le réveil"/>
@@ -5688,7 +5688,7 @@ Revison (level 4)
                 <item q="roof" a="le toit"/>
                 <item q="pavement" a="le trottoir"/>
                 <item q="to find" a="(se) trouver"/>
-                <item q="factory" a="l’usine (f)"/>
+                <item q="factory" a="l'usine (f)"/>
                 <item q="cow" a="la vache"/>
                 <item q="entrance hall" a="le vestibule"/>
                 <item q="life" a="la vie"/>
@@ -5699,7 +5699,7 @@ Revison (level 4)
                 <item q="traffic" a="la circulation"/>
                 <item q="to grow" a="cultiver"/>
                 <item q="rubbish" a="les déchets (m)"/>
-                <item q="environment" a="l’environnement (m)"/>
+                <item q="environment" a="l'environnement (m)"/>
                 <item q="to throw (away)" a="jeter"/>
                 <item q="oil" a="le pétrole"/>
                 <item q="cycle lane" a="la piste cyclable"/>
@@ -5720,8 +5720,8 @@ Revison (level 4)
            <topic name="26. School/college and Future Plans">
                 <item q="business" a="les affaires (f)"/>
                 <item q="to learn" a="apprendre"/>
-                <item q="apprentice/trainee" a="l’apprenti(e) (m/f)"/>
-                <item q="apprenticeship" a="l’apprentissage"/>
+                <item q="apprentice/trainee" a="l'apprenti(e) (m/f)"/>
+                <item q="apprenticeship" a="l'apprentissage"/>
                 <item q="A levels" a="le bac "/>
                 <item q="biology" a="la biologie"/>
                 <item q="exercise book" a="le cahier"/>
@@ -5749,30 +5749,30 @@ Revison (level 4)
                 <item q="headteacher" a="le directeur/la directrice"/>
                 <item q="to discuss/talk about" a="discuter"/>
                 <item q="the right" a="le droit"/>
-                <item q="exchange" a="l’échange (m)"/>
-                <item q="(primary/secondary) school" a="l’école (f) primaire/secondaire"/>
+                <item q="exchange" a="l'échange (m)"/>
+                <item q="(primary/secondary) school" a="l'école (f) primaire/secondaire"/>
                 <item q="to listen" a="écouter"/>
-                <item q="pupil" a="l’élève (m/f)"/>
-                <item q="timetable" a="l’emploi du temps (m)"/>
+                <item q="pupil" a="l'élève (m/f)"/>
+                <item q="timetable" a="l'emploi du temps (m)"/>
                 <item q="in yr12" a="en première"/>
                 <item q="in yr 11" a="en seconde"/>
                 <item q="in yr7" a="en sixième"/>
                 <item q="in yr 13" a="en terminale"/>
                 <item q="to encourage" a="encourager"/>
                 <item q="studies" a="les études (f)"/>
-                <item q="student" a="l’étudiant (m)"/>
+                <item q="student" a="l'étudiant (m)"/>
                 <item q="to study" a="étudier"/>
-                <item q="exam" a="l’examen (m)"/>
-                <item q="example" a="l’exemple (m) "/>
+                <item q="exam" a="l'examen (m)"/>
+                <item q="example" a="l'exemple (m) "/>
                 <item q="easy" a="facile"/>
                 <item q="to pay attention" a="faire attention"/>
                 <item q="to finish" a="finir"/>
                 <item q="French" a="le français"/>
                 <item q="geography" a="la géographie"/>
-                <item q="history" a="l’histoire (f)"/>
-                <item q="ICT" a="l’informatique"/>
+                <item q="history" a="l'histoire (f)"/>
+                <item q="ICT" a="l'informatique"/>
                 <item q="worried/anxious" a="inquiet"/>
-                <item q="primary school teacher" a="l’instituteur/l’institutrice"/>
+                <item q="primary school teacher" a="l'instituteur/l'institutrice"/>
                 <item q="laboratory" a="le laboratoire"/>
                 <item q="language" a="la langue"/>
                 <item q="lesson" a="la leçon"/>
@@ -5813,14 +5813,14 @@ Revison (level 4)
                 <item q="to work" a="travailler"/>
                 <item q="hardworking" a="travailleur"/>
                 <item q="school term" a="le trimestre"/>
-                <item q="uniform" a="l’uniforme (m)"/>
-                <item q="university" a="l’université (f)"/>
+                <item q="uniform" a="l'uniforme (m)"/>
+                <item q="university" a="l'université (f)"/>
                 <item q="to use" a="utiliser"/>
                 <item q="vocabulary" a="le vocabulaire"/>
            </topic>
            <topic name="27. Current and Future Jobs">
-                <item q="actor/actress" a="l’acteur/l’actrice"/>
-                <item q="future" a="l’avenir"/>
+                <item q="actor/actress" a="l'acteur/l'actrice"/>
+                <item q="future" a="l'avenir"/>
                 <item q="well paid" a="bien payé"/>
                 <item q="postbox" a="la boîte aux lettres"/>
                 <item q="butcher" a="le boucher"/>
@@ -5837,17 +5837,17 @@ Revison (level 4)
                 <item q="to become" a="devenir"/>
                 <item q="hand out/distribute" a="distribuer"/>
                 <item q="doctor" a="le docteur"/>
-                <item q="electrician" a="l’électricien (m)"/>
-                <item q="job/employment" a="l’emploi"/>
-                <item q="company" a="l’entreprise (f)"/>
-                <item q="envelope" a="l’enveloppe (f)"/>
-                <item q="grocer" a="l’épicier"/>
+                <item q="electrician" a="l'électricien (m)"/>
+                <item q="job/employment" a="l'emploi"/>
+                <item q="company" a="l'entreprise (f)"/>
+                <item q="envelope" a="l'enveloppe (f)"/>
+                <item q="grocer" a="l'épicier"/>
                 <item q="postman" a="le facteur"/>
                 <item q="farmer" a="le fermier"/>
                 <item q="form" a="le formulaire"/>
-                <item q="air hostess" a="l’hôtesse de l’air"/>
-                <item q="nurse" a="l’infirmier/l’infirmière"/>
-                <item q="engineer" a="l’ingénieur (m)"/>
+                <item q="air hostess" a="l'hôtesse de l'air"/>
+                <item q="nurse" a="l'infirmier/l'infirmière"/>
+                <item q="engineer" a="l'ingénieur (m)"/>
                 <item q="letter" a="la lettre"/>
                 <item q="to deliver" a="livrer"/>
                 <item q="badly paid" a="mal payé"/>
@@ -5878,16 +5878,16 @@ Revison (level 4)
                 <item q="hardly/barely/scarcely" a="à peine"/>
                 <item q="medium rare" a="à point"/>
                 <item q="addicted" a="accro"/>
-                <item q="physical activity" a="l’activité physique (f)"/>
-                <item q="lamb" a="l’agneau (m)"/>
-                <item q="garlic" a="l’ail (m)"/>
+                <item q="physical activity" a="l'activité physique (f)"/>
+                <item q="lamb" a="l'agneau (m)"/>
+                <item q="garlic" a="l'ail (m)"/>
                 <item q="alcoholic" a="alcoolique"/>
                 <item q="drunk/alcoholic" a="alcoolisé"/>
-                <item q="alcoholism" a="l’acoolisme (m)"/>
-                <item q="healthy diet" a="l’alimentation saine (f)"/>
+                <item q="alcoholism" a="l'acoolisme (m)"/>
+                <item q="healthy diet" a="l'alimentation saine (f)"/>
                 <item q="bitter" a="amer"/>
-                <item q="pineapple" a="l’ananas (m)"/>
-                <item q="pre-dinner drink" a="l’apéritif (m)"/>
+                <item q="pineapple" a="l'ananas (m)"/>
+                <item q="pre-dinner drink" a="l'apéritif (m)"/>
                 <item q="to warn" a="avertir"/>
                 <item q="well done (cooked)" a="bien cuit"/>
                 <item q="duck" a="le canard"/>
@@ -5904,24 +5904,24 @@ Revison (level 4)
                 <item q="to detox" a="désintoxiquer"/>
                 <item q="to relax" a="(se) détendre"/>
                 <item q="pain" a="la douleur"/>
-                <item q="to train" a="(s’) entraîner"/>
+                <item q="to train" a="(s') entraîner"/>
                 <item q="thick" a="épais"/>
                 <item q="spicy" a="épicé"/>
                 <item q="to exhaust/tire out" a="épuiser"/>
-                <item q="snail" a="l’escargot (m)"/>
+                <item q="snail" a="l'escargot (m)"/>
                 <item q="to have a lie in" a="faire la grasse matinée"/>
                 <item q="flour" a="la farine"/>
                 <item q="liver" a="le foie"/>
                 <item q="to waste" a="gâcher"/>
-                <item q="out of breath" a="hors d’haleine"/>
-                <item q="oyster" a="l’huître (f)"/>
+                <item q="out of breath" a="hors d'haleine"/>
+                <item q="oyster" a="l'huître (f)"/>
                 <item q="drunk" a="ivre"/>
                 <item q="lettuce" a="la laitue"/>
                 <item q="fats" a="les matières grasses (f)"/>
                 <item q="to lead (to)" a="mener"/>
                 <item q="nut" a="la noix"/>
-                <item q="onion" a="l’oignon (m)"/>
-                <item q="tin opener" a="l’ouvre-boîte (m)"/>
+                <item q="onion" a="l'oignon (m)"/>
+                <item q="tin opener" a="l'ouvre-boîte (m)"/>
                 <item q="grapefruit" a="le pamplemousse"/>
                 <item q="spicy" a="piquant"/>
                 <item q="sting" a="la piqûre"/>
@@ -5948,11 +5948,11 @@ Revison (level 4)
            </topic>
            <topic name="29. Relationships and Choices">
                 <item q="active" a="actif"/>
-                <item q="teenager/adolescent" a="l’ado (m/f)"/>
+                <item q="teenager/adolescent" a="l'ado (m/f)"/>
                 <item q="to assault/mug" a="agresser"/>
-                <item q="wedding ring" a="l’alliance (f)"/>
+                <item q="wedding ring" a="l'alliance (f)"/>
                 <item q="lively" a="animé"/>
-                <item q="attack" a="l’attaque (f)"/>
+                <item q="attack" a="l'attaque (f)"/>
                 <item q="ring" a="la bague"/>
                 <item q="kiss" a="baiser"/>
                 <item q="gang/group" a="la bande"/>
@@ -5974,17 +5974,17 @@ Revison (level 4)
                 <item q="to upset/disturb/bother" a="déranger"/>
                 <item q="debt" a="la dette"/>
                 <item q="to doubt" a="douter"/>
-                <item q="human rights" a="les droits de l’homme (m)"/>
+                <item q="human rights" a="les droits de l'homme (m)"/>
                 <item q="scary/frightening" a="effrayant"/>
                 <item q="equal" a="égal"/>
-                <item q="equality" a="l’égalité (f)"/>
+                <item q="equality" a="l'égalité (f)"/>
                 <item q="elegant" a="élégant"/>
-                <item q="abduction/kidnapping" a="l’enlèvement (m)"/>
-                <item q="boredom" a="l’ennui (m)"/>
-                <item q="enquiry" a="l’enquête (f)"/>
+                <item q="abduction/kidnapping" a="l'enlèvement (m)"/>
+                <item q="boredom" a="l'ennui (m)"/>
+                <item q="enquiry" a="l'enquête (f)"/>
                 <item q="to invade/take over" a="envahir"/>
                 <item q="to marry" a="épouser"/>
-                <item q="hope" a="l’espoir (m)"/>
+                <item q="hope" a="l'espoir (m)"/>
                 <item q="surprising" a="étonnant"/>
                 <item q="strange" a="étrange"/>
                 <item q="to avoid" a="éviter"/>
@@ -6000,7 +6000,7 @@ Revison (level 4)
                 <item q="to disturb/annoy/bother" a="gêner"/>
                 <item q="to humiliate" a="humilier"/>
                 <item q="illegal" a="illégal"/>
-                <item q="immigrant" a="l’immigré (m)"/>
+                <item q="immigrant" a="l'immigré (m)"/>
                 <item q="unknown" a="inconnu"/>
                 <item q="jealous" a="jaloux"/>
                 <item q="youth (adolescence)" a="la jeunesse"/>
@@ -6026,7 +6026,7 @@ Revison (level 4)
                 <item q="niece" a="la nièce"/>
                 <item q="wedding ceremony" a="les noces (f)"/>
                 <item q="nostalgia" a="la nostalgie"/>
-                <item q="charitable organisation / charity" a="l’organisation caritative (f)"/>
+                <item q="charitable organisation / charity" a="l'organisation caritative (f)"/>
                 <item q="poverty" a="la pauvreté"/>
                 <item q="grandaughter" a="la petite-fille"/>
                 <item q="grandson" a="le petit-fils"/>
@@ -6060,10 +6060,10 @@ Revison (level 4)
            </topic>
            <topic name="30. Free Time and The Media">
                 <item q="news" a="les actualités (f)"/>
-                <item q="mountaineering" a="l’alpinisme (m)"/>
+                <item q="mountaineering" a="l'alpinisme (m)"/>
                 <item q="to cancel" a="annuler"/>
                 <item q="anonymous" a="anonyme"/>
-                <item q="aerial" a="l’antenne (f)"/>
+                <item q="aerial" a="l'antenne (f)"/>
                 <item q="jewellery" a="le bijou"/>
                 <item q="blogger" a="le bloggeur"/>
                 <item q="inbox" a="la boîte aux lettres "/>
@@ -6086,20 +6086,20 @@ Revison (level 4)
                 <item q="to guess/work out" a="deviner"/>
                 <item q="distractions" a="les distractions (f)"/>
                 <item q="vending machine/cash point" a="le distributeur automatique"/>
-                <item q="scarf" a="l’écharpe (f)"/>
+                <item q="scarf" a="l'écharpe (f)"/>
                 <item q="chess" a="les échecs (m)"/>
-                <item q="touch screen" a="l’écran tactile (m)"/>
+                <item q="touch screen" a="l'écran tactile (m)"/>
                 <item q="to rub out/erase/wipe" a="effacer"/>
                 <item q="to pack/package/wrap" a="emballer"/>
                 <item q="to borrow" a="emprunter"/>
-                <item q="to bore (get bored)" a="(s’) ennuyer"/>
+                <item q="to bore (get bored)" a="(s') ennuyer"/>
                 <item q="to record" a="enregistrer"/>
-                <item q="climbing" a="l’escalade (f)"/>
+                <item q="climbing" a="l'escalade (f)"/>
                 <item q="to be reimbursed" a="être remboursé"/>
-                <item q="event" a="l’événement (m)"/>
+                <item q="event" a="l'événement (m)"/>
                 <item q="to window shop" a="faire du lèche-vitrine"/>
                 <item q="(annual) closing" a="la fermeture (annuelle)"/>
-                <item q="firework" a="le feu d’artifice"/>
+                <item q="firework" a="le feu d'artifice"/>
                 <item q="to leaf/skim through" a="feuilleter"/>
                 <item q="darts" a="les fléchettes"/>
                 <item q="florist" a="le/la fleuriste"/>
@@ -6107,7 +6107,7 @@ Revison (level 4)
                 <item q="super/hypermarket" a="la grande surface"/>
                 <item q="safety gate" a="la grille de sécurité"/>
                 <item q="gymnasium" a="le gymnase"/>
-                <item q="icon" a="l’icône (f)"/>
+                <item q="icon" a="l'icône (f)"/>
                 <item q="to print" a="imprimer"/>
                 <item q="bank holiday" a="le jour férié"/>
                 <item q="to throw" a="lancer"/>
@@ -6121,9 +6121,9 @@ Revison (level 4)
                 <item q="monitor/instructor" a="le moniteur"/>
                 <item q="crossword" a="les mots croisés (m)"/>
                 <item q="weightlifting/body-building" a="la musculation"/>
-                <item q="home page" a="la page d’accueil"/>
+                <item q="home page" a="la page d'accueil"/>
                 <item q="educational/instructive" a="pédagogique"/>
-                <item q="(ear) piercing" a="le piercing (à l’oreille)"/>
+                <item q="(ear) piercing" a="le piercing (à l'oreille)"/>
                 <item q="battery" a="la pile"/>
                 <item q="surfboard" a="la planche de surf"/>
                 <item q="CD player" a="la platine laser"/>
@@ -6150,14 +6150,14 @@ Revison (level 4)
                 <item q="Word processing" a="le traitement de texte"/>
            </topic>
            <topic name="31. Holidays">
-                <item q="rest area" a="l’aire de repos"/>
+                <item q="rest area" a="l'aire de repos"/>
                 <item q="to land" a="atterrir"/>
-                <item q="opinion/notice" a="l’avis (m)"/>
+                <item q="opinion/notice" a="l'avis (m)"/>
                 <item q="bistro/café" a="le bistro"/>
                 <item q="toilet block" a="le bloc sanitaire"/>
                 <item q="brewery" a="la brasserie"/>
                 <item q="helmet" a="le casque"/>
-                <item q="guesthouse" a="la chambre d’hôte "/>
+                <item q="guesthouse" a="la chambre d'hôte "/>
                 <item q="railway" a="le chemin de fer"/>
                 <item q="air conditioning" a="la climatisation"/>
                 <item q="letters/correspondence" a="la correspondance"/>
@@ -6167,7 +6167,7 @@ Revison (level 4)
                 <item q="to guide/steer/direct" a="diriger"/>
                 <item q="to overtake" a="doubler"/>
                 <item q="(coming) from" a="en provenance de"/>
-                <item q="state" a="l’état (m)"/>
+                <item q="state" a="l'état (m)"/>
                 <item q="border" a="la frontière"/>
                 <item q="to show/indicate" a="indiquer"/>
                 <item q="rent" a="le loyer"/>
@@ -6176,7 +6176,7 @@ Revison (level 4)
                 <item q="level" a="le niveau"/>
                 <item q="sign" a="le panneau"/>
                 <item q="to seem/appear" a="paraître"/>
-                <item q="theme park" a="le parc d’attractions"/>
+                <item q="theme park" a="le parc d'attractions"/>
                 <item q="level crossing" a="le passage à niveau"/>
                 <item q="landscape/scenery" a="le paysage"/>
                 <item q="loss" a="la perte"/>
@@ -6192,7 +6192,7 @@ Revison (level 4)
            <topic name="32. Home and Local Area">
                 <item q="to turn/switch on" a="allumer"/>
                 <item q="to press/lean" a="appuyer"/>
-                <item q="district/quarter" a="l’arrondissement (m)"/>
+                <item q="district/quarter" a="l'arrondissement (m)"/>
                 <item q="baptism" a="le baptême"/>
                 <item q="DIY" a="le bricolage"/>
                 <item q="noisy" a="bruyant"/>
@@ -6201,10 +6201,10 @@ Revison (level 4)
                 <item q="to cover" a="couvrir"/>
                 <item q="to look out onto" a="donner sur"/>
                 <item q="hard" a="dur"/>
-                <item q="ladder" a="l’échelle"/>
+                <item q="ladder" a="l'échelle"/>
                 <item q="surrounded" a="entouré"/>
                 <item q="green spaces" a="les espaces verts (m)"/>
-                <item q="shelf" a="l’étagère (f)"/>
+                <item q="shelf" a="l'étagère (f)"/>
                 <item q="to turn/switch off" a="éteindre"/>
                 <item q="armchair" a="le fauteuil"/>
                 <item q="sheet" a="la feuille"/>
@@ -6212,11 +6212,11 @@ Revison (level 4)
                 <item q="forest" a="la forêt"/>
                 <item q="loft/attic" a="le grenier"/>
                 <item q="hedge" a="la haie"/>
-                <item q="grass" a="l’herbe"/>
-                <item q="clock" a="l’horloge (f)"/>
-                <item q="flood" a="l’inondation (f)"/>
+                <item q="grass" a="l'herbe"/>
+                <item q="clock" a="l'horloge (f)"/>
+                <item q="flood" a="l'inondation (f)"/>
                 <item q="public park" a="le jardin public"/>
-                <item q="new year’s day" a="le jour de l’an"/>
+                <item q="new year's day" a="le jour de l'an"/>
                 <item q="twinned" a="jumelé"/>
                 <item q="bunkbeds" a="les lits superposés"/>
                 <item q="carpet" a="la moquette"/>
@@ -6224,7 +6224,7 @@ Revison (level 4)
                 <item q="picturesque" a="pittoresque"/>
                 <item q="to tidy" a="ranger"/>
                 <item q="tap" a="le robinet"/>
-                <item q="New Year’s Eve" a="la Saint-Sylvestre"/>
+                <item q="New Year's Eve" a="la Saint-Sylvestre"/>
                 <item q="of no interest/importance" a="sans intérêt"/>
                 <item q="spacious" a="spacieux"/>
                 <item q="soil/ground/earth" a="la terre"/>
@@ -6237,22 +6237,22 @@ Revison (level 4)
                 <item q="coal" a="le charbon"/>
                 <item q="moderated consumption" a="la consommation (moderée)"/>
                 <item q="to build" a="construire"/>
-                <item q="ozone layer" a="la couche d’ozone"/>
+                <item q="ozone layer" a="la couche d'ozone"/>
                 <item q="to believe" a="croire"/>
                 <item q="deforestation" a="le déboisement"/>
                 <item q="rubbish/waste" a="les détritus (m)"/>
                 <item q="to destroy" a="détruire"/>
                 <item q="disappear" a="disparaître"/>
-                <item q="greenhouse effect" a="l’effet de serre (m)"/>
-                <item q="packaging" a="l’emballage (m)"/>
-                <item q="traffic jam" a="l’embouteillage (m)"/>
+                <item q="greenhouse effect" a="l'effet de serre (m)"/>
+                <item q="packaging" a="l'emballage (m)"/>
+                <item q="traffic jam" a="l'embouteillage (m)"/>
                 <item q="to damage/harm" a="endommager"/>
-                <item q="species" a="l’espèce (f)"/>
+                <item q="species" a="l'espèce (f)"/>
                 <item q="carbon dioxide" a="le gaz carbonique"/>
-                <item q="exhaust fumes" a="le gaz d’échappement "/>
+                <item q="exhaust fumes" a="le gaz d'échappement "/>
                 <item q="war" a="la guerre"/>
-                <item q="peak time / rush hour" a="les heures d’affluence"/>
-                <item q="fire" a="l’incendie (m)"/>
+                <item q="peak time / rush hour" a="les heures d'affluence"/>
+                <item q="fire" a="l'incendie (m)"/>
                 <item q="light" a="la lumière"/>
                 <item q="global" a="mondial"/>
                 <item q="filth/waste/rubbish" a="les ordures (f)"/>
@@ -6263,7 +6263,7 @@ Revison (level 4)
                 <item q="renewable" a="renouvelable"/>
                 <item q="overpopulated" a="surpeuplé"/>
                 <item q="earthquake" a="le tremblement de terre"/>
-                <item q="hole in the ozone layer" a="le trou d’ozone"/>
+                <item q="hole in the ozone layer" a="le trou d'ozone"/>
                 <item q="wave" a="la vague"/>
                 <item q="well equipped" a="bien équipé"/>
                 <item q="school bus" a="le car de ramassage "/>
@@ -6275,13 +6275,13 @@ Revison (level 4)
                 <item q="to fail" a="échouer"/>
                 <item q="to prevent/stop" a="empêcher"/>
                 <item q="to teach" a="enseigner"/>
-                <item q="enthusiasm" a="l’enthousiasme (m)"/>
-                <item q="explanation" a="l’explication (f)"/>
+                <item q="enthusiasm" a="l'enthousiasme (m)"/>
+                <item q="explanation" a="l'explication (f)"/>
                 <item q="college/faculty/university" a="la faculté"/>
                 <item q="to hit" a="frapper"/>
                 <item q="incivilities " a="les incivilités (m)"/>
-                <item q="citizenship" a="l’instruction civique (f)"/>
-                <item q="religious education" a="l’instruction religieuse (f)"/>
+                <item q="citizenship" a="l'instruction civique (f)"/>
+                <item q="religious education" a="l'instruction religieuse (f)"/>
                 <item q="modern languages" a="les langues vivantes (f)"/>
                 <item q="degree" a="la licence"/>
                 <item q="badly equipped" a="mal équipé"/>
@@ -6292,7 +6292,7 @@ Revison (level 4)
                 <item q="to repeat a year/to be held back a year" a="redoubler"/>
                 <item q="detention" a="la retenue"/>
                 <item q="to succeed" a="réussir"/>
-                <item q="IT room" a="la salle d’informatique"/>
+                <item q="IT room" a="la salle d'informatique"/>
                 <item q="staff room" a="la salle des professeurs"/>
                 <item q="worry" a="le souci"/>
                 <item q="overworked" a="surchargé"/>
@@ -6306,32 +6306,32 @@ Revison (level 4)
            </topic>
            <topic name="34. Current and Future Jobs">
                 <item q="to improve" a="améliorer"/>
-                <item q="telephone book" a="l’annuaire (m)"/>
+                <item q="telephone book" a="l'annuaire (m)"/>
                 <item q="to reassure" a="assurer"/>
-                <item q="author" a="l’auteur"/>
-                <item q="warning" a="l’avertissement (m)"/>
-                <item q="lawyer" a="l’avocat"/>
+                <item q="author" a="l'auteur"/>
+                <item q="warning" a="l'avertissement (m)"/>
+                <item q="lawyer" a="l'avocat"/>
                 <item q="middle manager/executive" a="le cadre"/>
                 <item q="accountant" a="le comptable"/>
                 <item q="contract" a="le contrat"/>
                 <item q="professional course" a="le cours professionnel"/>
-                <item q="job application" a="la demande d’emploi"/>
-                <item q="writer" a="l’écrivain (m)"/>
+                <item q="job application" a="la demande d'emploi"/>
+                <item q="writer" a="l'écrivain (m)"/>
                 <item q="enriching/rewarding" a="enrichissant"/>
-                <item q="interview" a="l’entretien (m)"/>
-                <item q="test" a="l’épreuve (f)"/>
+                <item q="interview" a="l'entretien (m)"/>
+                <item q="test" a="l'épreuve (f)"/>
                 <item q="cleaner" a="la femme de ménage"/>
-                <item q="trade show " a="la foire d’exposition"/>
-                <item q="house husband" a="l’homme au foyer (m)"/>
-                <item q="IT engineer" a="l’informaticien (m)"/>
-                <item q="interpreter" a="l’interprète (m/f)"/>
+                <item q="trade show " a="la foire d'exposition"/>
+                <item q="house husband" a="l'homme au foyer (m)"/>
+                <item q="IT engineer" a="l'informaticien (m)"/>
+                <item q="interpreter" a="l'interprète (m/f)"/>
                 <item q="gardener" a="le jardinier"/>
                 <item q="to fire/sack/dismiss" a="licencier"/>
                 <item q="law" a="la loi"/>
                 <item q="builder/bricklayer" a="le maçon"/>
                 <item q="model (fashion)" a="le mannequin"/>
-                <item q="job offer" a="l’offre d’emploi (f)"/>
-                <item q="labourer" a="l’ouvrier (m)"/>
+                <item q="job offer" a="l'offre d'emploi (f)"/>
+                <item q="labourer" a="l'ouvrier (m)"/>
                 <item q="training programme" a="le programme de formation"/>
                 <item q="to care for/treat/tend" a="soigner"/>
                 <item q="care/tidiness" a="le soin"/>
@@ -6349,7 +6349,7 @@ Revison (level 4)
     -->    
     <course name="GCSE Revision">
     
-        <lesson name="GCSE Speaking Exam">
+        <lesson name="GCSE Speaking Exam (1)">
             <topic name="1. Tell me about your diet ">
                 <item a="Je crois que je mange sainement parce que je mange beaucoup de fruits pendant la journée et des légumes pour le dîner" q="sainement journée" h="Sainment (JC) fruit during day veg for dinner"/>
                 <item a="Pourtant j'aime manger des biscuits en particulier avec le thé" q="biscuits" h="Biscuits (PJJT)"/>
@@ -6390,7 +6390,7 @@ Revison (level 4)
             </topic>
         </lesson>
         
-        <lesson name="GCSE Writing Exam">
+        <lesson name="GCSE Writing Exam (1)">
             <topic name="Part 1">
                 <item a="Nous sommes six dans notre famille. Mon père est constructeur et il est mince et chauve" q="constructeur"/>
                 <item a="Ma mère est femme au foyer et elle a les cheveux gris" q="cheveux"/>
@@ -6432,6 +6432,48 @@ Revison (level 4)
             </topic>
         </lesson>
         
+        <lesson name="GCSE Speaking Exam (2)">
+            <topic name="1. What is your favourite Holiday Destination?">
+                <item a="À mon avis, ma destination préférée est la France, c'est génial!" q="destination" h="génial*"/>
+                <item a="J'y suis allé plusieurs fois et j'espère y retourner pour plusieurs raisons" q="plusieurs"/>
+                <item a="Pour ma femme et moi, les choses les plus importantes sont la culture et la gastronomie ce dont la France a beaucoup" q="importantes" h="gastronomie*"/>
+                <item a="Par exemple, j'aime une variété de cuisines du monde, mais c'est la nourriture française que j'adore le plus, c'est fantastique!" q="variété"/>
+                <item a="Également, la France est un grand pays avec beaucoup à voir et à faire donc on ne la trouve pas ennuyeux" q="Également" h="grand*"/>
+                <item a="Dans les grandes villes comme Paris et Lyon il y a beaucoup de culture y compris des musées, des galeries d'art et des monuments historiques" q="culture"/>
+            </topic>            
+            <topic name="2. How do you travel and what type of accommodation do you prefer? Give Reasons">  
+                <item a="Je préfère voyager en avion parce que je n'aime pas voyager et on arrive à la destination plus vite" q="avion"/>
+                <item a="Si je vais à une ville je préfère les trains aux bus parce que je les trouve plus relaxants et j'adore le métro" q="trains" h="relaxants*"/>
+                <item a="Par contre, si je reste à la campagne, je préfère louer une voiture" q="contre"/>
+                <item a="Généralement, ma femme et moi ne restent pas dans des hôtels de luxe et sont heureux de rester dans des auberges ou des hôtels moins chers" q="Généralement, auberges" h="luxe*" />
+                <item a="Par conséquent, nous avons plus d'argent à dépenser pour des repas agréables et pouvons aller voir plus de sites" q="conséquent" h="dépenser*"/>
+             </topic>
+            <topic name="3. Do you prefer to be active or to relax on holiday? Why?">
+                <item a="Quand j'étais jeune j'aimais les vacances avec beaucoup d'activités telles que le camping, les sports nautiques et l'alpinisme" q="jeune, nautiques" h="alpin is me"/>
+                <item a="Maintenant, je préfère les séjours en ville mais je vais encore faire du camping et de la randonnée à l'occasion" q="Maintenant" h="randonnée*"/>
+                <item a="Je déteste les bains de soleil car je trouve que ne rien faire toute la journée est extrêmement ennuyeux" q="détester"/>
+             </topic>
+            <topic name="4. Where did you go on holiday last year? How was it?">
+                <item a="L'année dernière, ma femme et moi sont allés en France pendant une semaine" q="dernière"/>
+                <item a="Nous avons pris un vol à destination de Paris CDG et nous avons loué une voiture" q="vol, louer" h="NA2"/>
+                <item a="La première nuit, nous sommes restés dans une cabine dans les arbres!" q="première" h="NS1, D2"/>
+                <item a="C'était un hébergement insolite et nous avons passé une nuit inoubliable" q="hébergement, inoubliable" h="NA1"/>
+                <item a="Pendant les vacances, nous avons visité plusieurs villes comme Fontainebleau, Beaune, Dijon et Lyon et nous avons visité nombreux musées, un château et nous sommes allés à un bon restaurant chaque nuit" q="Pendant" h="NAV2, NSA1, villes*"/>
+                <item a="A Dijon, nous avons mangés dans un restaurant dans le vieux quartier et après nous avons perdu notre voiture!" q="manger, perdre" h="NA2"/>
+                <item a="Finalement, après deux heures nous l'avons trouvé autrement nous aurions dû téléphoner à la police!" q="Finalement, autrement*"/>
+             </topic>
+             <topic name="5. What would be your ideal holiday?">
+                <item a="Mes vacances idéales seraient de faire le tour du monde et visiter de nombreux pays et cultures" q="idéales, tour"/>
+                <item a="Je voudrais faire une variété d'activités selon le pays et le lieu" q="vouloir" h="selon*"/>
+                <item a="Pendant la journée je ferais de la planche à voile et du ski nautique parce que j'aime faire du ski depuis mon enfance" q="planche" h="enfance*"/>
+                <item a="Pendant le soir j'irais aux meilleurs restaurants et je boirais du meilleur vin!" q="meilleurs" h="M2"/>
+                <item a="Pour moi, je préfère rester deux ou trois nuits au maximum dans le même lieu puis aller à une autre ville" q="maximum, lieu"/>
+                <item a="Les meilleures vacances que j'aie eues étaient mes vacances à vélo dans le sud de la France" q="vélo"/>
+                <item a="Nous avons pédalé de Nice à Saint-Tropez le long de la mer environ trente kilomètres par jour" q="pédaler, environ"/>
+                <item a="C'était formidable!" q="formidable"/>
+            </topic>
+        </lesson>
+               
     </course>    
 
 </language>

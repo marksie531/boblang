@@ -939,6 +939,7 @@ public class BobLangPanel extends JPanel implements ActionListener, CaretListene
         if (curInput != null) {
             int pos = curInput.getCaretPosition();
             try {
+                curInput.replaceSelection("");
                 curInput.getDocument().insertString(pos, symbol, null);
             }
             catch (BadLocationException e) {
