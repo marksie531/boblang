@@ -1,0 +1,1 @@
+This little tool helps you learn a language by presenting questions and answers.  It is organised by course, lesson and topic (e.g. course 1, lesson 7, topic "french professions").
